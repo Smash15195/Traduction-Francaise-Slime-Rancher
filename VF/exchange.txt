@@ -1,0 +1,42 @@
+# Translations for the various bits that are specific to Range Exchange offers
+
+# Rancher names
+m.rancher.thora = Thora West
+m.rancher.viktor = Viktor Humphries
+m.rancher.ogden = Ogden Ortiz
+m.rancher.mochi = Mochi Miles
+m.rancher.bob = BOb
+
+# Mission flavortext
+m.offer_1.thora = Quelles sont les chances qu'une blanc-bec réunisse tout ça ?
+m.offer_2.thora = Vous ne supposez pas que je pousse le bouchon un peu loin ?
+m.offer_3.thora = J'ai pas dormi la nuit dernière et j'ai besoin de quelques trucs.
+m.offer_4.thora = La meilleure partie de ce boulot ? Vous entendez toutes ces voitures et personnes ? Ouais, moi non plus.
+m.offer_5.thora = Vous déjà essayez le lasso sur un slime ? Vous comprenez pourquoi le vacpack est un appareil évident maintenant.
+m.bonusoffer.thora = J'offre une tournée si vous pouvez m'avoir tout cela rapidement !
+
+m.offer_1.viktor = Si possible, veuillez acquérir ce qui suit pour une étude future. Mes remerciements.
+m.offer_2.viktor = Les slimes radiant sont-ils une évolution naturelle ou le résultat d'une exposition à des matières étrangères ?
+m.offer_3.viktor = Avez-vous déjà vu un Django Tigré ? Bien sûr que non, vous pouvez uniquement l'entendre. Pardonnez-moi, c'était une blague
+m.offer_4.viktor = Si vous écoutez très attentivement, vous pouvez entendre les cellules d'un slime boom vibrer. Mais ne les écoutez pas trop longtemps.
+m.bonusoffer.viktor = Je crains que l'un mes sujets d'études soit disparu, eh bien, veuillez m'obtenir d'autre de ces choses !
+
+m.offer_1.ogden = Je travaille sur une nouvelle recette. Pouvez-vous m'aider ?
+m.offer_2.ogden = Manger des carottes vous aidera à voir dans le noir !
+m.offer_3.ogden = La meilleure partie d'une orange est sa peau. Mais la chair est bonne aussi.
+m.offer_4.ogden = Quelques fois j'aime faire une sieste dans une couverture. Mais ces satanés slimes boom me réveil tout le temps !
+m.offer_5.ogden = Punch Festif d'Ogden: 1 morceau de pogofruit, 1 morceau de picopoire et 2 volume de rhum. Une gorgée et vous roulez sous la table !
+m.bonusoffer.ogden = Je suis dans un vrai pétrin !
+
+m.offer_1.mochi = J'ai besoin de ces plorts dare-dare, quoi que cela puisse vouloir dire.
+m.offer_2.mochi = La dernière chose dont j'ai envie et de vous faire passer pour un nul. Mais c'est sur ma liste.
+m.offer_3.mochi = Je vous promets que c'est une bonne affaire, peau de banane.
+m.offer_4.mochi = Mes compétences en élevage vont vous mettre mal à l'aise, ver de terre !
+m.offer_5.mochi = Faisons affaire, limonade.
+m.bonusoffer.mochi = Mon toast est dans une impasse ! Vous aiderez bien un pote non ?
+
+m.offer_1.bob = pOulEt ? pouxlaits.
+m.offer_2.bob = askjhsfdkjh !!
+m.offer_3.bob = cOUcOU. pouLET. OKs ?
+m.offer_4.bob = ok oKok OK, OK!!  pouLEt ok?
+m.bonusoffer.bob = POULLETT! askjasdljhsdfjkhasdlasdlkajs !!!!!

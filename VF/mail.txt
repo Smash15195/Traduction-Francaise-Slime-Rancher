@@ -1,0 +1,72 @@
+# Contents of starmail in the game.
+
+m.subj.welcome = Bienvenue au Pays Fort Lointain
+m.from.welcome = La Corporation 7Zee
+m.body.welcome = Mme LeBeaux, \n\n\
+	La Corporation 7Zee vous souhaite la bienvenue dans le Pays Fort Lointain et nos encouragements dans votre \
+	nouvelle entreprise audacieuse en tant qu'éleveur de slime. Nous sommes impatients de vous voir nous fournir un flux \
+	constant de plorts pour lesquels nous vous paierons grassement. \n\n\
+	Nous tenons également à vous demander de faire preuve de prudence sur le terrains. Jusqu'à ce que vous puissiez mieux \
+	vous familiariser avec votre environnement. Les escapades nocturne sont déconseillées. \n\n\
+	Enfin, si vous avez besoin d'améliorations pour votre vacpack la Corporation 7Zee sera heureuse de vous les fournir \
+	via la boutique située juste à l'extérieur de votre pied-à-terre. \n\n\
+	Bonne chance et fortune, Mme LeBeaux. \n\
+	- La Corporation 7Zee
+
+### Exchange Intro mails
+m.subj.exchangeintro_thora = Bienvenue sur la Bourse Plort !
+m.from.exchangeintro_thora = Thora West
+m.body.exchangeintro_thora = Bonjour, Beatrix ! Je suis Thora West. Je vais me présenter brièvement, nous avons tous du travail à faire: je suis une éleveuse de longue date ici au Pays Fort Lointain et votre marraine d'introduction sur le Marché Lointain.\n\n\
+  Le Marché Lointain est un réseau d'éleveurs tout comme vous qui cherchent à échanger ce qu'ils ont obtenu contre ce dont ils ont besoin, que ce soit: des slimes, des plorts ou de la nourriture. Tout ce que vous devez faire est de vérifier la machine du Marché Lointain tous les jours et honorer une demande avant midi.\n\n\
+  Plusieurs éleveurs ont été ajoutés à votre réseau, vous devriez recevoir un message chaleureux d'eux, pensez à vérifier votre boîte de réception.\n\n\
+  Bien, assez jacassé, nous avons toute les deux des slimes sur le feu.\n\n\
+  Adios, Beatrix.\n\n\
+  - Thora
+
+m.subj.exchangeintro_viktor = Salutations, Mme LeBeaux
+m.from.exchangeintro_viktor = Viktor Humphries
+m.body.exchangeintro_viktor = Permettez-moi de me présenter. Je suis Victor Humphries; éleveur professionnel de slimes ordinaires, spéciaux et musicien amateur. Je crois comprendre que Mme West vous a déjà informé de la façon dont le Marché Lointain fonctionne donc je vais vous épargner toute nouvelles explications.\n\n\
+  Au lieu de cela, je vais vous éclairer sur ce que vous pouvez attendre de mes propres requêtes. En tant que rancher scientifique, je voue un énorme intérêt à toutes les formes liquide que nous croisons dans ce vaste pays. Mes expériences m'empêchent souvent de partir en trouver et quand je me retrouve à court d'une espèce particulière, j'utilise le Marché Lointain pour combler cette lacune. Ne vous inquiétez pas, je vous dédommagerais grassement pour vos efforts.\n\n\
+  Bonne chance dans votre nouvelle entreprise, Mme LeBeaux. Je suis impatient de voir la vie reprendre dans l'ancien Ranch des Twillgers.\n\n\
+  Sincèrement,\n\
+  Viktor Humphries\n\n\
+  P.S. - Une fois, j'ai perdu mon violon favori en fuyant un slime boom sauvage. Sa valeur est sentimentale mais j'aimerais que vous le retrouviez, j'aimerais tellement être en mesure d'en jouer à nouveau.
+
+m.subj.exchangeintro_ogden = Coucou Beatrix !
+m.from.exchangeintro_ogden = Ogden Ortiz
+m.body.exchangeintro_ogden = Je me nomme Ogden Ortiz. Je suis un slime rancher comme vous mais je préfère le terme de fermier. Je suis venu dans le Pays Fort Lointain pour faire pousser des fruits et des légumes avec une technique d'avant-garde : par enfouissement dans le sol.\n\n\
+  Saviez-vous que les carottes améliorer la vision de nuit ? Ouais, sérieusement, c'est vrai ! Je ne comprends pas pourquoi les ranchers se contentent de les engloutir sans réfléchir. Être perdu dans le pays la nuit peut être très dangereux...\n\n\
+  Eh bien, je vais arrêter de radoter. Nous serons en contact via le Marché Lointain. Je tends à élever uniquement des slimes qui mangent des fruits et légumes, alors attendez-vous à ce genre de demandes de ma part.\n\n\
+  Au plaisir de faire des affaires avec vous !\n\n\
+  O.O.\n\n\
+  P.S. - Jamais entendu parler de gingembre dorée ? C'est un légume mythique, on dit que c'est la nourriture préférée des tout autant mythiques slimes dorés. Mais certains disent qu'ils n'existent réellement!
+
+m.subj.exchangeintro_mochi = (pas de sujet)
+m.from.exchangeintro_mochi = Mochi Miles
+m.body.exchangeintro_mochi = Oh oh, on dirait bien qu'un nouveau rancher junior a signé pour une existence de solitude dans ce désert de rocheux. Félicitation Beatrix!\n\n\
+  Je suis Mochi Miles. Le 'Miles' de Tatsuya Miles, le milliardaire. Je suis ici pour d'importante affaires pour mon père mais cela ne veut pas dire que je ne me donne pas à fond dans mon travail. Personne ne maitrise mieux la Bourse Plort que moi: de jour comme de nuit.\n\n\
+  Mon père m'a donné des pistes à suivre pour avoir des plorts avec lesquels je pourrais faire d'énorme profit à long terme.\n\n\
+  Donc, je vous souhaite bonne chances, Beatrix. Peut-être atteindrez-vous la seconde place, qui sait ! Au moins vous pourrez dire à vos amis que vous avez aidé la grande Mochi Miles dans sa conquête du Pays Fort Lointain !\n\n\
+  A plus tard, petite patate.\n\n\
+  Mochi Miles, Meilleure Rancher du Pays Fort Lointain
+
+m.subj.exchangeintro_bob = bonjouuuuuuur
+m.from.exchangeintro_bob = BOb
+m.body.exchangeintro_bob = Bonjour,,\n\
+  bonjourbonjouuuur......pouleTs.\n\
+  bonjourPOulets.\n\
+  pouLET.\n\n\
+  bonjour,\n\
+  BOb\n\n\
+  PSs.-- poulTs
+
+
+### Personal mails
+#m.subj.casey_1 = Casey Mail 1
+#m.from.casey_1 = TBD
+#m.body.casey_1 = TBD
+
+#m.subj.casey_2 = Casey Mail 2
+#m.from.casey_2 = TBD
+#m.body.casey_2 = TBD
+

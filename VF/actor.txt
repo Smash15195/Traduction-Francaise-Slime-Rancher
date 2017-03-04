@@ -1,0 +1,123 @@
+# Names of the identifiable actors in the game.
+
+l.rad_slime = Slime Radiant
+l.rock_slime = Slime Rocheux
+l.pink_slime = Slime Rose
+l.boom_slime = Boom Slime
+l.phosphor_slime = Slime Luciole
+l.honey_slime = Slime Mielleux
+l.tabby_slime = Slime Tigré
+l.hunter_slime = Slime Chasseur
+l.puddle_slime = Slime Flasque
+l.crystal_slime = Slime Cristallin
+l.quantum_slime = Slime Quantique
+
+l.tarr_slime = Slime Tarr
+l.gold_slime = Slime Doré
+l.lucky_slime = Slime Porte-bonheur
+
+l.pink_rock_largo = Dodu Rose Rocheux
+l.rad_rock_largo = Dodu Radiant Rocheux
+l.pink_rad_largo = Dodu Rose Radiant
+l.pink_boom_largo = Dodu Boom Rose
+l.boom_rock_largo = Dodu Boom Rocheux
+l.boom_rad_largo = Dodu Boom Radiant
+l.phosphor_rock_largo = Dodu Luciole Rocheux
+l.boom_phosphor_largo = Dodu Boom Luciole
+l.phosphor_rad_largo = Dodu Luciole Radiant
+l.pink_phosphor_largo = Dodu Rose Luciole
+l.pink_tabby_largo = Dodu Rose Tigré
+l.boom_tabby_largo = Dodu Boom Tigré
+l.rad_tabby_largo = Dodu Radiant Tigré
+l.rock_tabby_largo = Dodu Rocheux Tigré
+l.phosphor_tabby_largo = Dodu Luciole Tigré
+l.pink_hunter_largo = Dodu Rose Chasseur
+l.boom_hunter_largo = Dodu Boom Chasseur
+l.rad_hunter_largo = Dodu Radiant Chasseur
+l.rock_hunter_largo = Dodu Rocheux Chasseur
+l.phosphor_hunter_largo = Dodu Luciole Chasseur
+l.tabby_hunter_largo = Dodu Tigré Chasseur
+l.pink_honey_largo = Dodu Rose Mielleux
+l.honey_hunter_largo = Dodu Mielleux Chasseur
+l.honey_boom_largo = Dodu Mielleux Boom
+l.honey_rad_largo = Dodu Mielleux Radiant
+l.honey_rock_largo = Dodu Mielleux Rocheux
+l.honey_phosphor_largo = Dodu Mielleux Luciole
+l.honey_tabby_largo = Dodu Mielleux Tigré
+l.pink_crystal_largo = Dodu Rose Cristallin
+l.rock_crystal_largo = Dodu Rocheux Cristallin
+l.tabby_crystal_largo = Dodu Tigré Cristallin
+l.phosphor_crystal_largo = Dodu Luciole Cristallin
+l.boom_crystal_largo = Dodu Boom Cristallin
+l.rad_crystal_largo = Dodu Radiant Cristallin
+l.honey_crystal_largo = Dodu Mielleux Cristallin
+l.hunter_crystal_largo = Dodu Chasseur Cristallin
+l.pink_quantum_largo = Dodu Rose Quantique
+l.quantum_honey_largo = Dodu Mielleux Quantique
+l.quantum_rad_largo = Dodu Radiant Quantique
+l.quantum_boom_largo = Dodu Boom Quantique
+l.quantum_phosphor_largo = Dodu Luciole Quantique
+l.quantum_tabby_largo = Dodu Tigré Quantique
+l.quantum_hunter_largo = Dodu Chasseur Quantique
+l.quantum_crystal_largo = Dodu Cristallin Quantique
+
+l.rad_plort = Plort Radiant
+l.rock_plort = Plort Rocheux
+l.pink_plort = Plort Rose
+l.boom_plort = Plort Boom
+l.phosphor_plort = Plort Luciole
+l.honey_plort = Plort Mielleux
+l.tabby_plort = Plort Tigré
+l.hunter_plort = Plort Chasseur
+l.puddle_plort = Plort Flasque
+l.crystal_plort = Plort Cristal
+l.quantum_plort = Plort Quantique
+
+l.gold_plort = Plort Doré
+
+l.cuberry_fruit = Cubifraise
+l.mango_fruit = Manguamenthe
+l.pear_fruit = Picopoire
+l.pogo_fruit = Pogofruit
+
+l.carrot_veggie = Carotte
+l.ocaoca_veggie = Oca Oca
+l.parsnip_veggie = Parnargent
+l.beet_veggie = Betteramour
+l.onion_veggie = Sogroignon
+
+l.hen = Cocotte
+l.rooster = Cocoq
+l.chick = Poussinou
+l.elder_hen = Mamipoule
+l.elder_rooster = Papicoq
+l.stony_hen = Rococotte
+l.stony_chick = Rococoq
+l.briar_hen = Camopoule
+l.briar_chick = Camocoq
+
+l.water_liquid = Eau
+
+l.primordy_oil_craft = Huile Originelle
+l.deep_brine_craft = Saumure Profonde
+l.spiral_steam_craft = Vapeur Spirale
+l.lava_dust_craft = Poussière de Lave
+l.buzz_wax_craft = Cire Bourdonnante
+l.wild_honey_craft = Miel Sauvage
+l.hexacomb_craft = Hexacomb
+l.royal_jelly_craft = Gelée Royale
+l.jellystone_craft = Jellystone
+l.indigonium_craft = Indigonium
+l.slime_fossil_craft = Fossile de Slime 
+l.strange_diamond_craft = Étrange Diamant
+
+l.handlebar_fashion = Moustache Distinguée
+l.shady_fashion = Lunettes de Soleil
+l.clip_on_fashion = Noeud Papillon
+l.googly_fashion = Yeux Maboules
+l.serious_fashion = Sourcils Sérieux
+l.smart_fashion = Lunettes
+l.dandy_fashion = Monocle
+l.cute_fashion = Boucles d'oreilles
+l.royal_fashion = Tiare
+l.remover_fashion = Dissolvant Anti-Fashion

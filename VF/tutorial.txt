@@ -1,0 +1,138 @@
+# Tutorial Entries Text
+
+t.basic_movement = Marchons !
+m.input.basic_movement.1 = Z
+m.inputdesc.basic_movement.1 = Avancer
+m.input.basic_movement.2 = Q
+m.inputdesc.basic_movement.2 = Gauche
+m.input.basic_movement.3 = S
+m.inputdesc.basic_movement.3 = Reculer
+m.input.basic_movement.4 = D
+m.inputdesc.basic_movement.4 = Droite
+m.input.gamepad.basic_movement.1 = Déplacement
+m.inputdesc.gamepad.basic_movement.1 = déplacement
+
+t.jumping = Le grand saut !
+m.input.jumping.1 = Espace
+m.inputdesc.jumping.1 = sauter
+m.input.jumping.2 = Maintenir MAJ (Shift)
+m.inputdesc.jumping.2 = courir
+m.input.gamepad.jumping.1 = Sauter
+m.inputdesc.gamepad.jumping.1 = sauter
+m.input.gamepad.jumping.2 = Courir
+m.inputdesc.gamepad.jumping.2 = courir
+
+t.vaccing = Aspirer comme un vrai rancher
+m.text.vaccing = Votre vacpack peut aspirer des choses et les stocker dans son réservoir.
+m.input.vaccing.1 = Maint. clic droit de souris
+m.inputdesc.vaccing.1 = aspiration
+m.input.gamepad.vaccing.1 = Aspiration
+m.inputdesc.gamepad.vaccing.1 = aspiration
+
+t.shooting = Vous avez aspiré un slime !
+m.text.shooting = Les Slimes sont la clé du succès. Tirez-les AU-TRAVERS des barrières de l'enclos de votre ranch.
+m.input.shooting.1 = Molette de souris
+m.inputdesc.shooting.1 = choisir un réservoir
+m.input.shooting.2 = Maint. clic gauche de souris
+m.inputdesc.shooting.2 = tirer
+m.input.gamepad.shooting.1 = Réservoir préc.
+m.inputdesc.gamepad.shooting.1 = sélection réservoir précédent
+m.input.gamepad.shooting.2 = Réservoir suiv.
+m.inputdesc.gamepad.shooting.2 = sélection réservoir suivant
+m.input.gamepad.shooting.3 = Tirer
+m.inputdesc.gamepad.shooting.3 = tirer
+
+t.food = Nourriture Savoureuse Acquise !
+m.text.food = La nourriture comme les fruits, les légumes ou les poulets sont utile pour nourrir les slimes. Essayez de tirer de la nourriture sur un slime rose; Ils mangent de tout.
+m.input.food.1 = Molette de souris
+m.inputdesc.food.1 = choisir un réservoir
+m.input.food.2 = Maint. clic gauche de souris
+m.inputdesc.food.2 = tirer
+m.input.gamepad.food.1 = Réservoir préc.
+m.inputdesc.gamepad.food.1 = sélection réservoir précédent
+m.input.gamepad.food.2 = Réservoir suiv.
+m.inputdesc.gamepad.food.2 = sélection réservoir suivant
+m.input.gamepad.food.3 = Tirer
+m.inputdesc.gamepad.food.3 = tirer
+
+t.plort = Vous avez obtenu un plort de slime !
+m.text.plort = Quand les slimes mangent, ils produisent des plorts.\n\n\
+  Rendez-vous sur le Terminal de la Bourse Plort pour encaisser vos plorts.
+
+t.market = La Bourse Plort
+m.text.market = La Bourse Plort vous donne des espèces sonnantes et trébuchantes contre vos plorts durement gagnés.\n\n\
+  Tirer un plort dans la borne et comptez votre argent !
+m.input.market.1 = Molette de souris
+m.inputdesc.market.1 = choisir un réservoir
+m.input.market.2 = Maint. clic gauche de souris
+m.inputdesc.market.2 = tirer
+m.input.gamepad.market.1 = Réservoir préc.
+m.inputdesc.gamepad.market.1 = sélection réservoir précédent
+m.input.gamepad.market.2 = Réservoir suiv.
+m.inputdesc.gamepad.market.2 = sélection réservoir suivant
+m.input.gamepad.market.3 = Tirer
+m.inputdesc.gamepad.market.3 = tirer
+
+t.death = Cendrillon est de retour...
+m.text.death = Lorsque vous êtes KO, vous devez vous reposer 12 heures pour récupérer. Si vous n'êtes pas prudent, vous \
+  pourriez réveiller avec une foule de slimes affamés et turbulents dans votre ranch !
+
+t.garden = Quel beau jardin !
+m.text.garden = Tirez un fruit ou un légume dans la borne pour planter le même type de nourriture !
+
+t.largo = Je suis pas gros !
+m.text.largo = Les slimes dodus sont de gros slimes hybrides dû à l'ingestion de plort différents des leurs.\n\
+  \n\
+  Maintenez l'aspiration pour les garder collés sur votre canon ou tirer pour les envoyer valsés !
+
+t.explore = Voilà pour les bases !
+m.text.explore = Vous avez appris les bases, maintenant il est temps de vous lancer et explorer !\n\
+  \n\
+  Rappelez-vous, la meilleure façon de devenir un rancher pro est l'expérimentation.
+
+t.science_barn = Science Slimique !
+m.text.science_barn = Vous avez débloqué Le Labo, une extension spéciale qui vous autorise à créer des gadgets utilisant \
+  la Science Slimique !\n\
+  \n\
+  Dirigez-vous vers la grange et lancez-vous !
+
+t.science_summary = L'heure de bricoler !
+m.text.science_summary = Cette grange dispose de tout les équipements dont vous aurez besoin pour commencer à fabriquer des gadgets. \
+  Les Gadgets sont des objets très pratique pour l'exploration, pour se défendre, pour décorer etc. !
+
+t.science_refinery = La Raffinerie
+m.text.science_refinery = Pour fabriquer des gadgets, vous aurez besoin des ressources provenant de votre Raffinerie. Essayez de tirer \
+  un plort à l'intérieur de celle-ci.\n\
+  \n\
+  Mais rappelez-vous : toutes ressources envoyées à l'intérieur de la Raffinerie NE POURRA ÊTRE récupérées.
+
+t.science_builder_shop = Atelier de Construction
+m.text.science_builder_shop = L'atelier de Construction vous permet d'acheter des plans. Un plan est nécessaire pour fabriquer \
+  les gadgets.\n\
+  \n\
+  Assurez-vous de jeter un oeil à l'atelier de construction régulièrement, vous pourriez en avoir de nouveaux !
+
+t.science_fabricator = Le Fabri-Matic
+m.text.science_fabricator = Une fois en possession d'un plan, le Fabri-Matic permet de fabriquer les gadgets, en utilisant les ressources stockées \
+  à l'intérieur de la Raffinerie. \
+  Faites un essai !
+
+t.science_gadget_mode = Mode Gadget
+m.text.science_gadget_mode = Pour placer des gadgets, vous devez activer le Mode Gadget.
+m.input.science_gadget_mode.1 = T
+m.inputdesc.science_gadget_mode.1 = Basculer en Mode Gadget
+m.input.gamepad.science_gadget_mode.1 = Basculer en Mode Gadget
+m.inputdesc.gamepad.science_gadget_mode.1 = Basculer en Mode Gadget
+
+t.science_sites = Emplacements de Construction
+m.text.science_sites = Dans le Mode Gadget vous ne pouvez pas tirer ou aspirer, mais vous pouvez voir tout les emplacements de construction \
+  où vous pouvez disposer vos gadgets. \
+  Have a look around!
+
+t.science_place_site = Place Site
+m.text.science_place_site = Lorsque vous avez trouvé un emplacement de construction qui vous plaît, approchez-vous en pour ouvrir le menu d'installation des gadget menu. \
+  Vous aurez simplement à choisir le gadget que vous souhaitez y placer !
+
+t.science_wrapup = Classes de Science : reçu !
+m.text.science_wrapup = Voilà un aperçu qui couvre les bases de la Science Slimique ! Pour en apprendre plus, rendez-vous dans la nouvelle section \
+  Science Slimique présente dans Slimepédia. Elle est remplie d'infos pratiques ! 

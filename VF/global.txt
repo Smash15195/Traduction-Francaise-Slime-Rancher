@@ -1,0 +1,29 @@
+
+# Days of week
+m.dayofweek.0 = Dim
+m.dayofweek.1 = Lun
+m.dayofweek.2 = Mar
+m.dayofweek.3 = Mer
+m.dayofweek.4 = Jeu
+m.dayofweek.5 = Ven
+m.dayofweek.6 = Sam
+
+# Lists
+m.commalist0 = Aucune
+m.commalist1 = {0}
+m.commalist2 = {0}, {1}
+m.commalist3 = {0}, {1}, {2}
+m.commalist4 = {0}, {1}, {2}, {3}
+
+m.andlist0 = Aucune
+m.andlist1 = {0}
+m.andlist2 = {0} et {1}
+m.andlist3 = {0}, {1}, et {2}
+m.andlist4 = {0}, {1}, {2}, et {3}
+
+m.ellipsize0 = {0}
+m.ellipsize1 = {0}.
+m.ellipsize2 = {0}..
+m.ellipsize3 = {0}...
+
+l.none = Aucun

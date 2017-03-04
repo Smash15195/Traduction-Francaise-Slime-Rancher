@@ -1,0 +1,498 @@
+
+# Watermark
+l.version_watermark = Accès Anticipé v {0}
+l.version_watermark_xbox = Slime Rancher (Game Preview) v {0}															 
+l.version_full_watermark = Version: {0} ({1})
+l.version = v {0}
+
+
+# Slimepedia pages (Note: for per-topic info, see pedia.txt)
+t.pedia = Slimepédia
+m.new_pedia_entry = Nouvelle Entrée Slimepédia:
+b.tutorials = Didacticiel
+b.slimes = Slimes
+b.resources = Ressources
+b.ranch = Ranch
+b.world = Monde
+b.science = Science Slime
+
+l.favored_by = Nourriture favorite du:
+l.instructions = Instructions:
+l.diet = Régime:
+l.favorite = Favori:
+l.biology = Slimologie:
+l.risks = Risques Rancher:
+l.plorts = Plortonomiques:
+l.upgrades = Améliorations:
+l.resource_type = Type:
+l.about = A propos:
+l.how_to_use = Sur le Ranch:
+
+m.pedia_hint = {0}: Slimepédia
+
+m.hudinfo_diet = Régime: {0}
+m.hudinfo_type = Type Nourriture: {0}
+m.hudinfo_plort = Type: Plort
+
+m.foodgroup.veggies = Légume
+m.foodgroup.fruit = Fruit
+m.foodgroup.meat = Viande
+m.foodgroup.none = Aucun
+m.foodgroup.all = Mange Tout
+m.foodgroup.nonblackgold_slimes = Slimes
+m.foodgroup.tarr = Slimes, Viande et Ranchers
+m.foodgroup.water = Eau
+
+# General bits
+b.ok = OK
+b.cancel = Annuler
+b.retry = Réessayer
+
+# Main UI
+m.day = Jour {0}
+
+# Ammo Slot
+l.empty = VIDE
+l.ammo = x {0}
+
+# General Ranch UIs
+t.access_door = Extension du Ranch
+b.unlock = Débloquer
+b.open_door = Ouvrir
+b.close_door = Fermer
+
+m.press_to_activate = Appuyer sur {0} pour activer
+m.press_to_activate.pre_gamepad = Appuyer
+m.press_to_activate.post_gamepad = pour activer
+m.press_to_use_key = Appuyer sur {0} pour utiliser une Clé Slime
+m.press_to_use_key.pre_gamepad = Appuyer
+m.press_to_use_key.post_gamepad = pour utiliser une Clé Slime
+m.needs_key = Nécessite une Clé Slime pour l'ouvrir
+m.ranch_house_unavailable = Ranch House indisponible pour la démo
+m.press_to_open_pod = Appuyer sur {0} pour ouvrir la capsule
+m.press_to_open_pod.pre_gamepad = Appuyer
+m.press_to_open_pod.post_gamepad = pour ouvrir la capsule
+m.needs_treasure_cracker = Capsule aux Trésors verrouillée
+m.insuf_treasure_cracker = Un Crochet-Capsule plus avancé est nécessaire
+m.press_to_open_gate = Appuyer sur {0} pour ouvrir le portail
+m.press_to_open_gate.pre_gamepad = Appuyer sur
+m.press_to_open_gate.post_gamepad = pour ouvrir le portail
+m.gate_locked = Le portail est fermé
+
+b.purchase = Acheter
+b.place = Installer
+b.sold_out = Épuisé
+b.learn_more = + d'infos
+l.curr_count = ({0})
+
+b.extractors = Extracteurs
+b.warp_tech = Techno. de Distorsion
+b.utilities = Utilitaires
+b.decorations = Décorations
+b.curios = Curiosités
+
+# Plot screens
+l.cost = Coût:
+m.upgrades = Améliorations:
+b.demolish = Détruire
+b.pick_up = Prendre
+l.demolish_plot = Détruire Parcelle
+l.demolish_gadget = Détruire Gadget
+l.demolish_linked_gadget = Détruire Gadget Lié
+l.pick_up_gadget = Prendre Gadget
+m.desc.demolish_plot = Libère l'espace pour y placer une autre chose.
+m.desc.demolish_gadget = Détruit ce gadget pour vous permettre d'en mettre un nouveau.
+m.desc.demolish_linked_gadget = Détruit ce gadget et ses gadget liés installé ailleurs.
+m.desc.pick_up_gadget = Récupère le gadget pour vous permettre de l'installer ailleurs.
+e.insuf_coins = Pièces insuffisantes.
+m.select_option = Sélectionner une option pour plus de détails.
+e.already_has_upgrade = Amélioration déjà achetée.
+w.gadget_install_permanent = Ce gadget est installé définitivement jusqu'à sa destruction.
+w.destroying_gadget_destroys_contents = Démolir ce gadget détruira son contenu !
+w.pick_up_gadget_destroys_contents = Récupérer ce gadget détruira son contenu !
+w.destroying_silo_destroys_contents = Détruire un silo détruira son contenu !
+w.limit_reached_drill = Limite de Tête de Forage atteinte. Max: 6
+w.limit_reached_pump = Limite de Pompe atteinte. Max: 6
+w.limit_reached_apiary = Limite de Rucher atteinte. Max: 6
+w.cannot_demolish_corral_tutorial = Vous ne pouvez pas démolir l'enclos pour le moment.
+b.limit_reached = Limite atteinte
+
+t.empty_plot = Parcelle de Ranch Vide 
+
+t.coop = Coop
+b.walls = Murs
+b.feeder = Mangeoire
+b.vitamizer = Vitamizer
+
+t.corral = Enclos
+b.music_box = Music Box
+
+t.garden = Jardin
+b.nutrient_soil = Nutriments Sol
+b.sprinkler = Arroseur
+b.scareslime = Scareslime
+b.clear_crop = Retirer Cultures
+m.desc.clear_crop = Supprime les cultures existantes pour les remplacer par une autre.
+l.remaining_harvest_time = Temps Avant Récolte:
+l.growing = Croissance:
+
+t.silo = Silo
+m.empty = Vide
+b.extra_storage = Espace Supplémentaire
+
+t.incinerator = Incinérateur
+
+t.pond = Étang
+
+t.teleporter = Téléporteur
+
+# Upgrade Store
+t.personal_upgrades = Améliorations Vacpack
+e.already_has_personal_upgrade = Vous avez déjà cette amélioration.
+e.ineligible_for_personal_upgrade = Cette amélioration n'est pas disponible.
+
+# Main House
+t.ranch_house = Ranch House
+b.sleep_until_morning = Dormir jusqu'au matin
+b.mail = StarMail
+b.leave_to_ranch = Retourner au Ranch
+m.select_mail = Choisir un message starmail sur la gauche.
+
+# Main Menu/Game loading bits
+t.new_game = Créer une nouvelle partie
+t.load_game = Charger une partie
+b.new_game = Nouvelle Partie
+b.start_game = Jouer
+b.delete_game = Supprimer
+b.continue = Continuer
+b.confirm = Confirmer
+b.load = Charger
+b.quit = Quitter
+b.back = Retour
+m.default_game_name = Partie{0}
+e.game_name_exists = Une partie avec ce nom existe déjà.
+e.letters_nums_only = Le nom doit comporter que des lettres et des chiffres.
+e.no_spaces = Les espaces ne sont pas autorisés.
+e.max_length = Le nom des parties doivent avoir entre 1 et {0} caractères.
+m.game_name = Nom Partie:
+l.five_day_challenge = Défi 5 Jours
+l.loading = Chargement
+l.unknown = Inconnu
+t.confirm_delete = Supprimer fichier
+m.confirm_delete = Êtes-vous certains de supprimer la partie ?
+l.select_game_icon = Choix icône de sauvegarde:
+l.select_game_mode = Choix du mode:
+l.pedia_count = Découvertes: {0}
+m.no_saved_games = Aucune sauvegarde disponible
+
+m.gamemode_classic = Aventure
+m.desc.gamemode_classic = Vivez la vie d'un Rancher et explorez les merveilles du Pays Fort Lointain à votre propre rythme.
+m.gamemode_time_limit = Défi 5 Jours
+m.desc.gamemode_time_limit = Une ruée effrénée pour obtenir le maximum de newbucks en 5 jours.
+
+
+b.resume = Reprendre
+b.restart = Redémarrer
+b.screenshot = Capture d'écran
+b.save_and_quit = Sauver & Quitter
+b.emergency_return = Retour d'urgence
+m.emergency_return = ATTENTION: cette fonctionnalité vous permet de retourner en urgence à votre ranch. Vous perdrez tout ce que vous avez sur vous et dormirez jusqu'au jour suivant. A n'utiliser que si vous êtes vraiment coincé!
+
+# Expo-mode specific
+b.expo_play = Jouer
+b.expo_gamepad = Manette
+b.expo_quit = Quitter
+b.expo_change_gamepad_settings = Changer Paramètres
+
+# Options
+t.options = Options
+t.expo_options = Manette
+b.video = Vidéo
+b.audio = Audio
+b.input = Commande
+b.gamepad = Manette
+b.other = Autre
+l.reset_defaults = Réinitialiser
+l.quality = Qualité Graphismes:
+l.disable_camera_bob = Désact. Dodelinement Caméra
+l.buffer_for_gif = Buffer Vidéo pour GIF
+l.lock_vac = Activer auto-vacpack
+l.sprint_hold = Maintenir pour courir
+l.disable_tutorials = Désactiver Tutoriels
+
+l.quality_lowest = Très Bas
+l.quality_low = Bas
+l.quality_default = Défaut
+l.quality_high = Haut
+l.quality_very_high = Très Haut
+l.quality_custom = Personnalisé
+
+l.lighting = Qualité Lumières:
+l.lighting_low = Bas
+l.lighting_medium = Moyen
+l.lighting_high = Haut
+l.lighting_highest = Très Haut
+
+l.textures = Textures:
+l.textures_low = Basse
+l.textures_medium = Moyenne
+l.textures_high = Haute
+
+l.particles = Particules:
+l.particles_low = Basse
+l.particles_medium = Moyenne
+l.particles_high = Haute
+
+l.shadows = Ombres:
+l.shadows_none = Aucune
+l.shadows_low = Basse
+l.shadows_medium = Moyenne
+l.shadows_high = Haute
+
+l.antialiasing = Anti-aliasing:
+l.antialiasing_none = Aucun
+l.antialiasing_multisampling_2x = MSAA x2
+l.antialiasing_multisampling_4x = MSAA x4
+l.antialiasing_multisampling_8x = MSAA x8
+
+l.model_detail = Qualité Slime:
+l.model_detail_low = Basse
+l.model_detail_medium = Moyenne
+l.model_detail_high = Haute
+
+l.water_detail = Qualité Eau:
+l.water_detail_low = Basse
+l.water_detail_medium = Moyenne
+l.water_detail_high = Haute
+
+l.ambient_occlusion = Occlusion Ambiante:
+l.bloom = Bloom:
+l.fov = Champ de Vision:
+
+l.resolution = Résolution:
+l.fullscreen = Plein écran:
+m.resolution = {0}x{1}
+m.resolution_refresh = {0}x{1} @ {2}Hz
+m.keep_settings = Garder ces paramètres ?
+b.apply = Appliquer
+
+b.mods = Mods
+l.mod_vampiric_chickens = Titty Twister
+l.mod_night_tarr_slimes = Bad Moon Rising
+l.mod_random_plorts = Le Joueur
+l.mod_increased_slime_spawns = Gobs of Globs
+l.mod_slime_hunger = L'affamé
+l.mod_unstable_plorts = Plorts Instables
+
+# Audio
+l.master = Principal:
+l.music = Musique:
+l.sfx = Effets:
+
+# Controls
+dir.horizontal = Horizontal
+dir.vertical = Vertical
+key.forward = Avant
+key.back = Arrière
+key.left = Gauche
+key.right = Droite
+
+key.shoot = Tirer
+key.vac = Vac
+key.slimefilter = Filtre Slime
+key.burst = Impulsion
+key.jump = Saut
+key.run = Sprint
+key.interact = Interagir
+key.gadgetMode = Mode Gadget
+key.flashlight = Lampe
+key.radar = Radar
+
+key.reportissue = Rapporter un Problème
+key.screenshot = Capture d'écran
+key.recordgif = Enregistrer un GIF
+key.pedia = Slimepédia
+
+key.slot_1 = Emplacement 1
+key.slot_2 = Emplacement 2
+key.slot_3 = Emplacement 3
+key.slot_4 = Emplacement 4
+key.slot_5 = Emplacement 5
+key.prev_slot = Emplacement Prèc.
+key.next_slot = Emplacement Suiv.
+
+m.keys.0 = -
+m.keys.1 = {0}
+m.keys.2 = {0}
+m.slot_indicator = {0}
+m.press_key = Appuyez sur une touche...
+
+t.gamepad_settings = Paramétrages Manette
+l.sensitivity = Sensibilité Souris:
+l.swap_sticks = Permuter Sticks Analogiques
+l.x_look_sensitivity = Sensibilité Vue X
+l.y_look_sensitivity = Sensibilité Vue Y
+l.invert_gamepad_look_y = Inverser Axe Y
+l.invert_mouse_look_y = Inverser Axe Y
+l.disable_gamepad = Désactiver Gamepad/Joystick\n\
+  (Peut résoudre certains problèmes de caméra)
+m.gamepad_button = {0}: {1}
+m.gamepad_button_pause = {0}: Pause
+m.gamepad_stick = {0}: {1}\nAppuyer: {2}
+l.move = Déplacement
+l.view = Vue
+l.enable_vsync = Activer VSync:
+
+b.reset_profile = R.A.Z Options & Succès
+m.confirm_reset_profile = Remise à zéro de vos paramétrages et de vos succès ?
+
+# Bug Report
+t.report_issue = Signaler Problème
+l.description = Décrire le problème:
+b.submit = Soumettre
+m.summary = Récapitulatif
+l.placeholder_summary = Récapitulatif (obligatoire)...
+m.description = Description Détaillée
+l.placeholder_description = Description détaillée (optionnel)...
+m.reporter = Email
+l.placeholder_reporter = Votre Email (optionnel)...
+e.require_summary = Veuillez inclure un résumé du problème.
+m.sending_report = Envoi du rapport...
+
+# Market
+t.market = Marché à Plort
+l.loading_prices = Chargement des prix du marché...
+l.daily_bonus = Bonus Journalier !
+
+# Exchange
+t.range_exchange = Marché Lointain
+t.special_exchange = Bonjour, Beatrix !
+l.time_hours_mins = {0}:{1}
+l.time_hours_mins_unset = --:--
+l.exchange_progress = {0}/{1}
+l.no_offers_available = Marché Lointain\nHors Ligne...
+l.request = Donnez-moi:
+l.receive = Et vous recevrez:
+l.exchange_directions = Tirez les articles demandés dans la borne pour terminer l'échange.
+
+# Screenshot
+m.gif_screenshot_confirm = Faire un GIF de vos dernières secondes de jeu?
+m.no_buffer_for_gif = Aucun tampon vidéo présent pour créer un GIF.
+m.gif_storing = Création du GIF
+
+# Achievements
+t.achievements = Succès
+m.achievement_unlocked = Succès Débloqué !
+m.achieve_progress = {0} / {1}
+m.achieve_overall_progress = Total: {0} / {1}
+
+m.knocked_out1 = Vous avez été mis KO !
+m.knocked_out2 = (Mais une journée de repos devrait vous remettre sur pied...)
+
+# Save errors
+e.savefile_inaccessible = Ce fichier de sauvegarde est inaccessible et ne peut être écrit: {0}
+e.savefile_invalid_name = Ce nom de sauvegarde est invalide et ne peut être écrit: {0}
+e.savefile_dir_not_found = Le dossier de sauvegarde n'a pas été trouvé: {0}
+e.savefile_unknown = Une erreur inconnue a empêché l'écriture du fichier de sauvegarde: {0}
+
+# End game UI
+b.take_screenshot = Prendre une Capture
+m.slime_rancher = Slime Rancher
+l.total = Total:
+l.most_profitable_plorts = Plorts les plus rentables:
+m.plort_amount = x{0}
+l.knockouts = KO:
+l.spent = Dépense:
+m.none = Aucun(e)
+
+# About
+b.about = Crédits
+t.about = Crédits Slime Rancher
+l.game_design = Concept Original et Game Design
+l.game_design = Game Design
+l.programming = Programmation
+l.art = Art
+l.music_sfx = Musique et Effets Sonores
+l.copyright = Développé par Monomi Park. Copyright© 2014-2016 | Trad Fr : Smash15195
+
+# Expo load screen
+l.select_expo_game = Sélectionner une sauvegarde de démonstration:
+b.expo_start = Nouveau départ
+b.expo_advanced = Ranch Avancé 
+b.expo_range = Indiana Rancher
+m.desc.expo_start = Débutez avec un tout nouveau ranch et apprenez les ficelles du jeu avec le tutoriel.
+m.desc.expo_advanced = Découvrez un ranch doté d'équipements impressionnants, fournit avec des slimes, \
+    et clé en main pour l'élevage !
+m.desc.expo_range = Pour les aventuriers, vous commencez dans un endroit sauvage du Pays Fort Lointain choisi au hasard.
+
+# XBox FAQ screen
+b.faq = FAQ
+t.xbox_faq = Xbox One Version FAQ
+l.xbox_faq_q_achievements = Will Slime Rancher have Xbox Achievements?
+l.xbox_faq_a_achievements = Xbox achievements will be enabled after Slime Rancher leaves Game Preview. At that time, \
+    all achievements earned in-game will instantly become Xbox achievements!
+l.xbox_faq_q_versions = Are the PC and Xbox One versions of Slime Rancher the same?
+l.xbox_faq_a_versions = Yes, our aim is to keep both versions in sync. However, at any given time there may be a few \
+    days difference during Xbox build certification.
+l.xbox_faq_q_whats_next = What’s next for Slime Rancher?
+l.xbox_faq_a_whats_next = We’ve got a lot of great content in development, including new zones to explore, slimes to \
+    wrangle, and brand-new features like Slime Science! Learn more on our public roadmap:\n\
+    slimerancher.com/roadmap
+
+# Gadget screens
+t.place_gadget = Installer un Gadget
+t.fabricate_gadget = Fabriquer un Gadget
+t.purchase_blueprint = Atelier de Construction
+t.refinery = Raffinerie
+m.gadget_pair = {0} x2
+m.new_blueprint = Plan acheté !
+m.new_blueprint_hint = Allez au Fabri-Matic pour construire ce gadget.
+m.avail_blueprint = Nouveau Plan Disponible !
+m.avail_blueprint_hint = Allez à l'Atelier de Construction pour en acheter.
+m.ready = Prêt !
+l.installing = Installation en cours
+b.fabricate = Fabrication en cours
+
+l.requires = Nécessite:
+m.count_of_required = {0} / {1}
+
+e.insuf_craft_resources = Pas assez de ressources pour fabriquer cet article.
+e.cannot_add_gadget = Vous ne pouvez pas fabriquer un autre gadget comme celui-ci.
+e.cannot_destroy_gadget = Ce gadget ne peut être détruit.
+e.cannot_pickup_gadget = Ce gadget ne peut être prit.
+
+l.score = Score:
+
+# Upgrade avail screens
+m.avail_upgrade = Nouvelle Amélioration Disponible !
+m.avail_upgrade_hint = Allez à la Boutique d'Améliorations pour en acheter.
+
+# Tips
+m.loadingtip.0 = Un slime bien nourri est un slime heureux.
+m.loadingtip.1 = Ne tournez jamais le dos à une volaille.
+m.loadingtip.2 = Créez des Dodus Roses : ils mangent n'importe quoi !
+m.loadingtip.3 = Une rumeur dit que : Thora et Hobson ont été amoureux... jusqu'au jour où il lui brisa le coeur.
+m.loadingtip.4 = Une rumeur dit que : Ogden a été le PDG d'une grande firme agroalimentaire.
+m.loadingtip.5 = Une rumeur dit que : Viktor a inventé une machine de clonage de plort puis l'a détruite.
+m.loadingtip.6 = Une rumeur dit que : Mochi Miles n'a pas parlé à son père depuis des années.
+m.loadingtip.7 = rOOmr aVoR Vu BOb hOomin. svP poULEt ?
+m.loadingtip.8 = Personne n'a vu Hobson depuis des années. Certains disent qu'il voyage dans les contrées reculées du Pays Fort Lointain.
+m.loadingtip.9 = Utilisez des silos pour stocker vos plorts et attendre que leur valeur montent à la Bourse Plort.
+m.loadingtip.10 = Vous devrez acheter un réservoir à eau pour pouvoir aspirer de l'eau fraiche.
+m.loadingtip.11 = Les vile tarr se forment quand un Dodu mange un plort différent des siens. Faites attention !
+m.loadingtip.12 = Les tarr sont fréquent et survivent mieux de nuit. Prenez garde.
+m.loadingtip.13 = La Carrière Indigo est un endroit génial pour trouver des légumes rares.
+m.loadingtip.14 = La Contrée d'Émeraude possède plus d'arbres fruitiers que tout le reste du Pays Fort Lointain réuni.
+m.loadingtip.15 = L'eau fraiche peut empêcher les tarr de se multiplier et éventuellement les détruire.
+m.loadingtip.16 = Personne ne sait qui ou quoi a créé les Portes Slimes Ancestrales qu'on trouve un peu partout dans le Pays.
+m.loadingtip.17 = Un slime Gordo mangera jusqu'à s'en rompre le ventre.
+m.loadingtip.18 = Mochi Miles affirme qu'elle a attrapé une fois un slime doré.
+m.loadingtip.19 = Nourrir un slime avec sa nourriture favorite donnera deux fois plus de plorts !
+m.loadingtip.20 = Un spécialiste slimique un peu maboul a proposé un jour de créer des slimes carrés. C'est tout simplement idiot.
+
+l.language = Langue:
+l.lang_en = English
+l.lang_de = Deutsch (German)
+l.lang_es = Español (Spanish)
+l.lang_fr = Français (French)
+l.lang_ru = Русский (Russian)

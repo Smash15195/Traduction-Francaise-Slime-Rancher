@@ -1,0 +1,69 @@
+
+# Keys and buttons are translated from enum names in InControl
+
+# Keyboard code translations
+
+m.None = Aucune
+
+m.Key0 = 0
+m.Key1 = 1
+m.Key2 = 2
+m.Key3 = 3
+m.Key4 = 4
+m.Key5 = 5
+m.Key6 = 6
+m.Key7 = 7
+m.Key8 = 8
+m.Key9 = 9
+
+m.Pad0 = Num0
+m.Pad1 = Num1
+m.Pad2 = Num2
+m.Pad3 = Num3
+m.Pad4 = Num4
+m.Pad5 = Num5
+m.Pad6 = Num6
+m.Pad7 = Num7
+m.Pad8 = Num8
+m.Pad9 = Num9
+
+m.LeftButton = Clic gauche
+m.RightButton = Clic droit
+m.MiddleButton = Clic molette
+m.PositiveScrollWheel = Défil. molette haut
+m.NegativeScrollWheel = Défil. molette bas
+
+m.LeftShift = Shift (MAJ) Gauche
+m.RightShift = Shift (MAJ) Droite
+m.LeftCtrl = Ctrl Gauche
+m.RightCtrl = Ctrl Droite
+m.LeftAlt = Alt Gauche
+m.RightAlt = Alt Droite
+m.UpArrow = Flèche Haut
+m.DownArrow = Flèche Bas
+m.LeftArrow = Flèche Gauche
+m.RightArrow = Flèche Droite
+m.Space = Espace
+m.Slash = Slash (/)
+m.Backslash = Backslash (\)
+
+#Gamepad
+
+m.Action1 = A
+m.Action2 = B
+m.Action3 = X
+m.Action4 = Y
+m.LeftTrigger = LT
+m.LeftBumper = LB
+m.RightTrigger = RT
+m.RightBumper = RB
+m.DPadUp = Haut
+m.DPadDown = Bas
+m.DPadLeft = Gauche
+m.DPadRight = Droite
+m.Back = Back
+m.Start = Start
+m.LeftStickButton = Stick gauche
+m.RightStickButton = Stick droit
+m.View = Vue
+m.Menu = Menu

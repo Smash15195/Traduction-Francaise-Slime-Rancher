@@ -1,0 +1,116 @@
+# Achievement translations
+
+t.sell_plorts_a = Cameplort
+m.reqmt.sell_plorts_a = Vendre 100 Plorts à la Bourse Plort
+t.sell_plorts_b = Transplorteur
+m.reqmt.sell_plorts_b = Vendre 500 Plorts à la Bourse Plort
+t.sell_plorts_c = Minority Replort
+m.reqmt.sell_plorts_c = Vendre 1000 Plorts à la Bourse Plort
+t.sell_plorts_d = Le Bonheur est dans le Plort
+m.reqmt.sell_plorts_d = Vendre 2500 Plorts à la Bourse Plort
+t.sell_plorts_e = Boursiplorteur
+m.reqmt.sell_plorts_e = Vendre 5000 Plorts à la Bourse Plort
+
+t.feed_slimes_chickens = Cot Cot Codec-
+m.reqmt.feed_slimes_chickens = Donner 100 poulets à vos slimes
+
+t.fruit_tree_types = Cocktail de Fruits
+m.reqmt.fruit_tree_types = Avoir 3 différents arbres fruitiers dans votre ranch en même temps
+t.veggie_patch_types = Bar à salades
+m.reqmt.veggie_patch_types = Avoir 3 potagers différents dans votre ranch en même temps
+
+t.earn_currency_a = Chanceux
+m.reqmt.earn_currency_a = Gagner plus de 5,000 newbucks
+t.earn_currency_b = Rancher Nanti
+m.reqmt.earn_currency_b = Gagner plus de 25,000 newbucks
+t.earn_currency_c = Picsou
+m.reqmt.earn_currency_c = Gagner plus de 100,000 newbucks
+t.day_currency = un petit billet rapide
+m.reqmt.day_currency = Gagner 5,000 newbucks en un jour
+
+t.awake_until_morning = Debout toute la nuit
+m.reqmt.awake_until_morning = Rester éveillé de 6 du matin à 6 heure le lendemain
+
+t.knockout_morning = De bon matin
+m.reqmt.knockout_morning = Être KO avant 10 heures
+
+t.away_from_ranch = Quand est-ce qu'on rentre ?
+m.reqmt.away_from_ranch = Revenir au ranch après plus de 24 heures
+
+t.feed_airborne = Catch!
+m.reqmt.feed_airborne = Tirez de la nourriture dans la bouche d'un slime en l'air
+
+t.pink_slimes_food_types = Omnivore
+m.reqmt.pink_slimes_food_types = Nourrir des slimes roses dans votre ranch avec 10 différents types d'aliments
+
+t.feed_favorites = Délicieux !
+m.reqmt.feed_favorites = Nourrir 50 slimes dans votre ranch avec leur nourriture favorite
+
+t.discovered_quarry = Avoir Bonne Mine
+m.reqmt.discovered_quarry = Découvrir la Carrière Indigo
+t.discovered_moss = De l'autre Coté
+m.reqmt.discovered_moss = Découvrir la Moss Blanket
+t.discovered_desert = Fumée, Feu et Miroirs
+m.reqmt.discovered_desert = Découvrir le Désert de Verre
+
+t.burst_gordo = Explosion de Jelly Belly
+m.reqmt.burst_gordo = Exploser un Slime Gordo
+t.open_slime_gate = Sésame, ouvres-toi !
+m.reqmt.open_slime_gate = Ouvrir un Portail Slime
+
+t.incinerate_elder_chicken = Carrousel
+m.reqmt.incinerate_elder_chicken = Incinérer un vieux poulet
+
+t.incinerate_chick = Sale... Monstre !
+m.reqmt.incinerate_chick = Envoyer un poussin adorable vers une fin ardente, le même endroit où vous êtes destiné à aller
+
+t.filled_silo = Plein à Ras Bord
+m.reqmt.filled_silo = Remplir entièrement un silo de niveau maximum
+
+t.ranch_upgraded_storage = Le Top du Top
+m.reqmt.ranch_upgraded_storage = Avoir toutes les améliorations pour les enclos, poulailler et Silo dans votre ranch
+
+t.fulfill_exchange_early = Préparateur Précoce
+m.reqmt.fulfill_exchange_early = Répondre à une demande du Marché Lointain entre 12:00 et 14:00
+
+t.day_collect_plorts = Ubi Style
+m.reqmt.day_collect_plorts = Collecter 50 Plorts dans le Pays Fort Lointain en un jour
+
+t.gold_slime_triple_plort = Coup du chapeau
+m.reqmt.gold_slime_triple_plort = Obtenir au moins 3 Plorts Dorés d'un même Slime Doré
+
+t.extended_rad_exposure = Ça Marche que dans les Comics
+m.reqmt.extended_rad_exposure = Se tenir à l'intérieur d'une aura radiant pendant au moins 15 secondes
+
+t.extended_tarr_hold = Slime Échaudé, craint le Slime Tarr
+m.reqmt.extended_tarr_hold = Tenir un Tarr pendant 15 secondes
+
+t.tabby_headbutt = Zidane
+m.reqmt.tabby_headbutt = Laisser un Slime Tigré vous donner un coup de tête
+
+t.launched_boom_explode = Feux d'Artifice
+m.reqmt.launched_boom_explode = Tirer un Slime Boom Dodu en l'air afin qu'il explose avant l'atterrissage
+
+t.many_slimes_in_vac = Contrôle du Chaos
+m.reqmt.many_slimes_in_vac = Comprimer plus de 15 slimes dans votre réservoir en une fois dans le Pays Fort Lointain
+
+t.corral_slime_types = pack de six
+m.reqmt.corral_slime_types = Avoir au moins 6 différents types de Slimes dans le même enclos
+t.corral_largo_types = Affaire risquée
+m.reqmt.corral_largo_types = Avoir au moins 3 différents types de Dodus dans le même enclos
+t.pond_slime_types = Piscine Party
+m.reqmt.pond_slime_types = Remplir un étang dans votre ranch avec au moins 5 types de Slimes différents
+t.ranch_largo_types = Diversification
+m.reqmt.ranch_largo_types = Avoir au moins 10 types de Dodus dans votre Ranch
+
+t.entered_corral_slimes = Piscine à Boules
+m.reqmt.entered_corral_slimes = Sauter dans un enclos contenant au moins 40 slimes
+
+t.time_limit_currency_a = 5 Jours Challenger
+m.reqmt.time_limit_currency_a = Atteindre au moins 10,000 newbucks à la fin du défi
+
+t.time_limit_currency_b = 5 Jours Champion
+m.reqmt.time_limit_currency_b = Atteindre au moins 25,000 newbucks à la fin du défi
+
+t.time_limit_currency_c = 5 Jours MaîtrePlort
+m.reqmt.time_limit_currency_c = Atteindre au moins 50,000 newbucks à la fin du défi
