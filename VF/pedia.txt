@@ -648,8 +648,8 @@ m.desc.elder_hen = Les Mamipoules ont eu une vie bien remplie. Elles ont rencont
     petits Poussinous grandir et partir vers leur nouvelle vie de volaille. Une vie sans ambition, ni gloire. Mais comment \
     leur en vouloir, ce ne sont que des poulets, bon sang !
 
-
-t.primordy_oil_craft = Primordy Oil
+# Ressources communes
+t.primordy_oil_craft = Huile Originelle
 m.intro.primordy_oil_craft = This stuff is pre-pre-prehistoric.
 m.favored_by.primordy_oil_craft = (not slime food)
 m.resource_type.primordy_oil_craft = Crafting Material
@@ -660,7 +660,7 @@ m.desc.primordy_oil_craft = Primordy oil is a common resource obtained with a pu
     Found deep below the surface of the Far, Far Range, primordy oil is an ancient substance containing a wide array \
     of organic compounds, making it perfect as a base for many Slime Science creations.
 
-t.deep_brine_craft = Deep Brine
+t.deep_brine_craft = Saumure des Profondeurs
 m.intro.deep_brine_craft = Salt of the earth kind of stuff.
 m.favored_by.deep_brine_craft = (not slime food)
 m.resource_type.deep_brine_craft = Crafting Material
@@ -671,7 +671,7 @@ m.desc.deep_brine_craft = Deep brine is a common resource exclusive to the Dry R
     Not safe for drinking, deep brine is thought to be water from the Slime Sea that has been filtered by \
     the subterranean coral of the Dry Reef. It is significantly denser than fresh water and loaded with salt.
 
-t.spiral_steam_craft = Spiral Steam
+t.spiral_steam_craft = Vapeur Spirale
 m.intro.spiral_steam_craft = If you search for it, you'll find something wonderful.
 m.favored_by.spiral_steam_craft = (not slime food)
 m.resource_type.spiral_steam_craft = Crafting Material
@@ -683,7 +683,7 @@ m.desc.spiral_steam_craft = Spiral steam is an uncommon resource obtained with a
     when released into the atmosphere, swirling into a series of dancing spirals before dissipating. It is valued \
     for the countless micro-particles found within the steam itself. 
 
-t.lava_dust_craft = Lava Dust
+t.lava_dust_craft = Poussière de Lave
 m.intro.lava_dust_craft = A survey on the state of this matter answered 'undecided.'
 m.favored_by.lava_dust_craft = (not slime food)
 m.resource_type.lava_dust_craft = Crafting Material
@@ -695,7 +695,7 @@ m.desc.lava_dust_craft = Lava dust is a rare resource obtained with a pump.\n\
     It is believed to be a mixture of magma and slime, though this has never been proven. And despite its name, lava dust \
     is only warm to the touch.
 
-t.buzz_wax_craft = Buzz Wax
+t.buzz_wax_craft = Cire Bourdonnante
 m.intro.buzz_wax_craft = Can be used to make a great scented candle if you enjoy the smell of bee abdominal glands.
 m.favored_by.buzz_wax_craft = (not slime food)
 m.resource_type.buzz_wax_craft = Crafting Material
@@ -707,7 +707,7 @@ m.desc.buzz_wax_craft = Buzz wax is a common resource obtained with an apiary.\n
     Buzz wax is the still malleable deposits of unused wax found in apiaries. It has many practical uses ranging \
     from building materials to medicines. You can also chew it as the worst gum in the world.
 
-t.wild_honey_craft = Wild Honey
+t.wild_honey_craft = Miel Sauvage
 m.intro.wild_honey_craft = Tastes great in tea or in shameful handfuls when no one is looking.
 m.favored_by.wild_honey_craft = (not slime food)
 m.resource_type.wild_honey_craft = Crafting Material
@@ -720,7 +720,7 @@ m.desc.wild_honey_craft = Wild honey is a common resource exclusive to the Moss 
     makes just about any food taste better, and it provides a natural boost of energy to get through a tough day of \
     wrangling slimes. 
 
-t.hexacomb_craft = Hexacomb
+t.hexacomb_craft = Nid d'Abeille
 m.intro.hexacomb_craft = Bee stuff and geometry: the chocolate and peanut butter of nature.
 m.favored_by.hexacomb_craft = (not slime food)
 m.resource_type.hexacomb_craft = Crafting Material
@@ -731,7 +731,7 @@ m.desc.hexacomb_craft = Hexacomb is an uncommon resource obtained with an apiary
     Hexacomb is the result of bees arranging buzz wax into complex patterns to store their honey and eggs. \
     Why the hexagonal shape? Bees understand that the hexagon is the shape of the future. Bees were Sci-Fi before it was cool.
 
-t.royal_jelly_craft = Royal Jelly
+t.royal_jelly_craft = Gelée Royale
 m.intro.royal_jelly_craft = The king of all jellies... that is, until you meet the queen.
 m.favored_by.royal_jelly_craft = (not slime food)
 m.resource_type.royal_jelly_craft = Crafting Material
@@ -744,8 +744,8 @@ m.desc.royal_jelly_craft = Royal jelly is a rare resource obtained with an apiar
     and working it into their royal jelly mixture. If a rancher is lucky enough to acquire some, they'll find its \
     unique properties are very valuable in certain Slime Science endeavors. 
 
-
-t.jellystone_craft = Jellystone
+# Ressources spéciales
+t.jellystone_craft = Visquo-roche
 m.intro.jellystone_craft = It's both solid and squishy at the same time.
 m.favored_by.jellystone_craft = (not slime food)
 m.resource_type.jellystone_craft = Crafting Material
@@ -767,7 +767,7 @@ m.desc.indigonium_craft = Indigonium is a common resource exclusive to the Indig
     Indigonium is the ore that gives the Indigo Quarry its name. There's a little indigonium found in every inch \
     of the quarry, but the purest ore is only found deep underground.
 
-t.slime_fossil_craft = Slime Fossil
+t.slime_fossil_craft = Fossislime
 m.intro.slime_fossil_craft = If history could smile, it would look like this.
 m.favored_by.slime_fossil_craft = (not slime food)
 m.resource_type.slime_fossil_craft = Crafting Material
@@ -778,7 +778,7 @@ m.desc.slime_fossil_craft = Slime fossils are an uncommon resource obtained with
     Prized for the ancient minerals they contain, slime fossils are like nature capturing a moment in time. \
     Specifically, that moment seems to be when a great avalanche or mudslide occurred and a slime was totally cool with it.
 
-t.strange_diamond_craft = Strange Diamond
+t.strange_diamond_craft = Bizarro Diamant
 m.intro.strange_diamond_craft = Very strange, but even more valuable.
 m.favored_by.strange_diamond_craft = (not slime food)
 m.resource_type.strange_diamond_craft = Crafting Material
@@ -954,20 +954,20 @@ m.intro.keys = Une Vieille clé pour vieux verrous.
 m.desc.keys = Les Clés Slime sont de grandes clés en pierre pouvant ouvrir les Portes Slimes Ancestrales présentent dans le Pays. \
     Ces portes mènent souvent vers de nouvelles zones à explorer très cher ou à créer des raccourcis vers des zones déjà connues.
 
-t.refinery = Refinery
-m.intro.refinery = The first step to building fantastic gadgets.
-m.desc.refinery = Using advanced technology, the Refinery breaks down plorts and other resources to their molecular \
-  level, allowing them to be fabricated into various Slime Science gadgets. Aside from plorts, the bulk of resources \
-  you will use in Slime Science will be obtained from extractors.\n\
+t.refinery = Raffinerie
+m.intro.refinery = La première étape vers la modernité.
+m.desc.refinery = Utilisant une technologie d'avant-garde, la Raffinerie désintègre les plorts et autres ressources en une soupe moléculaire \
+  qui lui permet de ré-assembler ces atomes pour fabriquer les divers gadgets issues de la Science Slimique. Hormis les plorts, la majeure partie \
+   des ressources que vous devrez y mettre sera obtenu des extracteurs.\n\
   \n\
-  Be sure to choose what to deposit into the Refinery wisely: any resources you deposit cannot be removed from the \
-  refinery, but instead used only for building gadgets.
+  Faites attention à ce que vous mettez dans la Raffinerie: toutes ressources insérées à l'intérieur ne pourront plus être récupérées. \
+  Mais seront utilisées pour la fabrication des gadgets.
 
-t.fabricator = Fabricator
-m.intro.fabricator = Let's get crafty.
-m.desc.fabricator = The Fabricator allows you to craft gadgets from a blueprint using resources you have stored in the \
-  Refinery. You can generally build as many gadgets of a specific blueprint as you wish, however some special gadgets \
-  have build limits, allowing you to only own a certain number of them at a time.
+t.fabricator = Fabri-Matic
+m.intro.fabricator = L'heure de bricoler !.
+m.desc.fabricator = Le Fabri-Matic vous permet de fabriquer des gadgets à partir de plans en utilisant les ressources que vous avez stocké \
+  dans la Raffinerie. Vous pouvez généralement fabriquer plusieurs gadgets à partir d'un même plan sans limite, cependant certains plans \
+  spéciaux ont une limite de fabrication.
 
 t.blueprints = Plans
 m.intro.blueprints = Les plus grands scientifiques ont des plans... du moins la plupart.
@@ -1221,63 +1221,63 @@ m.gadget.desc.lamp_red = Une lanterne décorative qui renferme un slime heureux.
 m.gadget.name.lamp_amber = Lanterne à Slime d'Ambre
 m.gadget.desc.lamp_amber = Une lanterne décorative qui renferme un slime heureux.
 
-m.gadget.name.fashion_pod_handlebar = Handlebar Fashion Pod
-m.gadget.desc.fashion_pod_handlebar = Fashion pods allow you to vac up fashionable accessories for your slimes. \
-    Shoot them on to slimes to totally up their game.
-m.gadget.name.fashion_pod_shady = Shady Fashion Pod
-m.gadget.desc.fashion_pod_shady = Fashion pods allow you to vac up fashionable accessories for your slimes. \
-    Shoot them on to slimes to totally up their game.
-m.gadget.name.fashion_pod_clip_on = Clip-On Fashion Pod
-m.gadget.desc.fashion_pod_clip_on = Fashion pods allow you to vac up fashionable accessories for your slimes. \
-    Shoot them on to slimes to totally up their game.
-m.gadget.name.fashion_pod_googly = Googly Fashion Pod
-m.gadget.desc.fashion_pod_googly = Fashion pods allow you to vac up fashionable accessories for your slimes. \
-    Shoot them on to slimes to totally up their game.
-m.gadget.name.fashion_pod_serious = Serious Fashion Pod
-m.gadget.desc.fashion_pod_serious = Fashion pods allow you to vac up fashionable accessories for your slimes. \
-    Shoot them on to slimes to totally up their game.
-m.gadget.name.fashion_pod_smart = Smart Fashion Pod
-m.gadget.desc.fashion_pod_smart = Fashion pods allow you to vac up fashionable accessories for your slimes. \
-    Shoot them on to slimes to totally up their game.
-m.gadget.name.fashion_pod_dandy = Dandy Fashion Pod
-m.gadget.desc.fashion_pod_dandy = Fashion pods allow you to vac up fashionable accessories for your slimes. \
-    Shoot them on to slimes to totally up their game.
-m.gadget.name.fashion_pod_cute = Cute Fashion Pod
-m.gadget.desc.fashion_pod_cute = Fashion pods allow you to vac up fashionable accessories for your slimes. \
-    Shoot them on to slimes to totally up their game.
-m.gadget.name.fashion_pod_royal = Royal Fashion Pod
-m.gadget.desc.fashion_pod_royal = Fashion pods allow you to vac up fashionable accessories for your slimes. \
-    Shoot them on to slimes to totally up their game.
-m.gadget.name.fashion_pod_remover = Fashion Pod Remover
-m.gadget.desc.fashion_pod_remover = A special fashion pod that removes fashion pod accessories from slimes.
+m.gadget.name.fashion_pod_handlebar = Capsules de Moustaches Distinguées 
+m.gadget.desc.fashion_pod_handlebar = Les Capsules de Mode vous permettent d'obtenir des accessoires de mode pour vos slimes. \
+    Tirez-les sur vos slimes pour qu'ils aient le swag ultime.
+m.gadget.name.fashion_pod_shady = Capsules de Lunettes de Soleil
+m.gadget.desc.fashion_pod_shady = Les Capsules de Mode vous permettent d'obtenir des accessoires de mode pour vos slimes. \
+    Tirez-les sur vos slimes pour qu'ils aient le swag ultime.
+m.gadget.name.fashion_pod_clip_on = Capsules de Noeuds Papillon
+m.gadget.desc.fashion_pod_clip_on = Les Capsules de Mode vous permettent d'obtenir des accessoires de mode pour vos slimes. \
+    Tirez-les sur vos slimes pour qu'ils aient le swag ultime.
+m.gadget.name.fashion_pod_googly = Capsules d'Yeux Maboules
+m.gadget.desc.fashion_pod_googly = Les Capsules de Mode vous permettent d'obtenir des accessoires de mode pour vos slimes. \
+    Tirez-les sur vos slimes pour qu'ils aient le swag ultime.
+m.gadget.name.fashion_pod_serious = Capsules de Sourcils Sérieux
+m.gadget.desc.fashion_pod_serious = Les Capsules de Mode vous permettent d'obtenir des accessoires de mode pour vos slimes. \
+    Tirez-les sur vos slimes pour qu'ils aient le swag ultime.
+m.gadget.name.fashion_pod_smart = Capsules de Lunettes
+m.gadget.desc.fashion_pod_smart = Les Capsules de Mode vous permettent d'obtenir des accessoires de mode pour vos slimes. \
+    Tirez-les sur vos slimes pour qu'ils aient le swag ultime.
+m.gadget.name.fashion_pod_dandy = Capsules de Monocles
+m.gadget.desc.fashion_pod_dandy = Les Capsules de Mode vous permettent d'obtenir des accessoires de mode pour vos slimes. \
+    Tirez-les sur vos slimes pour qu'ils aient le swag ultime.
+m.gadget.name.fashion_pod_cute = Capsules de Boucles d'oreilles
+m.gadget.desc.fashion_pod_cute = Les Capsules de Mode vous permettent d'obtenir des accessoires de mode pour vos slimes. \
+    Tirez-les sur vos slimes pour qu'ils aient le swag ultime.
+m.gadget.name.fashion_pod_royal = Capsules de Tiares
+m.gadget.desc.fashion_pod_royal = Les Capsules de Mode vous permettent d'obtenir des accessoires de mode pour vos slimes. \
+    Tirez-les sur vos slimes pour qu'ils aient le swag ultime.
+m.gadget.name.fashion_pod_remover = Dissolvant Anti-mode
+m.gadget.desc.fashion_pod_remover = Une Capsule de Mode spéciale qui permet de retirer les accessoires de vos slimes.
 
-m.gadget.name.sponge_tree = Sponge Tree
-m.gadget.desc.sponge_tree = A squishy sponge tree that can store a lot of water during dry months.
-m.gadget.name.sponge_shrub = Sponge Shrub
-m.gadget.desc.sponge_shrub = Chunks of these shrubs are great for scrubbing up in the bath.
-m.gadget.name.pink_coral_columns = Pink Coral Columns
-m.gadget.desc.pink_coral_columns = These coral towers are a reminder that the dry reef was once below the slime sea.
-m.gadget.name.coral_grass_patch = Coral Grass Patch
-m.gadget.desc.coral_grass_patch = This soft, pink grass makes for a lovely place to take a nap.
+m.gadget.name.sponge_tree = Arbre Spongieux
+m.gadget.desc.sponge_tree = Un arbre Spongieux maigrelet qui peut stocker beaucoup d'eau pendant les mois secs.
+m.gadget.name.sponge_shrub = Arbuste Spongieux
+m.gadget.desc.sponge_shrub = L'écorces de ces arbustes sont parfaits pour se frotter dans le bain.
+m.gadget.name.pink_coral_columns = Colonne de Corail Rose
+m.gadget.desc.pink_coral_columns = Ces colonnes de corail nous rappel comme était le Récif Aride quand il était encore immergé.
+m.gadget.name.coral_grass_patch = Parterre d'Herbe-corail
+m.gadget.desc.coral_grass_patch = Si douce, cette herbe rose est le parfait endroit pour y poser un nappe.
 
-m.gadget.name.mossy_tree = Mossy Tree
-m.gadget.desc.mossy_tree = A deeply verdant tree found in the tangled thicket of the Moss Blanket.
-m.gadget.name.mossy_tree_stump = Mossy Tree Stump
-m.gadget.desc.mossy_tree_stump = All that remains of one of the great trees found in the Moss Blanket.
-m.gadget.name.glow_cones = Glow Cones
-m.gadget.desc.glow_cones = A strange flora that explorers often used to find their way in the night.
-m.gadget.name.wildflower_patch = Wildflower Patch
-m.gadget.desc.wildflower_patch = A patch of the sweet-smelling flowers that honey slimes enjoy.
-m.gadget.name.jumbo_shroom = Jumbo Shroom
-m.gadget.desc.jumbo_shroom = Not a regular shroom, or even a large one. No, something more.
+m.gadget.name.mossy_tree = Arbre Émeraude
+m.gadget.desc.mossy_tree = Un arbre profondément vert qui pousse dans dans les fourrés de la Contrée Émeraude.
+m.gadget.name.mossy_tree_stump = Souche d'Arbre Émeraude
+m.gadget.desc.mossy_tree_stump = Le dernier vestige de ce qu'était ce magnifique arbre poussant dans la Contrée Émeraude.
+m.gadget.name.glow_cones = Cônes Luisants
+m.gadget.desc.glow_cones = Une étrange fleur que les explorateurs utilisent souvent pour retrouver leur chemin la nuit.
+m.gadget.name.wildflower_patch = Parterre de Fleur Sauvage
+m.gadget.desc.wildflower_patch = Un parterre de fleurs au doux parfum qui les slimes mielleux adore.
+m.gadget.name.jumbo_shroom = Mega-champi
+m.gadget.desc.jumbo_shroom = Plus qu'un simple champignon, plus gros que les plus gros. Non, non encore plus gros.
 
-m.gadget.name.minty_grass_patch = Minty Grass Patch
-m.gadget.desc.minty_grass_patch = Though this grass does indeed have a pleasant, minty aroma, the taste is quite bitter.
-m.gadget.name.blue_coral_columns = Blue Coral Columns
-m.gadget.desc.blue_coral_columns = Coral towers whose color has shifted to the minerals found in the Indigo Quarry.
-m.gadget.name.hexium_formation = Hexium Formation
-m.gadget.desc.hexium_formation = A strange ore whose geometric array is consistent on even a molecular level.
-m.gadget.name.crystal_cluster = Crystal Cluster
-m.gadget.desc.crystal_cluster = You may think this is a clutch or even a collection of crystals. You would be wrong.
-m.gadget.name.fireflower_patch = Fireflower Patch
-m.gadget.desc.fireflower_patch = Flowers grown from volcanic ash that take on a burning hue.
+m.gadget.name.minty_grass_patch = Parterre d'Herbo-menthe
+m.gadget.desc.minty_grass_patch = Bien que cette herbe ai effectivement un agréable arôme de menthe, son goût est assez amer.
+m.gadget.name.blue_coral_columns = Colonnes de Corail Bleu
+m.gadget.desc.blue_coral_columns = Colonnes de corail dont la couleur s'est modifiée pour celle des minéraux de la carrière d'Indigo.
+m.gadget.name.hexium_formation = Formation Hexium
+m.gadget.desc.hexium_formation = Un minerai étrange dont la formation géométrique est cohérente même au niveau moléculaire.
+m.gadget.name.crystal_cluster = Gisement de Cristaux
+m.gadget.desc.crystal_cluster = Vous pourriez penser que c'est un amas ou même un regroupement de cristaux. Vous auriez tort.
+m.gadget.name.fireflower_patch = Parterre de Carbofleur
+m.gadget.desc.fireflower_patch = Fleurs provenant de cendres volcaniques qui prennent une teinte flamboyante.

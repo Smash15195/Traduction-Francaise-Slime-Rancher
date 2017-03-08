@@ -13,75 +13,164 @@ m.favored_by.locked = ???
 m.how_to_use.locked = ???
 m.resource_type.locked = ???
 
-# Intro
-t.splash = Welcome to Slime Rancher!
-m.intro.splash = Please remember to not share screenshots or video outside of the Monomi Park forums.
-m.desc.splash = You're playing Slime Rancher Pre-Alpha Ver 3. As the plucky Beatrix LeBeau, you have set out for a \
-life on the Far, Far Range to stake your claim in the exciting world of slime ranching. \n\
-\n\
-You'll earn cash by ranching slimes, feeding them and collecting plorts. Cash those plorts in at the Plort Market \
-and use that cash to upgrade your ranch into a plort-making powerhouse! \n\
-\n\
-A few important notes: \n\
-- This is a very early version of the game so there's lots of exposed wires, temp graphics, imbalanced features, \
-	etc. Please pardon our dust. \n\
-- The Range is a much more dangerous place at night. Press F to use the flashlight. \n\
-- There is currently no more level content beyond the Indigo Quarry. \n\
-- Press F2 to report a bug. \n\
-- Please visit forums.monomipark.com to give us feedback on your experience. \n\
-\n\
-Thanks for helping us test Slime Rancher!
-
 # General
 t.basics = Basic Player Controls
 m.intro.basics = Get a move on.
-m.instructions.basics = Movement (Default: W,A,S,D keys) can be sped up by sprinting (Default: Shift key), \
-	but this will consume energy. \n\
+m.instructions.basics = <b>W</b>: Move forward \n\
+<b>A</b>: Move left \n\
+<b>S</b>: Move backward \n\
+<b>D</b>: Move right \n\
 \n\
-Jump (Default: Space key) to reach higher areas, or because it's good exercise. Hold jump to travel further.\n\
+<b>Shift</b>: Sprint (uses energy) \n\
 \n\
-You can interact with some objects (Default: E key) when prompted. If you don't see a prompt, assume the object is just shy.
-m.instructions.gamepad.basics = Movement (Default: Left stick) can be sped up by sprinting (Default: Push Left Stick), \
-	but this will consume energy. \n\
+<b>Space</b>: Jump (hold to use jetpack, if available) \n\
 \n\
-Jump (Default: A) to reach higher areas, or because it's good exercise. Hold jump to travel further.\n\
+<b>E</b>: Interact (when prompted)
+m.instructions.gamepad.basics = <b>Left Stick</b>: Move\n\
 \n\
-You can interact with some objects (Default: X) when prompted. If you don't see a prompt, assume the object is just shy.
+<b>Hold Left Stick</b>: Sprint (uses energy) \n\
+\n\
+<b>A</b>: Jump (hold to use jetpack, if available) \n\
+\n\
+<b>X</b>: Interact (when prompted)
 m.desc.basics =
 
-t.vacing = Vacpack Basics: Vac-ing
+t.vacing = Vacpack: Vac-ing and Shooting
 m.intro.vacing = Your first step to becoming a master rancher.
-m.instructions.vacing = Press and hold the vac key (Default: Right Mouse Button) to vacuum slimes or other objects. \n\
+m.instructions.vacing = <b>Right Mouse Button</b>: Vacuum slimes or other objects \n\
 \n\
-Larger objects will be held at the nozzle and can be dropped by releasing vac or fired by pressing shoot.
-m.instructions.gamepad.vacing = Press and hold the vac key (Default: Left Trigger) to vacuum slimes or other objects. \n\
+Larger objects will be held at the nozzle and can be dropped \
+by releasing vac or fired by pressing shoot. \n\
 \n\
-Larger objects will be held at the nozzle and can be dropped by releasing vac or fired by pressing shoot.
+<b>Left Mouse Button</b>: Shoot slime or other object from the selected vac tank \n\
+\n\
+Hold the shoot key to continuously shoot.
+m.instructions.gamepad.vacing = <b>Left Trigger</b>: Vacuum slimes or other objects \n\
+\n\
+Larger objects will be held at the nozzle and can be dropped \
+by releasing vac or fired by pressing shoot. \n\
+\n\
+<b>Right Trigger</b>: Shoot slime or other object from the selected vac tank \n\
+\n\
+Hold the shoot button to continuously shoot.
 m.desc.vacing =
 
-t.shooting = Vacpack Basics: Shooting
-m.intro.shooting = Ever spray a hose full of chickens? Yes, it's as awesome as it sounds.
-m.instructions.shooting = Press the shoot key (Default: Left Mouse Button) to shoot a slime or other object from \
-	the selected vac tank. \n\
-	\n\
-	Hold the shoot key to continuously shoot.
-m.instructions.gamepad.shooting = Press the shoot key (Default: Right Trigger) to shoot a slime or other object from \
-	the selected vac tank. \n\
-	\n\
-	Hold the shoot key to continuously shoot.
-m.desc.shooting =
-
-t.capturetanks = Vacpack Basics: Vac Tanks
+t.capturetanks = Vacpack: Vac Tanks
 m.intro.capturetanks = Nanotechnology makes everything possible, and everything smaller.
-m.instructions.capturetanks = Select a vac tank by pressing the corresponding vac tank key \
-	(Default: 1,2,3,4 keys) or cycle through them (Default: Mouse Scroll Wheel).
-m.instructions.gamepad.capturetanks = Select a vac tank by cycling through them (Default: Left Bumper/Right Bumper).
+m.instructions.capturetanks = Vac tanks allow you to easily collect, sort, and transport \
+slimes and other resources. \n\
+\n\
+<b>1, 2, 3, 4, 5</b>: Select vac tank \n\
+<b>Mouse Wheel</b>: Cycle through vac tanks
+m.instructions.gamepad.capturetanks = Vac tanks allow you to easily collect, sort, and transport \
+slimes and other resources. \n\
+\n\
+<b>Left Bumper/Right Bumper</b>: Cycle through vac tanks
 m.desc.capturetanks =
 
-t.energy = Vacpack Basics: Energy
+t.energy = Vacpack: Health and Energy
 m.intro.energy = Everything has a cost.
-m.instructions.energy = Monitor your energy level with the Energy Meter on the HUD.
+m.instructions.energy = Monitor your health and energy levels with the Health Meter and Energy Meter on the lower left \
+of the screen. \n\
+\n\
+Health will be automatically restored after not taking damage for a period of time. \n\
+\n\
+Energy will be automatically restored after not using energy for a period of time.
 m.desc.energy =
+
+t.corralling = Ranching Basics: Corralling Slimes
+m.intro.corralling = You can contain them, but you can't stop the wiggle.
+m.instructions.corralling = Shoot slimes through corral walls to contain them and make them easier \
+to manage. But remember: hungry slimes will always find a way out of their corrals! \n\
+\n\
+<b>Mouse Wheel</b>: Select vac tank \n\
+<b>Left Mouse Button</b>: Shoot
+m.instructions.gamepad.corralling = Shoot slimes through corral walls to contain them and make them easier \
+to manage. But remember: hungry slimes will always find a way out of their corrals! \n\
+\n\
+<b>Left Bumper/Right Bumper</b>: Select vac tank \n\
+<b>Right Trigger</b>: Shoot
+m.desc.corralling = 
+
+t.feeding = Ranching Basics: Feeding Slimes
+m.intro.feeding = A well-fed slime makes for a happy (and wealthy) rancher.
+m.instructions.feeding = Each slime has a particular diet. Most prefer either fruit, veggies, or meat. \
+When a slime eats, it produces a plort. \n\
+\n\
+However, most slimes have a favorite food. When a slime eats its favorite food it produces double plorts! \n\
+\n\
+<b>Mouse Wheel</b>: Select vac tank \n\
+<b>Left Mouse Button</b>: Shoot
+m.instructions.gamepad.feeding = Each slime has a particular diet. Most prefer either fruit, veggies, or meat. \
+When a slime eats, it produces a plort. \n\
+\n\
+However, most slimes have a favorite food. When a slime eats its favorite food it produces double plorts! \n\
+\n\
+<b>Left Bumper/Right Bumper</b>: Select vac tank \n\
+<b>Right Trigger</b>: Shoot
+m.desc.feeding =
+
+t.plorts = Ranching Basics: Plorts and the Plort Market
+m.intro.plorts = SELL! SELL! SELL!
+m.instructions.plorts = Vac up plorts and shoot them into the Plort Market to get newbucks. \
+Plort values fluctuate daily depending on the types of plorts you've recently sold. \n\
+\n\
+<b>Mouse Wheel</b>: Select vac tank \n\
+<b>Left Mouse Button</b>: Shoot
+m.instructions.gamepad.plorts = Vac up plorts and shoot them into the Plort Market to get newbucks. \
+Plort values fluctuate daily depending on the types of plorts you've recently sold. \n\
+\n\
+<b>Left Bumper/Right Bumper</b>: Select vac tank \n\
+<b>Right Trigger</b>: Shoot
+m.desc.plorts =
+
+t.ssbasics = Slime Science: Basics
+m.intro.ssbasics = Definitely weird.
+m.instructions.ssbasics = Slime Science allows you to use plorts and other resources to make \
+fantastic gadgets that you can install all over the world. \n\
+\n\
+Slime Science basics: \n\
+- Shoot plorts and resources into the Refinery (cannot be withdrawn once deposited) \n\
+- Buy new blueprints or discover them in treasure pods \n\
+- Use the Fabricator to make new gadgets \n\
+- <b>T</b>: Enter Gadget Mode \n\
+- Place gadgets in Gadget Mode \n\
+- <b>Left Mouse Button/Right Mouse Button</b>: Rotate gadget (when in Gadget Mode) \n\
+\n\
+Visit the Slime Science section of the Slimepedia for more details on Slime Science.
+m.instructions.gamepad.ssbasics = Slime Science allows you to use plorts and other resources to make \
+fantastic gadgets that you can install all over the world. \n\
+\n\
+Slime Science basics: \n\
+- Shoot plorts and resources into the Refinery (cannot be withdrawn once deposited) \n\
+- Buy new blueprints or discover them in treasure pods \n\
+- Use the Fabricator to make new gadgets \n\
+- <b>Down</b>: Enter Gadget Mode \n\
+- Place gadgets in Gadget Mode \n\
+- <b>Left Trigger/Right Trigger</b>: Rotate gadget (when in Gadget Mode) \n\
+\n\
+Visit the Slime Science section of the Slimepedia for more details on Slime Science.
+m.desc.ssbasics =
+
+t.gadgetmode = Slime Science: Gadget Mode
+m.intro.gadgetmode = A more scientific perspective.
+m.instructions.gadgetmode = In Gadget Mode you can see all available build sites where \
+you can install gadgets. \n\
+\n\
+<b>T</b>: Toggle Gadget Mode \n\
+<b>Left Mouse Button</b>: Rotate gadget clockwise \n\
+<b>Right Mouse Button</b>: Rotate gadget counter-clockwise \n\
+\n\
+NOTE: Your vacpack cannot vac or shoot while in Gadget Mode.
+m.instructions.gamepad.gadgetmode = In Gadget Mode you can see all available build sites where \
+you can install gadgets. \n\
+\n\
+<b>Down</b>: Toggle Gadget Mode \n\
+<b>Left Trigger</b>: Rotate gadget clockwise \n\
+<b>Right Trigger</b>: Rotate gadget counter-clockwise \n\
+\n\
+NOTE: Your vacpack cannot vac or shoot while in Gadget Mode.
+m.desc.gadgetmode =
 
 # Slimes
 t.pink_slime = Pink Slime
@@ -201,7 +290,7 @@ m.slimeology.hunter_slime = The hunter slime is the wild cousin of the tabby sli
 m.risks.hunter_slime = A hunter slime has keen senses and can detect its prey from great distances. This makes \
     finding a good location for their corrals challenging.\n\
     \n\
-    Additionally, the wild nature of the hunter is also passed on to any largos formed form its plorts. A newly \
+    Additionally, the wild nature of the hunter is also passed on to any largos formed from its plorts. A newly \
     created hunter largo will always be feral! A prepared rancher knows that breeding hunter largos should always be \
     done slowly, with a few chickens on hand to calm them down.
 m.plortonomics.hunter_slime = Amazingly, a serum can be made from hunter slime plorts that can actually render a person \
@@ -249,6 +338,14 @@ m.plortonomics.crystal_slime = Though the crystals produced by a crystal slime a
 	completely transparent. This innovation has led to metropolitan areas on Earth completely transforming visually, \
 	allowing more light to reach the streets and the space as a whole a chance to 'breathe.' Architects often describe \
 	these transparent metals as 'so totally cooler than normal, boring metals.'
+
+t.quantum_slime = Quantum Slime
+m.intro.quantum_slime = Its radiance is so lovely it makes you sick.
+m.diet.quantum_slime = Fruit
+m.favorite.quantum_slime = Leap Lemons
+m.slimeology.quantum_slime = Quantum slimes are neither here nor there. Which pretty much means they're everywhere.
+m.risks.quantum_slime = Quantum superposition.
+m.plortonomics.quantum_slime = Quantum slimes are quantum.
 
 
 t.tarr_slime = The Tarr
@@ -452,7 +549,7 @@ m.desc.pear = (Description Forthcoming)
 
 t.chickadoo = Chickadoo
 m.intro.chickadoo = So little and soft you'd think they're filled with marshmallow.
-m.favored_by.chickadoo = (none)
+m.favored_by.chickadoo = (not slime food)
 m.resource_type.chickadoo = Future Meat
 m.how_to_use.chickadoo = Keep chickadoos in a safe place and they'll eventually grow into a hen hen or roostro.
 m.desc.chickadoo = Chickadoos are baby chickens that will eventually grow into a hen hen or more rarely, a roostro.\n\
@@ -462,7 +559,7 @@ m.desc.chickadoo = Chickadoos are baby chickens that will eventually grow into a
 
 t.stony_chickadoo = Stony Chickadoo
 m.intro.stony_chickadoo = This little chick had quite a hard upbringing.
-m.favored_by.stony_chickadoo = (none)
+m.favored_by.stony_chickadoo = (not slime food)
 m.resource_type.stony_chickadoo = Future Meat
 m.how_to_use.stony_chickadoo = Keep stony chickadoos in a safe place and they'll eventually grow into a stony hen or roostro.
 m.desc.stony_chickadoo = Stony chickadoos are baby chickens that will eventually grow into a stony hen or more rarely, a roostro.\n\
@@ -472,7 +569,7 @@ m.desc.stony_chickadoo = Stony chickadoos are baby chickens that will eventually
 
 t.briar_chickadoo = Briar Chickadoo
 m.intro.briar_chickadoo = A breed of chick that's totally bush-league.
-m.favored_by.briar_chickadoo = (none)
+m.favored_by.briar_chickadoo = (not slime food)
 m.resource_type.briar_chickadoo = Future Meat
 m.how_to_use.briar_chickadoo = Keep briar chickadoos in a safe place and they'll eventually grow into a briar hen or roostro.
 m.desc.briar_chickadoo = Briar chickadoos are baby chickens that will eventually grow into a briar hen or more rarely, a roostro.\n\
@@ -554,6 +651,147 @@ m.desc.elder_hen = Elder hens have lived a full-feathered life. They've met the 
     include getting the names of countless books, movies and actors wrong. But don't blame them for that. They're chickens \
     for goodness sake.
 
+t.primordy_oil_craft = Primordy Oil
+m.intro.primordy_oil_craft = This stuff is pre-pre-prehistoric.
+m.favored_by.primordy_oil_craft = (not slime food)
+m.resource_type.primordy_oil_craft = Crafting Material
+m.how_to_use.primordy_oil_craft = Deposit primordy oil into the Lab's Refinery where it can then be used for crafting \
+    Slime Science gadgets.
+m.desc.primordy_oil_craft = Primordy oil is a common resource obtained with a pump.\n\
+    \n\
+    Found deep below the surface of the Far, Far Range, primordy oil is an ancient substance containing a wide array \
+    of organic compounds, making it perfect as a base for many Slime Science creations.
+
+t.deep_brine_craft = Deep Brine
+m.intro.deep_brine_craft = Salt of the earth kind of stuff.
+m.favored_by.deep_brine_craft = (not slime food)
+m.resource_type.deep_brine_craft = Crafting Material
+m.how_to_use.deep_brine_craft = Deposit deep brine into the Lab's Refinery where it can then be used for crafting \
+    Slime Science gadgets.
+m.desc.deep_brine_craft = Deep brine is a common resource exclusive to the Dry Reef, obtained with a pump.\n\
+    \n\
+    Not safe for drinking, deep brine is thought to be water from the Slime Sea that has been filtered by \
+    the subterranean coral of the Dry Reef. It is significantly denser than fresh water and loaded with salt.
+
+t.spiral_steam_craft = Spiral Steam
+m.intro.spiral_steam_craft = If you search for it, you'll find something wonderful.
+m.favored_by.spiral_steam_craft = (not slime food)
+m.resource_type.spiral_steam_craft = Crafting Material
+m.how_to_use.spiral_steam_craft = Deposit spiral steam into the Lab's Refinery where it can then be used for crafting \
+    Slime Science gadgets.
+m.desc.spiral_steam_craft = Spiral steam is an uncommon resource obtained with a pump.\n\
+    \n\
+    Found in highly pressurized vacuums of rock below the surface, spiral steam exhibits a curious behavior \
+    when released into the atmosphere, swirling into a series of dancing spirals before dissipating. It is valued \
+    for the countless micro-particles found within the steam itself. 
+
+t.lava_dust_craft = Lava Dust
+m.intro.lava_dust_craft = A survey on the state of this matter answered 'undecided.'
+m.favored_by.lava_dust_craft = (not slime food)
+m.resource_type.lava_dust_craft = Crafting Material
+m.how_to_use.lava_dust_craft = Deposit lava dust into the Lab's Refinery where it can then be used for crafting \
+    Slime Science gadgets.
+m.desc.lava_dust_craft = Lava dust is a rare resource obtained with a pump.\n\
+    \n\
+    Neither a solid or a liquid, lava dust seems to be something in between, having the characteristics of both. \
+    It is believed to be a mixture of magma and slime, though this has never been proven. And despite its name, lava dust \
+    is only warm to the touch.
+
+t.buzz_wax_craft = Buzz Wax
+m.intro.buzz_wax_craft = Can be used to make a great scented candle if you enjoy the smell of bee abdominal glands.
+m.favored_by.buzz_wax_craft = (not slime food)
+m.resource_type.buzz_wax_craft = Crafting Material
+m.how_to_use.buzz_wax_craft = Deposit buzz wax into the Lab's Refinery where it can then be used for crafting \
+    Slime Science gadgets.
+m.desc.buzz_wax_craft = Buzz wax is a common resource obtained with an apiary.\n\
+    \n\
+    Just like bees on Earth, bees on the Far, Far Range produce a waxy substance that they use to form their hives. \
+    Buzz wax is the still malleable deposits of unused wax found in apiaries. It has many practical uses ranging \
+    from building materials to medicines. You can also chew it as the worst gum in the world.
+
+t.wild_honey_craft = Wild Honey
+m.intro.wild_honey_craft = Tastes great in tea or in shameful handfuls when no one is looking.
+m.favored_by.wild_honey_craft = (not slime food)
+m.resource_type.wild_honey_craft = Crafting Material
+m.how_to_use.wild_honey_craft = Deposit wild honey into the Lab's Refinery where it can then be used for crafting \
+    Slime Science gadgets.
+m.desc.wild_honey_craft = Wild honey is a common resource exclusive to the Moss Blanket, obtained with an apiary.\n\
+    \n\
+    All the rich pollens and sweet nectars found in the forests of the Moss Blanket combine in a beautiful alchemy \
+    to form some of the most delicious honey in the galaxy. Wild honey is a staple of rancher life; a dollop of it \
+    makes just about any food taste better, and it provides a natural boost of energy to get through a tough day of \
+    wrangling slimes. 
+
+t.hexacomb_craft = Hexacomb
+m.intro.hexacomb_craft = Bee stuff and geometry: the chocolate and peanut butter of nature.
+m.favored_by.hexacomb_craft = (not slime food)
+m.resource_type.hexacomb_craft = Crafting Material
+m.how_to_use.hexacomb_craft = Deposit hexacomb into the Lab's Refinery where it can then be used for crafting \
+    Slime Science gadgets.
+m.desc.hexacomb_craft = Hexacomb is an uncommon resource obtained with an apiary.\n\
+    \n\
+    Hexacomb is the result of bees arranging buzz wax into complex patterns to store their honey and eggs. \
+    Why the hexagonal shape? Bees understand that the hexagon is the shape of the future. Bees were Sci-Fi before it was cool.
+
+t.royal_jelly_craft = Royal Jelly
+m.intro.royal_jelly_craft = The king of all jellies... that is, until you meet the queen.
+m.favored_by.royal_jelly_craft = (not slime food)
+m.resource_type.royal_jelly_craft = Crafting Material
+m.how_to_use.royal_jelly_craft = Deposit royal jelly into the Lab's Refinery where it can then be used for crafting \
+    Slime Science gadgets.
+m.desc.royal_jelly_craft = Royal jelly is a rare resource obtained with an apiary. \n\
+    \n\
+    The royal jelly found in the hives across the Far, Far Range is special as it is unnaturally sweet compared to \
+    other varieties. It's believed that this is a result of bees collecting small deposits of slime from honey slimes \
+    and working it into their royal jelly mixture. If a rancher is lucky enough to acquire some, they'll find its \
+    unique properties are very valuable in certain Slime Science endeavors. 
+
+
+t.jellystone_craft = Jellystone
+m.intro.jellystone_craft = It's both solid and squishy at the same time.
+m.favored_by.jellystone_craft = (not slime food)
+m.resource_type.jellystone_craft = Crafting Material
+m.how_to_use.jellystone_craft = Deposit jellystone into the Lab's Refinery where it can then be used for crafting \
+    Slime Science gadgets.
+m.desc.jellystone_craft = Jellystone is a common resource obtained with a drill.\n\
+    \n\
+    Jellystone is a semi-hardened mixture of minerals and slime, possibly resulting from plorts sinking back into \
+    the earth below. Because of its softer texture, it's a favorite stone for sculptors.
+
+t.indigonium_craft = Indigonium
+m.intro.indigonium_craft = Heavy metal experts often call this hard rock 'deep purple.'
+m.favored_by.indigonium_craft = (not slime food)
+m.resource_type.indigonium_craft = Crafting Material
+m.how_to_use.indigonium_craft = Deposit indigonium into the Lab's Refinery where it can then be used for crafting \
+    Slime Science gadgets.
+m.desc.indigonium_craft = Indigonium is a common resource exclusive to the Indigo Quarry, obtained with a drill.\n\
+    \n\
+    Indigonium is the ore that gives the Indigo Quarry its name. There's a little indigonium found in every inch \
+    of the quarry, but the purest ore is only found deep underground.
+
+t.slime_fossil_craft = Slime Fossil
+m.intro.slime_fossil_craft = If history could smile, it would look like this.
+m.favored_by.slime_fossil_craft = (not slime food)
+m.resource_type.slime_fossil_craft = Crafting Material
+m.how_to_use.slime_fossil_craft = Deposit slime fossils into the Lab's Refinery where they can then be used for crafting \
+    Slime Science gadgets.
+m.desc.slime_fossil_craft = Slime fossils are an uncommon resource obtained with a drill.\n\
+    \n\
+    Prized for the ancient minerals they contain, slime fossils are like nature capturing a moment in time. \
+    Specifically, that moment seems to be when a great avalanche or mudslide occurred and a slime was totally cool with it.
+
+t.strange_diamond_craft = Strange Diamond
+m.intro.strange_diamond_craft = Very strange, but even more valuable.
+m.favored_by.strange_diamond_craft = (not slime food)
+m.resource_type.strange_diamond_craft = Crafting Material
+m.how_to_use.strange_diamond_craft = Deposit strange diamonds into the Lab's Refinery where they can then be used for crafting \
+    Slime Science gadgets.
+m.desc.strange_diamond_craft = Strange diamonds are a rare resource obtained with a drill.\n\
+    \n\
+    Even in the dark, these diamonds seem to shine as if light is passing through them. Strange diamonds are \
+    highly valued for their use in a variety of warp tech processes. Being almost impossibly dense and intricate \
+    in their composition, a strange diamond can reflect light within itself so profoundly that it actually bends time.
+
 # Ranch Tech
 t.corral = Corral
 m.intro.corral = A happy slime makes for a happy rancher.
@@ -634,15 +872,24 @@ m.desc.plort_market = The plort market is a network of buyers and sellers of plo
     Plort market values fluctuate and some of the more savvy ranchers will hoard certain plorts for days when sale \
     prices are high, especially rare plorts.
 
-t.overgrowth = Overgrowth
+t.overgrowth = The Overgrowth
 m.intro.overgrowth = The ranch's very own wild side.
-m.desc.overgrowth = The overgrowth is an expansion to the ranch that is covered in moss and tall grasses. The \
+m.desc.overgrowth = The Overgrowth is an expansion to the ranch that is covered in moss and tall grasses. The \
     thicket it creates allows for fruits and veggies to grow naturally and attracts the occasional wild chicken, \
     making it an ideal space for a rancher that wants to let their slimes roam more freely.
+
 t.grotto = The Grotto
 m.intro.grotto = A dark and gloomy cavern above the sea and a likely first chapter to that novel of yours.
-m.desc.grotto = The grotto is an expansion to the ranch set inside a (slightly spooky) cave that allows a rancher to \
+m.desc.grotto = The Grotto is an expansion to the ranch set inside a (slightly spooky) cave that allows a rancher to \
     care for light-sensitive slimes without the need for a solar shield. Never has a phosphor slime felt so liberated.
+
+t.lab = The Lab
+m.intro.lab = Allows you to begin your career as an amateur, unlicensed Slime Scientist.
+m.desc.lab = The Lab is an expansion to the ranch that houses a barn containing Hobson's old, Slime Science workshop. \
+    Once unlocked, the Lab will allow you to fabricate dozens of useful gadgets using Slime Science!\n\
+    \n\
+    It is recommended that only more experienced ranchers unlock the Lab, as Slime Science requires a great many \
+    resources and lots of newbucks to fully master.
 
 # Range
 t.reef = The Dry Reef
@@ -706,6 +953,75 @@ t.keys = Slime Keys
 m.intro.keys = An ancient key for an ancient lock.
 m.desc.keys = Slime Keys are large, stone keys that are used to open the ancient slime gates across the range. \
     These gates often lead to new areas to explore or create shortcuts to familiar ones.
+
+t.refinery = Refinery
+m.intro.refinery = The first step to building fantastic gadgets.
+m.desc.refinery = Using advanced technology, the Refinery breaks down plorts and other resources to their molecular \
+  level, allowing them to be fabricated into various Slime Science gadgets. Aside from plorts, the bulk of resources \
+  you will use in Slime Science will be obtained from extractors.\n\
+  \n\
+  Be sure to choose what to deposit into the Refinery wisely: any resources you deposit cannot be removed from the \
+  refinery, but instead used only for building gadgets.
+
+t.fabricator = Fabricator
+m.intro.fabricator = Let's get crafty.
+m.desc.fabricator = The Fabricator allows you to craft gadgets from a blueprint using resources you have stored in the \
+  Refinery. You can generally build as many gadgets of a specific blueprint as you wish, however some special gadgets \
+  have build limits, allowing you to only own a certain number of them at a time.
+
+t.blueprints = Blueprints
+m.intro.blueprints = All great scientists have a plan... most of the time.
+m.desc.blueprints = Blueprints allow you to craft gadgets at the Fabricator. Once you own a blueprint for a specific \
+  gadget, you can craft it as many times as you like, provided you have the necessary resources and are not exceeding \
+  the build limit.\n\
+  \n\
+  Blueprints can be purchased from the Builder's Shop, or found in treasure pods throughout the Far, Far Range. Some \
+  of them are hiding in really secret spots!
+
+t.extractors = Extractors
+m.intro.extractors = Nature is a treasure hoarder.
+m.desc.extractors = Extractors are a special class of Slime Science gadgets that are essential for building all other \
+  types of gadgets. Extractors include drills, pumps, and apiaries.\n\
+  \n\
+  Once placed on a build site, an extractor will begin working, collecting resources from the environment over time. \
+  Once it is full of resources, an extractor can be emptied. The best extractors can repeat this cycle multiple times \
+  before they finally break down.\n\
+  \n\
+  Each extractor can find exclusive resources if used in the correct zone:\n\
+  Pumps can find a special resource in the Dry Reef.\n\
+  Drills can find a special resource in the Indigo Quarry.\n\
+  Apiaries can find a special resource in the Moss Blanket.
+
+t.utilities = Utilities
+m.intro.utilities = Tools for getting the job done.
+m.desc.utilities = Utilities are a class of Slime Science gadgets that provide useful features to aid you in managing \
+  your ranch, as well as exploring the range.\n\
+  \n\
+  Craft utilities in order to make your slime ranching a little easier.
+
+t.warp_tech = Warp Tech
+m.intro.warp_tech = Try not to think about how it works.
+m.desc.warp_tech = Warp tech is a class of Slime Science gadgets that allow you to harness the power of instantaneous \
+  travel. It includes teleporters that you can use to create shortcuts, as well as gadgets that allow you to transport \
+  items.\n\
+  \n\
+  Craft warp tech in order to ranch and explore much faster and more efficiently.
+
+t.decorations = Decorations
+m.intro.decorations = Be the best rancher, but do it in style.
+m.desc.decorations = Decorations are a class of Slime Science gadgets that allow you to decorate the world with \
+  attractive objects or recreations of natural findings from the environment.\n\
+  \n\
+  Craft decorations in order to make your slime ranching a more beautiful experience!
+
+t.curios = Curios
+m.intro.curios = Because why not?
+m.desc.curios = Curios are a class of Slime Science gadgets that while functional, are not necessarily useful. Curios \
+  include toys, games, and other gimmicky gadgets that can be a great time with an equally great imagination.\n\
+  \n\
+  Craft curios in order to make your slime ranching a little sillier (which is the best kind of slime ranching, to be \
+  honest).
+
 
 ##### LARGOS, hud-only ######
 t.pink_rock_largo = Pink Rock Largo
@@ -783,97 +1099,184 @@ m.upgrade.name.personal.run_efficiency = Dash Boots
 m.upgrade.desc.personal.run_efficiency = These highly advanced and, frankly, fashion-forward boots halve the energy consumption of sprinting.
 m.upgrade.name.personal.air_burst = Pulse Wave
 m.upgrade.desc.personal.air_burst = Adds a pulse wave emitter feature to your vacpack that pushes away slimes whenever you need some personal space.
-m.upgrade.name.personal.health1 = Heart Module
-m.upgrade.desc.personal.health1 = Syncs with your body's own vital processes to enhance life systems, boosting health to 150. Plus, it's sparkly.
-m.upgrade.name.personal.health2 = Heart Module Mk II
-m.upgrade.desc.personal.health2 = A more advanced and even sparklier heart module that boosts health to 200.
-m.upgrade.name.personal.health3 = Heart Module Mk III
-m.upgrade.desc.personal.health3 = The latest in life system amplification and sparkliness technology boosts health to 250.
-m.upgrade.name.personal.energy1 = Power Core
-m.upgrade.desc.personal.energy1 = Augments your vacpack with an almost-certainly-safe micro fusion generator that boosts energy to 150.
-m.upgrade.name.personal.energy2 = Power Core Mk II
-m.upgrade.desc.personal.energy2 = This enhanced micro generator boosts energy to 200; but more importantly, is even smaller.
-m.upgrade.name.personal.energy3 = Power Core Mk III
-m.upgrade.desc.personal.energy3 = The latest micro generator boosts personal energy to 250, but not high enough to give up coffee entirely.
-m.upgrade.name.personal.ammo1 = Tank Booster
-m.upgrade.desc.personal.ammo1 = Improved nano-storage cell technology allows your vac tanks to hold 30 units of whatever you can vac up.
-m.upgrade.name.personal.ammo2 = Tank Booster Mk II
-m.upgrade.desc.personal.ammo2 = These enhanced nano-storage cells throw caution to the wind and allow you to cram 40 units into each vac tank.
-m.upgrade.name.personal.ammo3 = Tank Booster Mk III
-m.upgrade.desc.personal.ammo3 = More is better, but in this case, it's best. These premium nano-storage cells can hold 50 units in each vac tank.
+m.upgrade.name.personal.health_1 = Heart Module
+m.upgrade.desc.personal.health_1 = Syncs with your body's own vital processes to enhance life systems, boosting health to 150. Plus, it's sparkly.
+m.upgrade.name.personal.health_2 = Heart Module Mk II
+m.upgrade.desc.personal.health_2 = A more advanced and even sparklier heart module that boosts health to 200.
+m.upgrade.name.personal.health_3 = Heart Module Mk III
+m.upgrade.desc.personal.health_3 = The latest in life system amplification and sparkliness technology boosts health to 250.
+m.upgrade.name.personal.energy_1 = Power Core
+m.upgrade.desc.personal.energy_1 = Augments your vacpack with an almost-certainly-safe micro fusion generator that boosts energy to 150.
+m.upgrade.name.personal.energy_2 = Power Core Mk II
+m.upgrade.desc.personal.energy_2 = This enhanced micro generator boosts energy to 200; but more importantly, is even smaller.
+m.upgrade.name.personal.energy_3 = Power Core Mk III
+m.upgrade.desc.personal.energy_3 = The latest micro generator boosts personal energy to 250, but not high enough to give up coffee entirely.
+m.upgrade.name.personal.ammo_1 = Tank Booster
+m.upgrade.desc.personal.ammo_1 = Improved nano-storage cell technology allows your vac tanks to hold 30 units of whatever you can vac up.
+m.upgrade.name.personal.ammo_2 = Tank Booster Mk II
+m.upgrade.desc.personal.ammo_2 = These enhanced nano-storage cells throw caution to the wind and allow you to cram 40 units into each vac tank.
+m.upgrade.name.personal.ammo_3 = Tank Booster Mk III
+m.upgrade.desc.personal.ammo_3 = More is better, but in this case, it's best. These premium nano-storage cells can hold 50 units in each vac tank.
+m.upgrade.name.personal.treasure_cracker_1 = Treasure Cracker
+m.upgrade.desc.personal.treasure_cracker_1 = Allows you to bypass the locks on basic treasure pods.
+m.upgrade.name.personal.treasure_cracker_2 = Treasure Cracker Mk II
+m.upgrade.desc.personal.treasure_cracker_2 = Allows you to bypass the locks on more advanced treasure pods.
+m.upgrade.name.personal.treasure_cracker_3 = Treasure Cracker Mk III
+m.upgrade.desc.personal.treasure_cracker_3 = Allows you to bypass the locks on the most advanced treasure pods.
+
+
 
 ##### For gadget panels #####
 m.gadget.name.extractor_drill_novice = Novice Drill
-m.gadget.desc.extractor_drill_novice = TBD
+m.gadget.desc.extractor_drill_novice = Allows you to drill for buried minerals. Lasts 1 cycle.
 m.gadget.name.extractor_drill_advanced = Advanced Drill
-m.gadget.desc.extractor_drill_advanced = TBD
+m.gadget.desc.extractor_drill_advanced = A drill that unearths more minerals, with a higher chance for rare minerals. Lasts 3 cycles.
 m.gadget.name.extractor_drill_master = Master Drill
 m.gadget.desc.extractor_drill_master = TBD
 m.gadget.name.extractor_drill_titan = Titan Drill
 m.gadget.desc.extractor_drill_titan = TBD
 m.gadget.name.extractor_pump_novice = Novice Pump
-m.gadget.desc.extractor_pump_novice = TBD
+m.gadget.desc.extractor_pump_novice = Allows you to siphon underground resources. Lasts 1 cycle.
 m.gadget.name.extractor_pump_advanced = Advanced Pump
-m.gadget.desc.extractor_pump_advanced = TBD
+m.gadget.desc.extractor_pump_advanced = A pump that siphons more resources, with a higher chance for rare resources. Lasts 3 cycles.
 m.gadget.name.extractor_pump_master = Master Pump
 m.gadget.desc.extractor_pump_master = TBD
 m.gadget.name.extractor_pump_abyssal = Abyssal Pump
 m.gadget.desc.extractor_pump_abyssal = TBD
 m.gadget.name.extractor_apiary_novice = Novice Apiary
-m.gadget.desc.extractor_apiary_novice = TBD
+m.gadget.desc.extractor_apiary_novice = Allows you to collect resources from wild bees. Lasts 1 cycle.
 m.gadget.name.extractor_apiary_advanced = Advanced Apiary
-m.gadget.desc.extractor_apiary_advanced = TBD
+m.gadget.desc.extractor_apiary_advanced = An apiary that collects more resources, with a higher chance for rare resources. Lasts 3 cycles.
 m.gadget.name.extractor_apiary_master = Master Apiary
 m.gadget.desc.extractor_apiary_master = TBD
 m.gadget.name.extractor_apiary_royal = Royal Apiary
 m.gadget.desc.extractor_apiary_royal = TBD
 
 m.gadget.name.teleporter_pink = Pink Teleporter
-m.gadget.desc.teleporter_pink = TBD
+m.gadget.desc.teleporter_pink = A set of two teleporters that can be used to create your own quick travel link.
 m.gadget.name.teleporter_blue = Blue Teleporter
-m.gadget.desc.teleporter_blue = TBD
+m.gadget.desc.teleporter_blue = A set of two teleporters that can be used to create your own quick travel link.
 m.gadget.name.teleporter_violet = Violet Teleporter
-m.gadget.desc.teleporter_violet = TBD
+m.gadget.desc.teleporter_violet = A set of two teleporters that can be used to create your own quick travel link.
 m.gadget.name.teleporter_grey = Grey Teleporter
-m.gadget.desc.teleporter_grey = TBD
+m.gadget.desc.teleporter_grey = A set of two teleporters that can be used to create your own quick travel link.
 m.gadget.name.teleporter_green = Green Teleporter
-m.gadget.desc.teleporter_green = TBD
+m.gadget.desc.teleporter_green = A set of two teleporters that can be used to create your own quick travel link.
 m.gadget.name.teleporter_red = Red Teleporter
-m.gadget.desc.teleporter_red = TBD
+m.gadget.desc.teleporter_red = A set of two teleporters that can be used to create your own quick travel link.
 m.gadget.name.teleporter_amber = Amber Teleporter
-m.gadget.desc.teleporter_amber = TBD
+m.gadget.desc.teleporter_amber = A set of two teleporters that can be used to create your own quick travel link.
 m.gadget.name.teleporter_gold = Gold Teleporter
 m.gadget.desc.teleporter_gold = TBD
 
 m.gadget.name.warp_depot_pink = Pink Warp Depot
-m.gadget.desc.warp_depot_pink = TBD
+m.gadget.desc.warp_depot_pink = A set of two gadgets that allow you to remotely transfer resources between two points.
 m.gadget.name.warp_depot_blue = Blue Warp Depot
-m.gadget.desc.warp_depot_blue = TBD
+m.gadget.desc.warp_depot_blue = A set of two gadgets that allow you to remotely transfer resources between two points.
 m.gadget.name.warp_depot_violet = Violet Warp Depot
-m.gadget.desc.warp_depot_violet = TBD
+m.gadget.desc.warp_depot_violet = A set of two gadgets that allow you to remotely transfer resources between two points.
 m.gadget.name.warp_depot_grey = Grey Warp Depot
-m.gadget.desc.warp_depot_grey = TBD
+m.gadget.desc.warp_depot_grey = A set of two gadgets that allow you to remotely transfer resources between two points.
 m.gadget.name.warp_depot_green = Green Warp Depot
-m.gadget.desc.warp_depot_green = TBD
+m.gadget.desc.warp_depot_green = A set of two gadgets that allow you to remotely transfer resources between two points.
 m.gadget.name.warp_depot_red = Red Warp Depot
-m.gadget.desc.warp_depot_red = TBD
+m.gadget.desc.warp_depot_red = A set of two gadgets that allow you to remotely transfer resources between two points.
 m.gadget.name.warp_depot_amber = Amber Warp Depot
-m.gadget.desc.warp_depot_amber = TBD
+m.gadget.desc.warp_depot_amber = A set of two gadgets that allow you to remotely transfer resources between two points.
 m.gadget.name.warp_depot_gold = Gold Warp Depot
 m.gadget.desc.warp_depot_gold = TBD
 
 
 m.gadget.name.med_station = Med Station
-m.gadget.desc.med_station = TBD
+m.gadget.desc.med_station = Rapidly drains your energy to restore health. Fixes you up fast!
 m.gadget.name.hydro_turret = Hydro Turret
-m.gadget.desc.hydro_turret = TBD
+m.gadget.desc.hydro_turret = A defensive cannon that will automatically target tarr and blast them with water.
 m.gadget.name.hydro_shower = Hydro Shower
 m.gadget.desc.hydro_shower = TBD
 m.gadget.name.spring_pad = Spring Pad
-m.gadget.desc.spring_pad = TBD
+m.gadget.desc.spring_pad = Launches anything that touches it straight into the air!
 m.gadget.name.refinery_link = Refinery Link
-m.gadget.desc.refinery_link = TBD
+m.gadget.desc.refinery_link = Allows you to remotely deposit resources into the refinery.
 m.gadget.name.potted_tactus = Potted Tactus
 m.gadget.desc.potted_tactus = TBD
 m.gadget.name.taming_bell = Taming Bell
-m.gadget.desc.taming_bell = TBD
+m.gadget.desc.taming_bell = The dulcet tone of this curious bell will calm the anger of any feral slime that hears it.
+m.gadget.name.slime_hoop = Slimeball Hoop
+m.gadget.desc.slime_hoop = Begins a round of slimeball as soon as a single slime passes through the hoop. What's your high score?
+m.gadget.name.slime_stage = #1 Slime Stage
+m.gadget.desc.slime_stage = Allows you to let other slimes know who is, unequivocally, the number one slime.
+m.gadget.name.lamp_pink = Pink Slime Lamp
+m.gadget.desc.lamp_pink = A decorative lamp housing a happy slime.
+m.gadget.name.lamp_blue = Blue Slime Lamp
+m.gadget.desc.lamp_blue = A decorative lamp housing a happy slime.
+m.gadget.name.lamp_violet = Violet Slime Lamp
+m.gadget.desc.lamp_violet = A decorative lamp housing a happy slime.
+m.gadget.name.lamp_grey = Grey Slime Lamp
+m.gadget.desc.lamp_grey = A decorative lamp housing a happy slime.
+m.gadget.name.lamp_green = Green Slime Lamp
+m.gadget.desc.lamp_green = A decorative lamp housing a happy slime.
+m.gadget.name.lamp_red = Red Slime Lamp
+m.gadget.desc.lamp_red = A decorative lamp housing a happy slime.
+m.gadget.name.lamp_amber = Amber Slime Lamp
+m.gadget.desc.lamp_amber = A decorative lamp housing a happy slime.
+
+m.gadget.name.fashion_pod_handlebar = Handlebar Fashion Pod
+m.gadget.desc.fashion_pod_handlebar = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_shady = Shady Fashion Pod
+m.gadget.desc.fashion_pod_shady = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_clip_on = Clip-On Fashion Pod
+m.gadget.desc.fashion_pod_clip_on = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_googly = Googly Fashion Pod
+m.gadget.desc.fashion_pod_googly = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_serious = Serious Fashion Pod
+m.gadget.desc.fashion_pod_serious = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_smart = Smart Fashion Pod
+m.gadget.desc.fashion_pod_smart = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_dandy = Dandy Fashion Pod
+m.gadget.desc.fashion_pod_dandy = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_cute = Cute Fashion Pod
+m.gadget.desc.fashion_pod_cute = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_royal = Royal Fashion Pod
+m.gadget.desc.fashion_pod_royal = Fashion pods allow you to vac up fashionable accessories for your slimes. \
+    Shoot them on to slimes to totally up their game.
+m.gadget.name.fashion_pod_remover = Fashion Pod Remover
+m.gadget.desc.fashion_pod_remover = A special fashion pod that removes fashion pod accessories from slimes.
+
+m.gadget.name.sponge_tree = Sponge Tree
+m.gadget.desc.sponge_tree = A squishy sponge tree that can store a lot of water during dry months.
+m.gadget.name.sponge_shrub = Sponge Shrub
+m.gadget.desc.sponge_shrub = Chunks of these shrubs are great for scrubbing up in the bath.
+m.gadget.name.pink_coral_columns = Pink Coral Columns
+m.gadget.desc.pink_coral_columns = These coral towers are a reminder that the dry reef was once below the slime sea.
+m.gadget.name.coral_grass_patch = Coral Grass Patch
+m.gadget.desc.coral_grass_patch = This soft, pink grass makes for a lovely place to take a nap.
+
+m.gadget.name.mossy_tree = Mossy Tree
+m.gadget.desc.mossy_tree = A deeply verdant tree found in the tangled thicket of the Moss Blanket.
+m.gadget.name.mossy_tree_stump = Mossy Tree Stump
+m.gadget.desc.mossy_tree_stump = All that remains of one of the great trees found in the Moss Blanket.
+m.gadget.name.glow_cones = Glow Cones
+m.gadget.desc.glow_cones = A strange flora that explorers often used to find their way in the night.
+m.gadget.name.wildflower_patch = Wildflower Patch
+m.gadget.desc.wildflower_patch = A patch of the sweet-smelling flowers that honey slimes enjoy.
+m.gadget.name.jumbo_shroom = Jumbo Shroom
+m.gadget.desc.jumbo_shroom = Not a regular shroom, or even a large one. No, something more.
+
+m.gadget.name.minty_grass_patch = Minty Grass Patch
+m.gadget.desc.minty_grass_patch = Though this grass does indeed have a pleasant, minty aroma, the taste is quite bitter.
+m.gadget.name.blue_coral_columns = Blue Coral Columns
+m.gadget.desc.blue_coral_columns = Coral towers whose color has shifted to the minerals found in the Indigo Quarry.
+m.gadget.name.hexium_formation = Hexium Formation
+m.gadget.desc.hexium_formation = A strange ore whose geometric array is consistent on even a molecular level.
+m.gadget.name.crystal_cluster = Crystal Cluster
+m.gadget.desc.crystal_cluster = You may think this is a clutch or even a collection of crystals. You would be wrong.
+m.gadget.name.fireflower_patch = Fireflower Patch
+m.gadget.desc.fireflower_patch = Flowers grown from volcanic ash that take on a burning hue.
