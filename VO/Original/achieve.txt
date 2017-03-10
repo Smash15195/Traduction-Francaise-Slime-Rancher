@@ -52,6 +52,8 @@ t.discovered_moss = On The Other Side
 m.reqmt.discovered_moss = Discover the Moss Blanket
 t.discovered_desert = Smoke, Fire, and Mirrors
 m.reqmt.discovered_desert = Discover the Glass Desert
+t.discovered_ruins = Into the Past
+m.reqmt.discovered_ruins = Discover the Ancient Ruins
 
 t.burst_gordo = Jelly Belly Burst
 m.reqmt.burst_gordo = Burst a gordo slime
@@ -114,3 +116,19 @@ m.reqmt.time_limit_currency_b = Reach at least 25,000 newbucks at the end of a 5
 
 t.time_limit_currency_c = 5-Day Plortmaster
 m.reqmt.time_limit_currency_c = Reach at least 50,000 newbucks at the end of a 5-Day Rush
+
+t.fabricate_gadgets_a = Onward... to SCIENCE!
+m.reqmt.fabricate_gadgets_a = Fabricate your first Slime Science gadget.
+
+t.fabricate_gadgets_b = Bea the Builder
+m.reqmt.fabricate_gadgets_b = Fabricate 35 Slime Science gadgets.
+
+t.fabricate_gadgets_c = Never Stop Creating
+m.reqmt.fabricate_gadgets_c = Fabricate 100 Slime Science gadgets.
+
+t.slime_stage_tarr = Best of the Worst
+m.reqmt.slime_stage_tarr = Place a tarr on the #1 Slime Stage.
+
+t.slimeball_score = She's on Fire!
+m.reqmt.slimeball_score = Score 50 points in a single game of slimeball.
+ 

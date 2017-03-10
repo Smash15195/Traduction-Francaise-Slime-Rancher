@@ -1,2 +1,0 @@
-m.version = 0.3.4b
-m.timestamp = 20160707101250

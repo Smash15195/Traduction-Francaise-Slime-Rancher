@@ -33,6 +33,7 @@ m.pedia_hint = {0}: Slimepédia
 m.hudinfo_diet = Régime: {0}
 m.hudinfo_type = Type Nourriture: {0}
 m.hudinfo_plort = Type: Plort
+m.hudinfo_echo = Type: Écho
 
 m.foodgroup.veggies = Légume
 m.foodgroup.fruit = Fruit
@@ -373,7 +374,7 @@ l.exchange_progress = {0}/{1}
 l.no_offers_available = Marché Lointain\nHors Ligne...
 l.request = Donnez-moi:
 l.receive = Et vous recevrez:
-l.exchange_directions = Tirez les articles demandés dans la borne pour terminer l'échange.
+l.exchange_directions = Tirez les objets demandés dans la borne pour terminer l'échange.
 
 # Screenshot
 m.gif_screenshot_confirm = Faire un GIF de vos dernières secondes de jeu?
@@ -394,6 +395,9 @@ e.savefile_inaccessible = Ce fichier de sauvegarde est inaccessible et ne peut �
 e.savefile_invalid_name = Ce nom de sauvegarde est invalide et ne peut être écrit: {0}
 e.savefile_dir_not_found = Le dossier de sauvegarde n'a pas été trouvé: {0}
 e.savefile_unknown = Une erreur inconnue a empêché l'écriture du fichier de sauvegarde: {0}
+
+# Load Errors
+e.pushfile_error = La sauvegarde {0} ne peut être chargé. Veuillez contacter le support.
 
 # End game UI
 b.take_screenshot = Prendre une Capture

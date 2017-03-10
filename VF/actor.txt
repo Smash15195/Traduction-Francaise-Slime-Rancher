@@ -79,6 +79,8 @@ l.cuberry_fruit = Cubifraise
 l.mango_fruit = Manguamenthe
 l.pear_fruit = Picopoire
 l.pogo_fruit = Pogofruit
+l.lemon_fruit = Schrödintron
+l.lemon_phase = Schrödintron
 
 l.carrot_veggie = Carotte
 l.ocaoca_veggie = Oca Oca
@@ -110,6 +112,11 @@ l.jellystone_craft = Visquo-roche
 l.indigonium_craft = Indigonium
 l.slime_fossil_craft = Fossislime
 l.strange_diamond_craft = Bizarro Diamant
+
+l.red_echo = Écho Rouge
+l.green_echo = Écho Vert 
+l.blue_echo = Écho Bleu
+l.gold_echo = Écho Doré
 
 l.handlebar_fashion = Moustache Distinguée
 l.shady_fashion = Lunettes de Soleil

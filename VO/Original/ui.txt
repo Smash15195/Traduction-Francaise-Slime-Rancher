@@ -33,6 +33,7 @@ m.pedia_hint = {0}: Slimepedia
 m.hudinfo_diet = Diet: {0}
 m.hudinfo_type = Food Type: {0}
 m.hudinfo_plort = Type: Plort
+m.hudinfo_echo = Type: Echo
 
 m.foodgroup.veggies = Veggie
 m.foodgroup.fruit = Fruit
@@ -255,12 +256,12 @@ l.antialiasing_multisampling_2x = 2x Multi-sampling
 l.antialiasing_multisampling_4x = 4x Multi-sampling
 l.antialiasing_multisampling_8x = 8x Multi-sampling
 
-l.model_detail = Slime Quality:
+l.model_detail = Model Quality:
 l.model_detail_low = Low
 l.model_detail_medium = Medium
 l.model_detail_high = High
 
-l.water_detail = Water Quality:
+l.water_detail = Shader Quality:
 l.water_detail_low = Low
 l.water_detail_medium = Medium
 l.water_detail_high = High
@@ -394,6 +395,9 @@ e.savefile_inaccessible = The save file is inaccessible and cannot be written: {
 e.savefile_invalid_name = The save file name is invalid and cannot be written: {0}
 e.savefile_dir_not_found = The save file directory was not found: {0}
 e.savefile_unknown = An unknown error prevented writing the save file: {0}
+
+# Load Errors
+e.pushfile_error = The saved game named {0} could not be loaded. Please contact support.
 
 # End game UI
 b.take_screenshot = Take Screenshot

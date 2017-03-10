@@ -49,9 +49,11 @@ m.reqmt.feed_favorites = Nourrir 50 slimes dans votre ranch avec leur nourriture
 t.discovered_quarry = Avoir Bonne Mine
 m.reqmt.discovered_quarry = Découvrir la Carrière Indigo
 t.discovered_moss = De l'autre Coté
-m.reqmt.discovered_moss = Découvrir la Moss Blanket
+m.reqmt.discovered_moss = Découvrir la COntrée Émeraude
 t.discovered_desert = Fumée, Feu et Miroirs
 m.reqmt.discovered_desert = Découvrir le Désert de Verre
+t.discovered_ruins = Retour vers le Passé
+m.reqmt.discovered_ruins = Découvrir les Ruines Antiques
 
 t.burst_gordo = Explosion de Jelly Belly
 m.reqmt.burst_gordo = Exploser un Slime Gordo
@@ -114,3 +116,19 @@ m.reqmt.time_limit_currency_b = Atteindre au moins 25,000 newbucks à la fin du 
 
 t.time_limit_currency_c = 5 Jours MaîtrePlort
 m.reqmt.time_limit_currency_c = Atteindre au moins 50,000 newbucks à la fin du défi
+
+t.fabricate_gadgets_a = En avant... vers la SCIENCE !
+m.reqmt.fabricate_gadgets_a = Fabriquer votre premier gadget.
+
+t.fabricate_gadgets_b = Bea le constructrice
+m.reqmt.fabricate_gadgets_b = Fabriquer 35 gadgets.
+
+t.fabricate_gadgets_c = Folie Créatrice
+m.reqmt.fabricate_gadgets_c = Fabriquer 100 gadgets.
+
+t.slime_stage_tarr = Le Meilleur des Mauvais
+m.reqmt.slime_stage_tarr = Mettre un tarr sur le #1 Slime Stage.
+
+t.slimeball_score = BOOM SHAKALAKA !
+m.reqmt.slimeball_score = Faire 50 points en une partie de slimesket.
+ 

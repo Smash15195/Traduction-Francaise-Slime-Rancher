@@ -261,7 +261,7 @@ m.plortonomics.boom_slime = Les Boom Plort hautement volatile ont toutes sortes 
     recherche 'Soin, ablation et chirurgie destructrice.’ Génial non !
 
 t.honey_slime = Slime Mielleux
-m.intro.honey_slime = 'Rien n'est plus doux que (le plort fraichement produit) du miel.'
+m.intro.honey_slime = Rien n'est plus doux que (le plort fraichement produit) du miel.
 m.diet.honey_slime = Fruit
 m.favorite.honey_slime = Mangamenthe
 m.slimeology.honey_slime = Les Slimes Mielleux ont une chance de se reproduire en slime hyper-onctueux. La plupart \
@@ -337,12 +337,20 @@ m.plortonomics.crystal_slime = Bien que les cristaux produits par ces slimes soi
 	souvent ces métaux transparents 'de métaux aussi ennuyeux qu'ils sont froids.'
 	
 t.quantum_slime = Slime Quantique
-m.intro.quantum_slime = Son rayonnement est beau à en rendre malade.
+m.intro.quantum_slime = A slime that really shows its potential.
 m.diet.quantum_slime = Fruit
-m.favorite.quantum_slime = Leap Lemons
-m.slimeology.quantum_slime = Les Slime Quantique à un endroit tout en étant ailleurs. Ils sont là sans l'être, partout et nulle part.
-m.risks.quantum_slime = Superposition quantique.
-m.plortonomics.quantum_slime = Les slimes quantique sont quantique.
+m.favorite.quantum_slime = Phase Lemon
+m.slimeology.quantum_slime = Quantum slimes appear to have resulted from some sort of event that took place in the \
+    Ancient Ruins long ago. At all times, the quantum slime is capable of emitting other possible realities of their \
+	being. Called 'ghosts,' these other realities can come true, with the quantum slime aligning with the reality of \
+	the ghost, effectively teleporting.
+m.risks.quantum_slime = Quantum slimes can be one of the most difficult slimes to manage, given their unique \
+    abilities. A rancher needs to learn to detect when quantum slimes are primed to take over the reality of a ghost \
+	and act quickly, such as feeding them or just splashing them with some fresh water as a temporary measure.
+m.plortonomics.quantum_slime = Quantum plorts are believed by many to hold the secret to infinite resources.  Given \
+    the quantum slime's ability to change reality, it's theorized that unlocking the potential of quantum plorts could \
+	allow for a technology that converges the realities of other entities into our reality and- well, basically we're \
+	talking about cloning stuff. Infinite energy, chickens, whatever. Probably no harmful side effects to this at all.
 
 
 t.tarr_slime = Le Tarr
@@ -543,6 +551,18 @@ m.how_to_use.pear = Déposez une Picopoire dans la borne d'un jardin et vous aur
     Cet arbre durera plusieurs récoltes. 
 m.desc.pear = (Description Forthcoming)
 
+t.lemon = Phase Lemon
+m.intro.lemon = Plucked from a tree rooted in the... past? Future? Or...?
+m.favored_by.lemon = Quantum Slime
+m.resource_type.lemon = Fruit
+m.how_to_use.lemon = Deposit a phase lemon into a garden's depositor and you'll grow a large phase lemon tree of your \
+    very own. This tree will last for several harvests. 
+m.desc.lemon = A phase lemon comes from a different place and time. They are like an echo, reverberating \
+    through the halls of the Ancient Ruins, never staying in the same place for long.\n\
+	\n\
+	In order to harvest phase lemons a rancher must pass fruit matter through the phase lemon tree when lemons are \
+	present. This process somehow removes the fruit from our reality and phases in a lemon in exchange.
+
 # Les Animaux
 t.chickadoo = Poussinou
 m.intro.chickadoo = Si petit et doux qu'on les croirait rempli de guimauve.
@@ -652,7 +672,7 @@ m.desc.elder_hen = Les Mamipoules ont eu une vie bien remplie. Elles ont rencont
 t.primordy_oil_craft = Huile Originelle
 m.intro.primordy_oil_craft = Ce machin est pré-pré-préhistorique.
 m.favored_by.primordy_oil_craft = (Non comestible)
-m.resource_type.primordy_oil_craft = Matériau d'artisanat
+m.resource_type.primordy_oil_craft = Matériau
 m.how_to_use.primordy_oil_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
     de gadgets.
 m.desc.primordy_oil_craft = L'Huile Originelle est une ressource commune obtenue avec une pompe.\n\
@@ -663,7 +683,7 @@ m.desc.primordy_oil_craft = L'Huile Originelle est une ressource commune obtenue
 t.deep_brine_craft = Saumure des Profondeurs
 m.intro.deep_brine_craft = Le sel de la terre, si on peut dire.
 m.favored_by.deep_brine_craft = (Non comestible)
-m.resource_type.deep_brine_craft = Matériau d'artisanat
+m.resource_type.deep_brine_craft = Matériau
 m.how_to_use.deep_brine_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
     de gadgets.
 m.desc.deep_brine_craft = La Saumure des Profondeurs est une ressource unique au Récif Aride. Il s'obtient avec un pompe.\n\
@@ -674,7 +694,7 @@ m.desc.deep_brine_craft = La Saumure des Profondeurs est une ressource unique au
 t.spiral_steam_craft = Vapeur Spirale
 m.intro.spiral_steam_craft = Si vous la recherchez, vous trouverez quelque chose de merveilleux.
 m.favored_by.spiral_steam_craft = (Non comestible)
-m.resource_type.spiral_steam_craft = Matériau d'artisanat
+m.resource_type.spiral_steam_craft = Matériau
 m.how_to_use.spiral_steam_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
     de gadgets.
 m.desc.spiral_steam_craft = La Vapeur Spirale est une ressource rare obtenue avec une pompe.\n\
@@ -686,7 +706,7 @@ m.desc.spiral_steam_craft = La Vapeur Spirale est une ressource rare obtenue ave
 t.lava_dust_craft = Poussière de Lave
 m.intro.lava_dust_craft = Liquide ou solide ? On vous laisse décider.
 m.favored_by.lava_dust_craft = (Non comestible)
-m.resource_type.lava_dust_craft = Matériau d'artisanat
+m.resource_type.lava_dust_craft = Matériau
 m.how_to_use.lava_dust_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
     de gadgets.
 m.desc.lava_dust_craft = La Poussière de Lave est une ressource rare obtenue avec une pompe.\n\
@@ -698,7 +718,7 @@ m.desc.lava_dust_craft = La Poussière de Lave est une ressource rare obtenue av
 t.buzz_wax_craft = Cire Bourdonnante
 m.intro.buzz_wax_craft = Peut servir pour la confection de bougies parfumées si vous aimez l'odeur des glandes d'abeilles.
 m.favored_by.buzz_wax_craft = (Non comestible)
-m.resource_type.buzz_wax_craft = Matériau d'artisanat
+m.resource_type.buzz_wax_craft = Matériau
 m.how_to_use.buzz_wax_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
     de gadgets.
 m.desc.buzz_wax_craft = La Cire Bourdonnante est une ressource commune obtenue avec un rucher.\n\
@@ -710,7 +730,7 @@ m.desc.buzz_wax_craft = La Cire Bourdonnante est une ressource commune obtenue a
 t.wild_honey_craft = Miel Sauvage
 m.intro.wild_honey_craft = Délicieux avec du thé ou par poignées quand personne ne regarde.
 m.favored_by.wild_honey_craft = (Non comestible)
-m.resource_type.wild_honey_craft = Matériau d'artisanat
+m.resource_type.wild_honey_craft = Matériau
 m.how_to_use.wild_honey_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
     de gadgets.
 m.desc.wild_honey_craft = Le Miel Sauvage est une ressource unique à la Contrée Émeraude. Elle est obtenue avec un rucher.\n\
@@ -723,7 +743,7 @@ m.desc.wild_honey_craft = Le Miel Sauvage est une ressource unique à la Contré
 t.hexacomb_craft = Nid d'Abeille
 m.intro.hexacomb_craft = Le mariage du sucré et de la géométrie: Le nutella de la nature.
 m.favored_by.hexacomb_craft = (Non comestible)
-m.resource_type.hexacomb_craft = Matériau d'artisanat
+m.resource_type.hexacomb_craft = Matériau
 m.how_to_use.hexacomb_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
     de gadgets.
 m.desc.hexacomb_craft = Le Nid d'Abeille est un ressource rare obtenue avec un rucher.\n\
@@ -734,7 +754,7 @@ m.desc.hexacomb_craft = Le Nid d'Abeille est un ressource rare obtenue avec un r
 t.royal_jelly_craft = Gelée Royale
 m.intro.royal_jelly_craft = La reine des gelées... jusqu'au moment de rencontrer la reine.
 m.favored_by.royal_jelly_craft = (Non comestible)
-m.resource_type.royal_jelly_craft = Matériau d'artisanat
+m.resource_type.royal_jelly_craft = Matériau
 m.how_to_use.royal_jelly_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
     de gadgets.
 m.desc.royal_jelly_craft = La Gelée Royale est une ressource rare obtenue avec un rucher. \n\
@@ -748,7 +768,7 @@ m.desc.royal_jelly_craft = La Gelée Royale est une ressource rare obtenue avec 
 t.jellystone_craft = Visquo-roche
 m.intro.jellystone_craft = Solide et fragile à la fois.
 m.favored_by.jellystone_craft = (Non comestible)
-m.resource_type.jellystone_craft = Matériau d'artisanat
+m.resource_type.jellystone_craft = Matériau
 m.how_to_use.jellystone_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
     de gadgets.
 m.desc.jellystone_craft = La Visquo-roche est une ressource commune obtenue avec une foreuse.\n\
@@ -759,7 +779,7 @@ m.desc.jellystone_craft = La Visquo-roche est une ressource commune obtenue avec
 t.indigonium_craft = Indigonium
 m.intro.indigonium_craft = Les experts en métaux lourds l'appellent souvent 'deep purple.'
 m.favored_by.indigonium_craft = (Non comestible)
-m.resource_type.indigonium_craft = Matériau d'artisanat
+m.resource_type.indigonium_craft = Matériau
 m.how_to_use.indigonium_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
     de gadgets.
 m.desc.indigonium_craft = L'Indigonium est une ressource unique de la Carrière Indigo, il s'obtient avec une foreuse.\n\
@@ -770,7 +790,7 @@ m.desc.indigonium_craft = L'Indigonium est une ressource unique de la Carrière 
 t.slime_fossil_craft = Fossislime
 m.intro.slime_fossil_craft = Si l'histoire pouvait sourire, elle le ferait comme ça.
 m.favored_by.slime_fossil_craft = (Non comestible)
-m.resource_type.slime_fossil_craft = Matériau d'artisanat
+m.resource_type.slime_fossil_craft = Matériau
 m.how_to_use.slime_fossil_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
     de gadgets.
 m.desc.slime_fossil_craft = Les Fossislimes sont une ressource rare obtenues avec une foreuse.\n\
@@ -781,7 +801,7 @@ m.desc.slime_fossil_craft = Les Fossislimes sont une ressource rare obtenues ave
 t.strange_diamond_craft = Bizarro Diamant
 m.intro.strange_diamond_craft = Très étrange, mais très précieux.
 m.favored_by.strange_diamond_craft = (Non comestible)
-m.resource_type.strange_diamond_craft = Matériau d'artisanat
+m.resource_type.strange_diamond_craft = Matériau
 m.how_to_use.strange_diamond_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
     de gadgets.
 m.desc.strange_diamond_craft = Les Bizarro Diamants sont une ressources rares obtenues avec une foreuse.\n\
@@ -789,6 +809,19 @@ m.desc.strange_diamond_craft = Les Bizarro Diamants sont une ressources rares ob
     Même dans le noir, ces diamants semblent briller dès qu'un rayon de lumière passe au-travers. Les Bizarro Diamants sont \
     très précieux pour leur utilité dans la Technologie de Distorsion. De composition ultra dense, ces diamants peuvent \
     réfléchir si profondément la lumière à l'intérieur d'eux qu'ils en plient l'espace-temps au sein de leurs noyaux.
+
+t.echoes = Echoes
+m.intro.echoes = A mote of light, or perhaps, a memory?
+m.favored_by.echoes = (not slime food)
+m.resource_type.echoes = Unique
+m.how_to_use.echoes = Echoes can be used as decorations. Simply vac them up and shoot them anywhere you want. They'll \
+	hover in that spot until you vac them up.
+m.desc.echoes = Within the crumbling walls of the Ancient Ruins, small traces of energy can be found, never staying \
+    in one place for very long. Called echoes, they are believed to be a phenomenon resulting from some kind of \
+	ancient event. Since they are harmless, echoes are often collected by ranchers as good luck charms or used as \
+	decorations.\n\
+	\n\
+	Echoes appear regularly in the nooks and crannies of the Ancient Ruins, as well as from extractors.
 	
 # Technologie du Ranch
 t.corral = Enclos
@@ -922,6 +955,17 @@ m.desc.moss = La Contrée d'Émeraude est une île couverte d'une fine couche de
     Les slimes qui ont élu domicile dans l'environnement verdoyant de la Contrée d'Émeraude y trouve des conditions idéale de survie. \
     Les Slime Tigrés et Boom y chassent facilement et les Slimes Mielleux y trouvent pléthore de fleurs et fruits à manger dans tout \
 	les recoins.
+
+t.ruins = The Ancient Ruins
+m.intro.ruins = All that is lost is eventually found, and lost once more.
+m.desc.ruins = Hidden behind a vast mountain range, the Ancient Ruins stand as one of the few known unnatural \
+    structures on the Far, Far Range. Their origin remains a mystery, as do the strange occurences that happen \
+	within.\n\
+	\n\
+	Home to quantum slimes that seem to express many other possible realities of their being, and phase lemon trees \
+	that do not remain in one time or place for very long, the Ancient Ruins defy logic and expectation.\n\
+	\n\
+	Only one thing is certain in the Ancient Ruins: within its deepest chambers lies its greatest secret.
 
 t.desert = Le Désert de Verre
 m.intro.desert = TBD
@@ -1063,6 +1107,15 @@ t.phosphor_crystal_largo = Dodu Luciole Cristallin
 t.rad_crystal_largo = Dodu Radiant Cristallin
 t.rock_crystal_largo = Dodu Rocheux Cristallin
 t.tabby_crystal_largo = Dodu Tigré Cristallin
+t.pink_quantum_largo = Pink Quantum Largo
+t.quantum_boom_largo = Quantum Boom Largo
+t.quantum_crystal_largo = Quantum Crystal Largo
+t.quantum_honey_largo = Quantum Honey Largo
+t.quantum_hunter_largo = Quantum Hunter Largo
+t.quantum_phosphor_largo = Quantum Phosphor Largo
+t.quantum_rad_largo = Quantum Rad Largo
+t.quantum_rock_largo = Quantum Rock Largo
+t.quantum_tabby_largo = Quantum Tabby Largo
 
 ##### Plorts HUD Only #####
 t.gold_plort = Plort Doré
@@ -1076,6 +1129,13 @@ t.honey_plort = Plort Mielleux
 t.hunter_plort = Plort Chasseur
 t.puddle_plort = Plort Flasque
 t.crystal_plort = Plort Cristal
+t.quantum_plort = Quantum Plort
+
+##### Echoes HUD Only #####
+t.red_echo = Red Echo
+t.green_echo = Green Echo
+t.blue_echo = Blue Echo
+t.gold_echo = Gold Echo
 
 ##### Gordos HUD Only #####
 t.pink_gordo = Gordo Rose
@@ -1087,6 +1147,8 @@ t.boom_gordo = Gordo Boom
 t.honey_gordo = Gordo Mielleux
 t.hunter_gordo = Gordo Chasseur
 t.puddle_gordo = Gordo Flasque
+t.crystal_gordo = Crystal Gordo
+t.quantum_gordo = Quantum Gordo
 
 ##### For personal upgrade panel #####
 m.upgrade.name.personal.liquid_slot = Réservoir d'Eau
@@ -1281,3 +1343,16 @@ m.gadget.name.crystal_cluster = Gisement de Cristaux
 m.gadget.desc.crystal_cluster = Vous pourriez penser que c'est un amas ou même un regroupement de cristaux. Vous auriez tort.
 m.gadget.name.fireflower_patch = Parterre de Carbofleur
 m.gadget.desc.fireflower_patch = Fleurs provenant de cendres volcaniques qui prennent une teinte flamboyante.
+
+m.gadget.name.sunburst_tree = Sunburst Tree
+m.gadget.desc.sunburst_tree = A tree from the mysterious ruins whose golden leaves shine like the sun.
+m.gadget.name.verdant_grass_patch = Verdant Grass Patch
+m.gadget.desc.verdant_grass_patch = The grass in the ruins is unusually rich, as if the soil contains minerals unlike anywhere on the range.
+m.gadget.name.star_flower_patch = Star Flower Patch
+m.gadget.desc.star_flower_patch = Star flowers are said to have grown from the fragments of a shooting star, but of course, that's impossible.
+m.gadget.name.ruined_pillar = Ruined Pillar
+m.gadget.desc.ruined_pillar = The stone structures of the ruins once supported vast temples, and some say, time itself.
+m.gadget.name.glow_sticks = Glow Sticks
+m.gadget.desc.glow_sticks = Though these luminescent devices are similar to other elements of the ruins, they are not nearly as old.
+m.gadget.name.crystal_sconce = Crystal Sconce
+m.gadget.desc.crystal_sconce = The light from these sconces appears to be endless, perhaps illuminating the past as much as the present.
