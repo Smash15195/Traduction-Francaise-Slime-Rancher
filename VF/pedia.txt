@@ -337,9 +337,9 @@ m.plortonomics.crystal_slime = Bien que les cristaux produits par ces slimes soi
 	souvent ces métaux transparents 'de métaux aussi ennuyeux qu'ils sont froids.'
 	
 t.quantum_slime = Slime Quantique
-m.intro.quantum_slime = A slime that really shows its potential.
+m.intro.quantum_slime = Un slime qui montre tout son potentiel.
 m.diet.quantum_slime = Fruit
-m.favorite.quantum_slime = Phase Lemon
+m.favorite.quantum_slime = Schrödintron
 m.slimeology.quantum_slime = Quantum slimes appear to have resulted from some sort of event that took place in the \
     Ancient Ruins long ago. At all times, the quantum slime is capable of emitting other possible realities of their \
 	being. Called 'ghosts,' these other realities can come true, with the quantum slime aligning with the reality of \
@@ -551,17 +551,17 @@ m.how_to_use.pear = Déposez une Picopoire dans la borne d'un jardin et vous aur
     Cet arbre durera plusieurs récoltes. 
 m.desc.pear = (Description Forthcoming)
 
-t.lemon = Phase Lemon
-m.intro.lemon = Plucked from a tree rooted in the... past? Future? Or...?
-m.favored_by.lemon = Quantum Slime
+t.lemon = Schrödintron
+m.intro.lemon = Cueilli d'un arbre poussant dans... le passé ? Le futur ? Ou...?
+m.favored_by.lemon = Slime Quantique
 m.resource_type.lemon = Fruit
-m.how_to_use.lemon = Deposit a phase lemon into a garden's depositor and you'll grow a large phase lemon tree of your \
-    very own. This tree will last for several harvests. 
-m.desc.lemon = A phase lemon comes from a different place and time. They are like an echo, reverberating \
-    through the halls of the Ancient Ruins, never staying in the same place for long.\n\
+m.how_to_use.lemon = DDéposez un Schrödintron dans la borne d'un jardin et vous aurez un arbre fruitier de Schrödintron. \
+    Cet arbre durera plusieurs récoltes.
+m.desc.lemon = Un Schrödintron sont à plusieurs endroits en même temps. Ils sont comme l'écho, brillant un peu partout\
+    dans les Ruines Antiques, ne restant jamais au même endroit.\n\
 	\n\
-	In order to harvest phase lemons a rancher must pass fruit matter through the phase lemon tree when lemons are \
-	present. This process somehow removes the fruit from our reality and phases in a lemon in exchange.
+	Pour récolter les Schrödintron un rancher doit faire passer la matière du fruit par un Schrödintronier quand les citrons sont \
+présent. Ce processus en quelque sorte enlève le fruit de notre réalité et le transfert dans un citron.
 
 # Les Animaux
 t.chickadoo = Poussinou
@@ -810,18 +810,18 @@ m.desc.strange_diamond_craft = Les Bizarro Diamants sont une ressources rares ob
     très précieux pour leur utilité dans la Technologie de Distorsion. De composition ultra dense, ces diamants peuvent \
     réfléchir si profondément la lumière à l'intérieur d'eux qu'ils en plient l'espace-temps au sein de leurs noyaux.
 
-t.echoes = Echoes
-m.intro.echoes = A mote of light, or perhaps, a memory?
-m.favored_by.echoes = (not slime food)
+t.echoes = Échos
+m.intro.echoes = Un bout de lumière ou peut-être de mémoire ?
+m.favored_by.echoes = (non comestible)
 m.resource_type.echoes = Unique
-m.how_to_use.echoes = Echoes can be used as decorations. Simply vac them up and shoot them anywhere you want. They'll \
-	hover in that spot until you vac them up.
-m.desc.echoes = Within the crumbling walls of the Ancient Ruins, small traces of energy can be found, never staying \
-    in one place for very long. Called echoes, they are believed to be a phenomenon resulting from some kind of \
-	ancient event. Since they are harmless, echoes are often collected by ranchers as good luck charms or used as \
-	decorations.\n\
+m.how_to_use.echoes = Les Échos peuvent être utilisés comme décorations. Aspirez-les et tirez-les où vous voulez. \
+	Ils resteront là où vous les avez envoyés.
+m.desc.echoes = Dans les murs en ruine des Ruines Antiques, de petites traces d'énergie peuvent être aperçues, ne restant jamais \
+    au même endroit très longtemps. Appelé échos, elles sont un phénomène résultant d'une sorte d'événement passé. \
+	Comme elles sont inoffensives, les échos sont souvent recueillis par les rancheurs comme porte-bonheur ou utilisés comme \
+	décorations.\n\
 	\n\
-	Echoes appear regularly in the nooks and crannies of the Ancient Ruins, as well as from extractors.
+	Les Échos apparaissent régulièrement dans les coins et recoins des Ruines Antiques, ainsi que dans les extracteurs.
 	
 # Technologie du Ranch
 t.corral = Enclos
@@ -956,16 +956,15 @@ m.desc.moss = La Contrée d'Émeraude est une île couverte d'une fine couche de
     Les Slime Tigrés et Boom y chassent facilement et les Slimes Mielleux y trouvent pléthore de fleurs et fruits à manger dans tout \
 	les recoins.
 
-t.ruins = The Ancient Ruins
-m.intro.ruins = All that is lost is eventually found, and lost once more.
-m.desc.ruins = Hidden behind a vast mountain range, the Ancient Ruins stand as one of the few known unnatural \
-    structures on the Far, Far Range. Their origin remains a mystery, as do the strange occurences that happen \
-	within.\n\
+t.ruins = Les Ruines Antiques
+m.intro.ruins = Tout ce qui est perdu est toujours retrouvé puis re-perdu encore et encore.
+m.desc.ruins = Cachée derrière une vaste chaîne de montagnes, les Ruines Antiques se dressent comme l'une des rares structures \
+      artificielle présente dans le Pays Fort Lointaine. Leur origine demeure un mystère, tout comme les étranges phénomènes qui s'y produisent.\n\
 	\n\
-	Home to quantum slimes that seem to express many other possible realities of their being, and phase lemon trees \
-	that do not remain in one time or place for very long, the Ancient Ruins defy logic and expectation.\n\
+	Refuge des Slimes Quantique qui semblent intégrer plusieurs réalités possibles de leur être et lieu de pousse des Schrödintronier \
+	Rien ne reste en place très longtemps dans ce lieu. Les Ruines Antiques défient la logique et la physique.\n\
 	\n\
-	Only one thing is certain in the Ancient Ruins: within its deepest chambers lies its greatest secret.
+	Une seule chose est sûre dans les Ruines Antiques: dans ses pièces les plus profondes se trouve son plus grand secret.
 
 t.desert = Le Désert de Verre
 m.intro.desert = TBD
@@ -1107,15 +1106,15 @@ t.phosphor_crystal_largo = Dodu Luciole Cristallin
 t.rad_crystal_largo = Dodu Radiant Cristallin
 t.rock_crystal_largo = Dodu Rocheux Cristallin
 t.tabby_crystal_largo = Dodu Tigré Cristallin
-t.pink_quantum_largo = Pink Quantum Largo
-t.quantum_boom_largo = Quantum Boom Largo
-t.quantum_crystal_largo = Quantum Crystal Largo
-t.quantum_honey_largo = Quantum Honey Largo
-t.quantum_hunter_largo = Quantum Hunter Largo
-t.quantum_phosphor_largo = Quantum Phosphor Largo
-t.quantum_rad_largo = Quantum Rad Largo
-t.quantum_rock_largo = Quantum Rock Largo
-t.quantum_tabby_largo = Quantum Tabby Largo
+t.pink_quantum_largo = Dodu Rose Quantique
+t.quantum_boom_largo = Dodu Boom Quantique
+t.quantum_crystal_largo = Dodu Cristallin Quantique
+t.quantum_honey_largo = Dodu Mielleux Quantique
+t.quantum_hunter_largo = Dodu Chasseur Quantique
+t.quantum_phosphor_largo = Dodu Luciole Quantique
+t.quantum_rad_largo = Dodu Radiant Quantique
+t.quantum_rock_largo = Dodu Rocheux Quantique
+t.quantum_tabby_largo = Dodu Tigré Quantique
 
 ##### Plorts HUD Only #####
 t.gold_plort = Plort Doré
@@ -1129,13 +1128,13 @@ t.honey_plort = Plort Mielleux
 t.hunter_plort = Plort Chasseur
 t.puddle_plort = Plort Flasque
 t.crystal_plort = Plort Cristal
-t.quantum_plort = Quantum Plort
+t.quantum_plort = Plort Quantique
 
 ##### Echoes HUD Only #####
-t.red_echo = Red Echo
-t.green_echo = Green Echo
-t.blue_echo = Blue Echo
-t.gold_echo = Gold Echo
+t.red_echo = Écho Rouge
+t.green_echo = Écho Vert
+t.blue_echo = Écho Bleu
+t.gold_echo = Écho Doré
 
 ##### Gordos HUD Only #####
 t.pink_gordo = Gordo Rose
@@ -1147,8 +1146,8 @@ t.boom_gordo = Gordo Boom
 t.honey_gordo = Gordo Mielleux
 t.hunter_gordo = Gordo Chasseur
 t.puddle_gordo = Gordo Flasque
-t.crystal_gordo = Crystal Gordo
-t.quantum_gordo = Quantum Gordo
+t.crystal_gordo = Gordo Cristallin
+t.quantum_gordo = Gordo Quantique
 
 ##### For personal upgrade panel #####
 m.upgrade.name.personal.liquid_slot = Réservoir d'Eau
@@ -1344,15 +1343,15 @@ m.gadget.desc.crystal_cluster = Vous pourriez penser que c'est un amas ou même 
 m.gadget.name.fireflower_patch = Parterre de Carbofleur
 m.gadget.desc.fireflower_patch = Fleurs provenant de cendres volcaniques qui prennent une teinte flamboyante.
 
-m.gadget.name.sunburst_tree = Sunburst Tree
-m.gadget.desc.sunburst_tree = A tree from the mysterious ruins whose golden leaves shine like the sun.
-m.gadget.name.verdant_grass_patch = Verdant Grass Patch
-m.gadget.desc.verdant_grass_patch = The grass in the ruins is unusually rich, as if the soil contains minerals unlike anywhere on the range.
-m.gadget.name.star_flower_patch = Star Flower Patch
-m.gadget.desc.star_flower_patch = Star flowers are said to have grown from the fragments of a shooting star, but of course, that's impossible.
-m.gadget.name.ruined_pillar = Ruined Pillar
-m.gadget.desc.ruined_pillar = The stone structures of the ruins once supported vast temples, and some say, time itself.
-m.gadget.name.glow_sticks = Glow Sticks
-m.gadget.desc.glow_sticks = Though these luminescent devices are similar to other elements of the ruins, they are not nearly as old.
-m.gadget.name.crystal_sconce = Crystal Sconce
-m.gadget.desc.crystal_sconce = The light from these sconces appears to be endless, perhaps illuminating the past as much as the present.
+m.gadget.name.sunburst_tree = Arbre Solaris
+m.gadget.desc.sunburst_tree = Un arbre des Ruines Antiques dont les feuilles dorées brillent comme le soleil.
+m.gadget.name.verdant_grass_patch = Parterre d'Herbes Verdoyantes
+m.gadget.desc.verdant_grass_patch = L'herbe dans les ruines est inhabituellement dense, comme si le sol contenait des minéraux différents de n'importe où ailleurs.
+m.gadget.name.star_flower_patch = Parterre de Fleur Étoile
+m.gadget.desc.star_flower_patch = On dit que les Fleurs Étoiles ont poussées à partir des fragments d'une étoile filante, mais bien sûr, c'est impossible.
+m.gadget.name.ruined_pillar = Piliers en ruine
+m.gadget.desc.ruined_pillar = Les structures en pierre des ruines ont soutenu de vastes temples et certains disent le temps lui-même.
+m.gadget.name.glow_sticks = Bâton Luminescent
+m.gadget.desc.glow_sticks = Bien que ces dispositifs luminescents soient semblables à d'autres éléments des ruines, ils ne sont pas aussi vieux.
+m.gadget.name.crystal_sconce = Applique à Cristal
+m.gadget.desc.crystal_sconce = La lumière de ces appliques semble infinie, peut-être éclairent t-elles le passé autant que le présent.
