@@ -650,145 +650,145 @@ m.desc.elder_hen = Les Mamipoules ont eu une vie bien remplie. Elles ont rencont
 
 # Ressources communes
 t.primordy_oil_craft = Huile Originelle
-m.intro.primordy_oil_craft = This stuff is pre-pre-prehistoric.
-m.favored_by.primordy_oil_craft = (not slime food)
-m.resource_type.primordy_oil_craft = Crafting Material
-m.how_to_use.primordy_oil_craft = Deposit primordy oil into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.primordy_oil_craft = Primordy oil is a common resource obtained with a pump.\n\
+m.intro.primordy_oil_craft = Ce machin est pré-pré-préhistorique.
+m.favored_by.primordy_oil_craft = (Non comestible)
+m.resource_type.primordy_oil_craft = Matériau d'artisanat
+m.how_to_use.primordy_oil_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
+    de gadgets.
+m.desc.primordy_oil_craft = L'Huile Originelle est une ressource commune obtenue avec une pompe.\n\
     \n\
-    Found deep below the surface of the Far, Far Range, primordy oil is an ancient substance containing a wide array \
-    of organic compounds, making it perfect as a base for many Slime Science creations.
+    Trouvable dans les profondeurs du sol du Pays Fort Lointain, l'huile originelle est une ancienne substance composée \
+    d'une large gamme de résidus organiques. Un composé de base parfait pour la mise en oeuvre des produit issues de la Science Slimique.
 
 t.deep_brine_craft = Saumure des Profondeurs
-m.intro.deep_brine_craft = Salt of the earth kind of stuff.
-m.favored_by.deep_brine_craft = (not slime food)
-m.resource_type.deep_brine_craft = Crafting Material
-m.how_to_use.deep_brine_craft = Deposit deep brine into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.deep_brine_craft = Deep brine is a common resource exclusive to the Dry Reef, obtained with a pump.\n\
+m.intro.deep_brine_craft = Le sel de la terre, si on peut dire.
+m.favored_by.deep_brine_craft = (Non comestible)
+m.resource_type.deep_brine_craft = Matériau d'artisanat
+m.how_to_use.deep_brine_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
+    de gadgets.
+m.desc.deep_brine_craft = La Saumure des Profondeurs est une ressource unique au Récif Aride. Il s'obtient avec un pompe.\n\
     \n\
-    Not safe for drinking, deep brine is thought to be water from the Slime Sea that has been filtered by \
-    the subterranean coral of the Dry Reef. It is significantly denser than fresh water and loaded with salt.
+    A ne surtout pas boire, la Saumure des Profondeurs est le résultat du filtrage de la Mer Slime par le corail souterrain \
+    du Récif Aride. Elle est nettement plus dense que l'eau douce et est surchargée de sel.
 
 t.spiral_steam_craft = Vapeur Spirale
-m.intro.spiral_steam_craft = If you search for it, you'll find something wonderful.
-m.favored_by.spiral_steam_craft = (not slime food)
-m.resource_type.spiral_steam_craft = Crafting Material
-m.how_to_use.spiral_steam_craft = Deposit spiral steam into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.spiral_steam_craft = Spiral steam is an uncommon resource obtained with a pump.\n\
+m.intro.spiral_steam_craft = Si vous la recherchez, vous trouverez quelque chose de merveilleux.
+m.favored_by.spiral_steam_craft = (Non comestible)
+m.resource_type.spiral_steam_craft = Matériau d'artisanat
+m.how_to_use.spiral_steam_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
+    de gadgets.
+m.desc.spiral_steam_craft = La Vapeur Spirale est une ressource rare obtenue avec une pompe.\n\
     \n\
-    Found in highly pressurized vacuums of rock below the surface, spiral steam exhibits a curious behavior \
-    when released into the atmosphere, swirling into a series of dancing spirals before dissipating. It is valued \
-    for the countless micro-particles found within the steam itself. 
+    Trouvable dans les roches hautement pressurisées dans grandes profondeurs, la Vapeur Spirale décrit de curieuses formes \
+    lorsqu'elle est relâché dans l'atmosphère, formant des tourbillons dansants avant de disparaitre. Elles est précieuse \
+    pour les micro-particules qui composent cette vapeur.
 
 t.lava_dust_craft = Poussière de Lave
-m.intro.lava_dust_craft = A survey on the state of this matter answered 'undecided.'
-m.favored_by.lava_dust_craft = (not slime food)
-m.resource_type.lava_dust_craft = Crafting Material
-m.how_to_use.lava_dust_craft = Deposit lava dust into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.lava_dust_craft = Lava dust is a rare resource obtained with a pump.\n\
+m.intro.lava_dust_craft = Liquide ou solide ? On vous laisse décider.
+m.favored_by.lava_dust_craft = (Non comestible)
+m.resource_type.lava_dust_craft = Matériau d'artisanat
+m.how_to_use.lava_dust_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
+    de gadgets.
+m.desc.lava_dust_craft = La Poussière de Lave est une ressource rare obtenue avec une pompe.\n\
     \n\
-    Neither a solid or a liquid, lava dust seems to be something in between, having the characteristics of both. \
-    It is believed to be a mixture of magma and slime, though this has never been proven. And despite its name, lava dust \
-    is only warm to the touch.
+    Ni solide, ni liquide, la Poussière de Lave semble être un entre-deux, possédant les caractéristiques des deux états. \
+    On pense qu'il s'agit d'une émulsion de magna et de slime, mais rien ne le prouve. Malgré son nom, la Poussière de Lave \
+    n'est chaude qu'au touché.
 
 t.buzz_wax_craft = Cire Bourdonnante
-m.intro.buzz_wax_craft = Can be used to make a great scented candle if you enjoy the smell of bee abdominal glands.
-m.favored_by.buzz_wax_craft = (not slime food)
-m.resource_type.buzz_wax_craft = Crafting Material
-m.how_to_use.buzz_wax_craft = Deposit buzz wax into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.buzz_wax_craft = Buzz wax is a common resource obtained with an apiary.\n\
+m.intro.buzz_wax_craft = Peut servir pour la confection de bougies parfumées si vous aimez l'odeur des glandes d'abeilles.
+m.favored_by.buzz_wax_craft = (Non comestible)
+m.resource_type.buzz_wax_craft = Matériau d'artisanat
+m.how_to_use.buzz_wax_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
+    de gadgets.
+m.desc.buzz_wax_craft = La Cire Bourdonnante est une ressource commune obtenue avec un rucher.\n\
     \n\
-    Just like bees on Earth, bees on the Far, Far Range produce a waxy substance that they use to form their hives. \
-    Buzz wax is the still malleable deposits of unused wax found in apiaries. It has many practical uses ranging \
-    from building materials to medicines. You can also chew it as the worst gum in the world.
+    Tout comme les abeilles terrestres, les abeilles du Pays Fort Lointain produisent une substance cireuse pour leur nid. \
+    La Cire Bourdonnante est un dépôt encore malléable de cire inutilisée trouvée dans les ruchers. Il y a beaucoup d'utilisations \
+    possible allant des matériaux de construction aux médicaments. Vous pouvez également la mâcher comme un immonde chewing-gum.
 
 t.wild_honey_craft = Miel Sauvage
-m.intro.wild_honey_craft = Tastes great in tea or in shameful handfuls when no one is looking.
-m.favored_by.wild_honey_craft = (not slime food)
-m.resource_type.wild_honey_craft = Crafting Material
-m.how_to_use.wild_honey_craft = Deposit wild honey into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.wild_honey_craft = Wild honey is a common resource exclusive to the Moss Blanket, obtained with an apiary.\n\
+m.intro.wild_honey_craft = Délicieux avec du thé ou par poignées quand personne ne regarde.
+m.favored_by.wild_honey_craft = (Non comestible)
+m.resource_type.wild_honey_craft = Matériau d'artisanat
+m.how_to_use.wild_honey_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
+    de gadgets.
+m.desc.wild_honey_craft = Le Miel Sauvage est une ressource unique à la Contrée Émeraude. Elle est obtenue avec un rucher.\n\
     \n\
-    All the rich pollens and sweet nectars found in the forests of the Moss Blanket combine in a beautiful alchemy \
-    to form some of the most delicious honey in the galaxy. Wild honey is a staple of rancher life; a dollop of it \
-    makes just about any food taste better, and it provides a natural boost of energy to get through a tough day of \
-    wrangling slimes. 
+    Tout les pollens et les doux nectars trouvable dans les forêts de la Contrée Émeraude combinés dans une magnifique \
+    substance qui en fait le meilleur miel de la galaxie. Le Miel Sauvage est un aliment de base dans la vie d'un rancher; \
+    une simple cuillerée de rends tout aliments meilleurs et fournit un surplus d'énergie bienvenu pour la journée. 
 
+	
 t.hexacomb_craft = Nid d'Abeille
-m.intro.hexacomb_craft = Bee stuff and geometry: the chocolate and peanut butter of nature.
-m.favored_by.hexacomb_craft = (not slime food)
-m.resource_type.hexacomb_craft = Crafting Material
-m.how_to_use.hexacomb_craft = Deposit hexacomb into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.hexacomb_craft = Hexacomb is an uncommon resource obtained with an apiary.\n\
+m.intro.hexacomb_craft = Le mariage du sucré et de la géométrie: Le nutella de la nature.
+m.favored_by.hexacomb_craft = (Non comestible)
+m.resource_type.hexacomb_craft = Matériau d'artisanat
+m.how_to_use.hexacomb_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
+    de gadgets.
+m.desc.hexacomb_craft = Le Nid d'Abeille est un ressource rare obtenue avec un rucher.\n\
     \n\
-    Hexacomb is the result of bees arranging buzz wax into complex patterns to store their honey and eggs. \
-    Why the hexagonal shape? Bees understand that the hexagon is the shape of the future. Bees were Sci-Fi before it was cool.
+    Le Nid d'Abeille est le résultat d'un modelage de leur cire en case complexe pour y mettre leur miel et larves. \
+    Pourquoi des hexagones ? Les abeilles savent que l'hexagone est la forme caractéristique du futur.
 
 t.royal_jelly_craft = Gelée Royale
-m.intro.royal_jelly_craft = The king of all jellies... that is, until you meet the queen.
-m.favored_by.royal_jelly_craft = (not slime food)
-m.resource_type.royal_jelly_craft = Crafting Material
-m.how_to_use.royal_jelly_craft = Deposit royal jelly into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.royal_jelly_craft = Royal jelly is a rare resource obtained with an apiary. \n\
+m.intro.royal_jelly_craft = La reine des gelées... jusqu'au moment de rencontrer la reine.
+m.favored_by.royal_jelly_craft = (Non comestible)
+m.resource_type.royal_jelly_craft = Matériau d'artisanat
+m.how_to_use.royal_jelly_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
+    de gadgets.
+m.desc.royal_jelly_craft = La Gelée Royale est une ressource rare obtenue avec un rucher. \n\
     \n\
-    The royal jelly found in the hives across the Far, Far Range is special as it is unnaturally sweet compared to \
-    other varieties. It's believed that this is a result of bees collecting small deposits of slime from honey slimes \
-    and working it into their royal jelly mixture. If a rancher is lucky enough to acquire some, they'll find its \
-    unique properties are very valuable in certain Slime Science endeavors. 
+    La Gelée Royale se trouve dans les nids d'abeille dans le Pays Fort Lointain. Elle est très incomparablement douce \
+    comparé aux autres gelées. On pense que c'est le résultat de la collecte de résidus de slimes que les abeilles \
+    transformeraient en miel puis en gelée. Si un rancher est assez chanceux pour en trouver assez, il pourra découvrir \
+    ses propriétés uniques inestimable pour la Science Slimique. 
 
 # Ressources spéciales
 t.jellystone_craft = Visquo-roche
-m.intro.jellystone_craft = It's both solid and squishy at the same time.
-m.favored_by.jellystone_craft = (not slime food)
-m.resource_type.jellystone_craft = Crafting Material
-m.how_to_use.jellystone_craft = Deposit jellystone into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.jellystone_craft = Jellystone is a common resource obtained with a drill.\n\
+m.intro.jellystone_craft = Solide et fragile à la fois.
+m.favored_by.jellystone_craft = (Non comestible)
+m.resource_type.jellystone_craft = Matériau d'artisanat
+m.how_to_use.jellystone_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
+    de gadgets.
+m.desc.jellystone_craft = La Visquo-roche est une ressource commune obtenue avec une foreuse.\n\
     \n\
-    Jellystone is a semi-hardened mixture of minerals and slime, possibly resulting from plorts sinking back into \
-    the earth below. Because of its softer texture, it's a favorite stone for sculptors.
+    La Visquo-roche est une mixture non newtonienne de minéraux et de slimes, le possible résultat d'une pression phénoménale \
+    produite sur des plorts sous la couche terrestre. La texture douce de la Visquo-roche, en fait la roche préféré des sculpteurs.
 
 t.indigonium_craft = Indigonium
-m.intro.indigonium_craft = Heavy metal experts often call this hard rock 'deep purple.'
-m.favored_by.indigonium_craft = (not slime food)
-m.resource_type.indigonium_craft = Crafting Material
-m.how_to_use.indigonium_craft = Deposit indigonium into the Lab's Refinery where it can then be used for crafting \
-    Slime Science gadgets.
-m.desc.indigonium_craft = Indigonium is a common resource exclusive to the Indigo Quarry, obtained with a drill.\n\
+m.intro.indigonium_craft = Les experts en métaux lourds l'appellent souvent 'deep purple.'
+m.favored_by.indigonium_craft = (Non comestible)
+m.resource_type.indigonium_craft = Matériau d'artisanat
+m.how_to_use.indigonium_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
+    de gadgets.
+m.desc.indigonium_craft = L'Indigonium est une ressource unique de la Carrière Indigo, il s'obtient avec une foreuse.\n\
     \n\
-    Indigonium is the ore that gives the Indigo Quarry its name. There's a little indigonium found in every inch \
-    of the quarry, but the purest ore is only found deep underground.
+    L'Indigonium est un minerai qui a donné son nom à la Carrière Indigo. De la poussière d'Indigonium recouvre toute la Carrière \
+    mais la roche pure ne peut être extraite que des profondeurs du sol.
 
 t.slime_fossil_craft = Fossislime
-m.intro.slime_fossil_craft = If history could smile, it would look like this.
-m.favored_by.slime_fossil_craft = (not slime food)
-m.resource_type.slime_fossil_craft = Crafting Material
-m.how_to_use.slime_fossil_craft = Deposit slime fossils into the Lab's Refinery where they can then be used for crafting \
-    Slime Science gadgets.
-m.desc.slime_fossil_craft = Slime fossils are an uncommon resource obtained with a drill.\n\
+m.intro.slime_fossil_craft = Si l'histoire pouvait sourire, elle le ferait comme ça.
+m.favored_by.slime_fossil_craft = (Non comestible)
+m.resource_type.slime_fossil_craft = Matériau d'artisanat
+m.how_to_use.slime_fossil_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
+    de gadgets.
+m.desc.slime_fossil_craft = Les Fossislimes sont une ressource rare obtenues avec une foreuse.\n\
     \n\
-    Prized for the ancient minerals they contain, slime fossils are like nature capturing a moment in time. \
-    Specifically, that moment seems to be when a great avalanche or mudslide occurred and a slime was totally cool with it.
+    Prisé pour les minéraux anciens qu'ils contiennent, les Fossislimes sont des morceaux de temps anciens figés pour l'éternité. \
+    Plus précisément, les instants figés semblent être de grandes avalanches ou des coulées de boue que les slimes semblaient adorés.
 
 t.strange_diamond_craft = Bizarro Diamant
-m.intro.strange_diamond_craft = Very strange, but even more valuable.
-m.favored_by.strange_diamond_craft = (not slime food)
-m.resource_type.strange_diamond_craft = Crafting Material
-m.how_to_use.strange_diamond_craft = Deposit strange diamonds into the Lab's Refinery where they can then be used for crafting \
-    Slime Science gadgets.
-m.desc.strange_diamond_craft = Strange diamonds are a rare resource obtained with a drill.\n\
+m.intro.strange_diamond_craft = Très étrange, mais très précieux.
+m.favored_by.strange_diamond_craft = (Non comestible)
+m.resource_type.strange_diamond_craft = Matériau d'artisanat
+m.how_to_use.strange_diamond_craft = A déposer dans la Raffinerie ou il pourra être transformé pour la fabrication \
+    de gadgets.
+m.desc.strange_diamond_craft = Les Bizarro Diamants sont une ressources rares obtenues avec une foreuse.\n\
     \n\
-    Even in the dark, these diamonds seem to shine as if light is passing through them. Strange diamonds are \
-    highly valued for their use in a variety of warp tech processes. Being almost impossibly dense and intricate \
-    in their composition, a strange diamond can reflect light within itself so profoundly that it actually bends time.
+    Même dans le noir, ces diamants semblent briller dès qu'un rayon de lumière passe au-travers. Les Bizarro Diamants sont \
+    très précieux pour leur utilité dans la Technologie de Distorsion. De composition ultra dense, ces diamants peuvent \
+    réfléchir si profondément la lumière à l'intérieur d'eux qu'ils en plient l'espace-temps au sein de leurs noyaux.
 	
 # Technologie du Ranch
 t.corral = Enclos
