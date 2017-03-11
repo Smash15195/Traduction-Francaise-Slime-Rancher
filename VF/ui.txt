@@ -496,7 +496,7 @@ m.loadingtip.20 = Un spécialiste slimique un peu maboul a proposé un jour de c
 
 l.language = Langue:
 l.lang_en = English
-l.lang_de = Deutsch (German)
-l.lang_es = Español (Spanish)
-l.lang_fr = Français (French)
-l.lang_ru = Русский (Russian)
+l.lang_de = Deutsch(German)
+l.lang_es = Español(Spanish)
+l.lang_fr = Français(French)
+l.lang_ru = Русский(Russian)

@@ -43,7 +43,7 @@ m.input.gamepad.shooting.3 = Tirer
 m.inputdesc.gamepad.shooting.3 = tirer
 
 t.food = Nourriture Savoureuse Acquise !
-m.text.food = La nourriture comme les fruits, les légumes ou les poulets sont utile pour nourrir les slimes. Essayez de tirer de la nourriture sur un slime rose; Ils mangent de tout.
+m.text.food = La nourriture comme les fruits, les légumes ou les poulets sont utiles pour nourrir les slimes. Essayez de tirer de la nourriture sur un slime rose; Ils mangent de tout.
 m.input.food.1 = Molette de souris
 m.inputdesc.food.1 = choisir un réservoir
 m.input.food.2 = Maint. clic gauche de souris
@@ -57,7 +57,7 @@ m.inputdesc.gamepad.food.3 = tirer
 
 t.plort = Vous avez obtenu un plort de slime !
 m.text.plort = Quand les slimes mangent, ils produisent des plorts.\n\n\
-  Rendez-vous sur le Terminal de la Bourse Plort pour encaisser vos plorts.
+  Allez à la borne de la Bourse Plort pour encaisser vos plorts.
 
 t.market = La Bourse Plort
 m.text.market = La Bourse Plort vous donne des espèces sonnantes et trébuchantes contre vos plorts durement gagnés.\n\n\
