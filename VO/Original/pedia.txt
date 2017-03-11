@@ -262,7 +262,7 @@ m.plortonomics.boom_slime = Highly volatile boom plorts have all sorts of applic
     technology and other research.’ Imagine that!
 
 t.honey_slime = Honey Slime
-m.intro.honey_slime = 'Nothing is sweeter than (a recently produced plort of) honey.'
+m.intro.honey_slime = Nothing is sweeter than (a recently produced plort of) honey.
 m.diet.honey_slime = Fruit
 m.favorite.honey_slime = Mint Mango
 m.slimeology.honey_slime = Honey slimes are an odd breed of slime composed of a hyper-sweet slime compound. Most slime \
@@ -340,13 +340,20 @@ m.plortonomics.crystal_slime = Though the crystals produced by a crystal slime a
 	these transparent metals as 'so totally cooler than normal, boring metals.'
 
 t.quantum_slime = Quantum Slime
-m.intro.quantum_slime = Its radiance is so lovely it makes you sick.
+m.intro.quantum_slime = A slime that really shows its potential.
 m.diet.quantum_slime = Fruit
-m.favorite.quantum_slime = Leap Lemons
-m.slimeology.quantum_slime = Quantum slimes are neither here nor there. Which pretty much means they're everywhere.
-m.risks.quantum_slime = Quantum superposition.
-m.plortonomics.quantum_slime = Quantum slimes are quantum.
-
+m.favorite.quantum_slime = Phase Lemon
+m.slimeology.quantum_slime = Quantum slimes appear to have resulted from some sort of event that took place in the \
+    Ancient Ruins long ago. At all times, the quantum slime is capable of emitting other possible realities of their \
+	being. Called 'ghosts,' these other realities can come true, with the quantum slime aligning with the reality of \
+	the ghost, effectively teleporting.
+m.risks.quantum_slime = Quantum slimes can be one of the most difficult slimes to manage, given their unique \
+    abilities. A rancher needs to learn to detect when quantum slimes are primed to take over the reality of a ghost \
+	and act quickly, such as feeding them or just splashing them with some fresh water as a temporary measure.
+m.plortonomics.quantum_slime = Quantum plorts are believed by many to hold the secret to infinite resources.  Given \
+    the quantum slime's ability to change reality, it's theorized that unlocking the potential of quantum plorts could \
+	allow for a technology that converges the realities of other entities into our reality and- well, basically we're \
+	talking about cloning stuff. Infinite energy, chickens, whatever. Probably no harmful side effects to this at all.
 
 t.tarr_slime = The Tarr
 m.intro.tarr_slime = Those awful, ravenous, rainbows.
@@ -547,6 +554,19 @@ m.how_to_use.pear = Deposit a prickle pear into a garden's depositor and you'll 
     very own. This tree will last for several harvests.
 m.desc.pear = (Description Forthcoming)
 
+t.lemon = Phase Lemon
+m.intro.lemon = Plucked from a tree rooted in the... past? Future? Or...?
+m.favored_by.lemon = Quantum Slime
+m.resource_type.lemon = Fruit
+m.how_to_use.lemon = Deposit a phase lemon into a garden's depositor and you'll grow a large phase lemon tree of your \
+    very own. This tree will last for several harvests. 
+m.desc.lemon = A phase lemon comes from a different place and time. They are like an echo, reverberating \
+    through the halls of the Ancient Ruins, never staying in the same place for long.\n\
+	\n\
+	In order to harvest phase lemons a rancher must pass fruit matter through the phase lemon tree when lemons are \
+	present. This process somehow removes the fruit from our reality and phases in a lemon in exchange.
+
+
 t.chickadoo = Chickadoo
 m.intro.chickadoo = So little and soft you'd think they're filled with marshmallow.
 m.favored_by.chickadoo = (not slime food)
@@ -654,8 +674,8 @@ m.desc.elder_hen = Elder hens have lived a full-feathered life. They've met the 
 t.primordy_oil_craft = Primordy Oil
 m.intro.primordy_oil_craft = This stuff is pre-pre-prehistoric.
 m.favored_by.primordy_oil_craft = (not slime food)
-m.resource_type.primordy_oil_craft = Crafting Material
-m.how_to_use.primordy_oil_craft = Deposit primordy oil into the Lab's Refinery where it can then be used for crafting \
+m.resource_type.primordy_oil_craft = Slime Science Material
+m.how_to_use.primordy_oil_craft = Deposit primordy oil into the Lab's Refinery where it can then be used for fabricating \
     Slime Science gadgets.
 m.desc.primordy_oil_craft = Primordy oil is a common resource obtained with a pump.\n\
     \n\
@@ -665,8 +685,8 @@ m.desc.primordy_oil_craft = Primordy oil is a common resource obtained with a pu
 t.deep_brine_craft = Deep Brine
 m.intro.deep_brine_craft = Salt of the earth kind of stuff.
 m.favored_by.deep_brine_craft = (not slime food)
-m.resource_type.deep_brine_craft = Crafting Material
-m.how_to_use.deep_brine_craft = Deposit deep brine into the Lab's Refinery where it can then be used for crafting \
+m.resource_type.deep_brine_craft = Slime Science Material
+m.how_to_use.deep_brine_craft = Deposit deep brine into the Lab's Refinery where it can then be used for fabricating \
     Slime Science gadgets.
 m.desc.deep_brine_craft = Deep brine is a common resource exclusive to the Dry Reef, obtained with a pump.\n\
     \n\
@@ -676,8 +696,8 @@ m.desc.deep_brine_craft = Deep brine is a common resource exclusive to the Dry R
 t.spiral_steam_craft = Spiral Steam
 m.intro.spiral_steam_craft = If you search for it, you'll find something wonderful.
 m.favored_by.spiral_steam_craft = (not slime food)
-m.resource_type.spiral_steam_craft = Crafting Material
-m.how_to_use.spiral_steam_craft = Deposit spiral steam into the Lab's Refinery where it can then be used for crafting \
+m.resource_type.spiral_steam_craft = Slime Science Material
+m.how_to_use.spiral_steam_craft = Deposit spiral steam into the Lab's Refinery where it can then be used for fabricating \
     Slime Science gadgets.
 m.desc.spiral_steam_craft = Spiral steam is an uncommon resource obtained with a pump.\n\
     \n\
@@ -688,8 +708,8 @@ m.desc.spiral_steam_craft = Spiral steam is an uncommon resource obtained with a
 t.lava_dust_craft = Lava Dust
 m.intro.lava_dust_craft = A survey on the state of this matter answered 'undecided.'
 m.favored_by.lava_dust_craft = (not slime food)
-m.resource_type.lava_dust_craft = Crafting Material
-m.how_to_use.lava_dust_craft = Deposit lava dust into the Lab's Refinery where it can then be used for crafting \
+m.resource_type.lava_dust_craft = Slime Science Material
+m.how_to_use.lava_dust_craft = Deposit lava dust into the Lab's Refinery where it can then be used for fabricating \
     Slime Science gadgets.
 m.desc.lava_dust_craft = Lava dust is a rare resource obtained with a pump.\n\
     \n\
@@ -700,8 +720,8 @@ m.desc.lava_dust_craft = Lava dust is a rare resource obtained with a pump.\n\
 t.buzz_wax_craft = Buzz Wax
 m.intro.buzz_wax_craft = Can be used to make a great scented candle if you enjoy the smell of bee abdominal glands.
 m.favored_by.buzz_wax_craft = (not slime food)
-m.resource_type.buzz_wax_craft = Crafting Material
-m.how_to_use.buzz_wax_craft = Deposit buzz wax into the Lab's Refinery where it can then be used for crafting \
+m.resource_type.buzz_wax_craft = Slime Science Material
+m.how_to_use.buzz_wax_craft = Deposit buzz wax into the Lab's Refinery where it can then be used for fabricating \
     Slime Science gadgets.
 m.desc.buzz_wax_craft = Buzz wax is a common resource obtained with an apiary.\n\
     \n\
@@ -712,8 +732,8 @@ m.desc.buzz_wax_craft = Buzz wax is a common resource obtained with an apiary.\n
 t.wild_honey_craft = Wild Honey
 m.intro.wild_honey_craft = Tastes great in tea or in shameful handfuls when no one is looking.
 m.favored_by.wild_honey_craft = (not slime food)
-m.resource_type.wild_honey_craft = Crafting Material
-m.how_to_use.wild_honey_craft = Deposit wild honey into the Lab's Refinery where it can then be used for crafting \
+m.resource_type.wild_honey_craft = Slime Science Material
+m.how_to_use.wild_honey_craft = Deposit wild honey into the Lab's Refinery where it can then be used for fabricating \
     Slime Science gadgets.
 m.desc.wild_honey_craft = Wild honey is a common resource exclusive to the Moss Blanket, obtained with an apiary.\n\
     \n\
@@ -725,8 +745,8 @@ m.desc.wild_honey_craft = Wild honey is a common resource exclusive to the Moss 
 t.hexacomb_craft = Hexacomb
 m.intro.hexacomb_craft = Bee stuff and geometry: the chocolate and peanut butter of nature.
 m.favored_by.hexacomb_craft = (not slime food)
-m.resource_type.hexacomb_craft = Crafting Material
-m.how_to_use.hexacomb_craft = Deposit hexacomb into the Lab's Refinery where it can then be used for crafting \
+m.resource_type.hexacomb_craft = Slime Science Material
+m.how_to_use.hexacomb_craft = Deposit hexacomb into the Lab's Refinery where it can then be used for fabricating \
     Slime Science gadgets.
 m.desc.hexacomb_craft = Hexacomb is an uncommon resource obtained with an apiary.\n\
     \n\
@@ -736,8 +756,8 @@ m.desc.hexacomb_craft = Hexacomb is an uncommon resource obtained with an apiary
 t.royal_jelly_craft = Royal Jelly
 m.intro.royal_jelly_craft = The king of all jellies... that is, until you meet the queen.
 m.favored_by.royal_jelly_craft = (not slime food)
-m.resource_type.royal_jelly_craft = Crafting Material
-m.how_to_use.royal_jelly_craft = Deposit royal jelly into the Lab's Refinery where it can then be used for crafting \
+m.resource_type.royal_jelly_craft = Slime Science Material
+m.how_to_use.royal_jelly_craft = Deposit royal jelly into the Lab's Refinery where it can then be used for fabricating \
     Slime Science gadgets.
 m.desc.royal_jelly_craft = Royal jelly is a rare resource obtained with an apiary. \n\
     \n\
@@ -750,8 +770,8 @@ m.desc.royal_jelly_craft = Royal jelly is a rare resource obtained with an apiar
 t.jellystone_craft = Jellystone
 m.intro.jellystone_craft = It's both solid and squishy at the same time.
 m.favored_by.jellystone_craft = (not slime food)
-m.resource_type.jellystone_craft = Crafting Material
-m.how_to_use.jellystone_craft = Deposit jellystone into the Lab's Refinery where it can then be used for crafting \
+m.resource_type.jellystone_craft = Slime Science Material
+m.how_to_use.jellystone_craft = Deposit jellystone into the Lab's Refinery where it can then be used for fabricating \
     Slime Science gadgets.
 m.desc.jellystone_craft = Jellystone is a common resource obtained with a drill.\n\
     \n\
@@ -761,8 +781,8 @@ m.desc.jellystone_craft = Jellystone is a common resource obtained with a drill.
 t.indigonium_craft = Indigonium
 m.intro.indigonium_craft = Heavy metal experts often call this hard rock 'deep purple.'
 m.favored_by.indigonium_craft = (not slime food)
-m.resource_type.indigonium_craft = Crafting Material
-m.how_to_use.indigonium_craft = Deposit indigonium into the Lab's Refinery where it can then be used for crafting \
+m.resource_type.indigonium_craft = Slime Science Material
+m.how_to_use.indigonium_craft = Deposit indigonium into the Lab's Refinery where it can then be used for fabricating \
     Slime Science gadgets.
 m.desc.indigonium_craft = Indigonium is a common resource exclusive to the Indigo Quarry, obtained with a drill.\n\
     \n\
@@ -772,8 +792,8 @@ m.desc.indigonium_craft = Indigonium is a common resource exclusive to the Indig
 t.slime_fossil_craft = Slime Fossil
 m.intro.slime_fossil_craft = If history could smile, it would look like this.
 m.favored_by.slime_fossil_craft = (not slime food)
-m.resource_type.slime_fossil_craft = Crafting Material
-m.how_to_use.slime_fossil_craft = Deposit slime fossils into the Lab's Refinery where they can then be used for crafting \
+m.resource_type.slime_fossil_craft = Slime Science Material
+m.how_to_use.slime_fossil_craft = Deposit slime fossils into the Lab's Refinery where they can then be used for fabricating \
     Slime Science gadgets.
 m.desc.slime_fossil_craft = Slime fossils are an uncommon resource obtained with a drill.\n\
     \n\
@@ -783,14 +803,27 @@ m.desc.slime_fossil_craft = Slime fossils are an uncommon resource obtained with
 t.strange_diamond_craft = Strange Diamond
 m.intro.strange_diamond_craft = Very strange, but even more valuable.
 m.favored_by.strange_diamond_craft = (not slime food)
-m.resource_type.strange_diamond_craft = Crafting Material
-m.how_to_use.strange_diamond_craft = Deposit strange diamonds into the Lab's Refinery where they can then be used for crafting \
+m.resource_type.strange_diamond_craft = Slime Science Material
+m.how_to_use.strange_diamond_craft = Deposit strange diamonds into the Lab's Refinery where they can then be used for fabricating \
     Slime Science gadgets.
 m.desc.strange_diamond_craft = Strange diamonds are a rare resource obtained with a drill.\n\
     \n\
     Even in the dark, these diamonds seem to shine as if light is passing through them. Strange diamonds are \
     highly valued for their use in a variety of warp tech processes. Being almost impossibly dense and intricate \
     in their composition, a strange diamond can reflect light within itself so profoundly that it actually bends time.
+
+t.echoes = Echoes
+m.intro.echoes = A mote of light, or perhaps, a memory?
+m.favored_by.echoes = (not slime food)
+m.resource_type.echoes = Unique
+m.how_to_use.echoes = Echoes can be used as decorations. Simply vac them up and shoot them anywhere you want. They'll \
+	hover in that spot until you vac them up.
+m.desc.echoes = Within the crumbling walls of the Ancient Ruins, small traces of energy can be found, never staying \
+    in one place for very long. Called echoes, they are believed to be a phenomenon resulting from some kind of \
+	ancient event. Since they are harmless, echoes are often collected by ranchers as good luck charms or used as \
+	decorations.\n\
+	\n\
+	Echoes appear regularly in the nooks and crannies of the Ancient Ruins, as well as from extractors.
 
 # Ranch Tech
 t.corral = Corral
@@ -922,6 +955,17 @@ m.desc.moss = The Moss Blanket is an island covered in a thick layer of moss whe
     The slimes primarily found within the Moss Blanket find its jungle-like conditions perfect: tabby and boom slimes \
     hunt their prey through the thickets with abandon, and honey slimes lounge in the flower beds, eating the great \
     abundance of fruit that can be found at every turn.
+
+t.ruins = The Ancient Ruins
+m.intro.ruins = All that is lost is eventually found, and lost once more.
+m.desc.ruins = Hidden behind a vast mountain range, the Ancient Ruins stand as one of the few known unnatural \
+    structures on the Far, Far Range. Their origin remains a mystery, as do the strange occurences that happen \
+	within.\n\
+	\n\
+	Home to quantum slimes that seem to express many other possible realities of their being, and phase lemon trees \
+	that do not remain in one time or place for very long, the Ancient Ruins defy logic and expectation.\n\
+	\n\
+	Only one thing is certain in the Ancient Ruins: within its deepest chambers lies its greatest secret.
 
 t.desert = The Glass Desert
 m.intro.desert = TBD
@@ -1063,6 +1107,15 @@ t.phosphor_crystal_largo = Phosphor Crystal Largo
 t.rad_crystal_largo = Rad Crystal Largo
 t.rock_crystal_largo = Rock Crystal Largo
 t.tabby_crystal_largo = Tabby Crystal Largo
+t.pink_quantum_largo = Pink Quantum Largo
+t.quantum_boom_largo = Quantum Boom Largo
+t.quantum_crystal_largo = Quantum Crystal Largo
+t.quantum_honey_largo = Quantum Honey Largo
+t.quantum_hunter_largo = Quantum Hunter Largo
+t.quantum_phosphor_largo = Quantum Phosphor Largo
+t.quantum_rad_largo = Quantum Rad Largo
+t.quantum_rock_largo = Quantum Rock Largo
+t.quantum_tabby_largo = Quantum Tabby Largo
 
 ##### Plorts HUD Only #####
 t.gold_plort = Gold Plort
@@ -1076,6 +1129,13 @@ t.honey_plort = Honey Plort
 t.hunter_plort = Hunter Plort
 t.puddle_plort = Puddle Plort
 t.crystal_plort = Crystal Plort
+t.quantum_plort = Quantum Plort
+
+##### Echoes HUD Only #####
+t.red_echo = Red Echo
+t.green_echo = Green Echo
+t.blue_echo = Blue Echo
+t.gold_echo = Gold Echo
 
 ##### Gordos HUD Only #####
 t.pink_gordo = Pink Gordo
@@ -1087,6 +1147,8 @@ t.boom_gordo = Boom Gordo
 t.honey_gordo = Honey Gordo
 t.hunter_gordo = Hunter Gordo
 t.puddle_gordo = Puddle Gordo
+t.crystal_gordo = Crystal Gordo
+t.quantum_gordo = Quantum Gordo
 
 ##### For personal upgrade panel #####
 m.upgrade.name.personal.liquid_slot = Water Tank
@@ -1280,3 +1342,16 @@ m.gadget.name.crystal_cluster = Crystal Cluster
 m.gadget.desc.crystal_cluster = You may think this is a clutch or even a collection of crystals. You would be wrong.
 m.gadget.name.fireflower_patch = Fireflower Patch
 m.gadget.desc.fireflower_patch = Flowers grown from volcanic ash that take on a burning hue.
+
+m.gadget.name.sunburst_tree = Sunburst Tree
+m.gadget.desc.sunburst_tree = A tree from the mysterious ruins whose golden leaves shine like the sun.
+m.gadget.name.verdant_grass_patch = Verdant Grass Patch
+m.gadget.desc.verdant_grass_patch = The grass in the ruins is unusually rich, as if the soil contains minerals unlike anywhere on the range.
+m.gadget.name.star_flower_patch = Star Flower Patch
+m.gadget.desc.star_flower_patch = Star flowers are said to have grown from the fragments of a shooting star, but of course, that's impossible.
+m.gadget.name.ruined_pillar = Ruined Pillar
+m.gadget.desc.ruined_pillar = The stone structures of the ruins once supported vast temples, and some say, time itself.
+m.gadget.name.glow_sticks = Glow Sticks
+m.gadget.desc.glow_sticks = Though these luminescent devices are similar to other elements of the ruins, they are not nearly as old.
+m.gadget.name.crystal_sconce = Crystal Sconce
+m.gadget.desc.crystal_sconce = The light from these sconces appears to be endless, perhaps illuminating the past as much as the present.
