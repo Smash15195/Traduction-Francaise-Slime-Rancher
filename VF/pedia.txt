@@ -35,7 +35,7 @@ m.instructions.gamepad.basics = <b>Stick gauche</b>: Se déplacer\n\
 <b>X</b>: Interagir (quand affiché)
 m.desc.basics =
 
-t.vacing = Vacpack : Aspiration et tire
+t.vacing = Vacpack : Aspiration et tir
 m.intro.vacing = Vos premiers pas pour devenir un rancher pro.
 m.instructions.vacing = <b>Clic droit de souris</b> : aspire les slimes et les objets. \n\
 \n\
@@ -78,98 +78,98 @@ La vie remonte automatiquement si vous ne subissez plus de dégâts pendant un c
 L'énergie automatiquement si vous ne subissez plus de dégâts pendant un certain délai de temps.
 m.desc.energy =
 
-t.corralling = Ranching Basics: Corralling Slimes
-m.intro.corralling = You can contain them, but you can't stop the wiggle.
-m.instructions.corralling = Shoot slimes through corral walls to contain them and make them easier \
-to manage. But remember: hungry slimes will always find a way out of their corrals! \n\
+t.corralling = Base de l'élevage: Contenir les Slimes
+m.intro.corralling = Vous pouvez les contenir, mais pas les empêcher de remuer.
+m.instructions.corralling = Tirez les slimes au-travers des barrières des enclos pour les y enfermer et \
+vous faciliter leur gestion. Rappel: les slimes affamés trouveront toujours un moyen de sortir des enclos ! \n\
 \n\
-<b>Mouse Wheel</b>: Select vac tank \n\
-<b>Left Mouse Button</b>: Shoot
-m.instructions.gamepad.corralling = Shoot slimes through corral walls to contain them and make them easier \
-to manage. But remember: hungry slimes will always find a way out of their corrals! \n\
+<b>Molette de souris</b>: Choisir un réservoir \n\
+<b>Clic gauche de souris</b>: Tir
+m.instructions.gamepad.corralling = Tirez les slimes au-travers des barrières des enclos pour les y enfermer et \
+vous faciliter leur gestion. Rappel: les slimes affamés trouveront toujours un moyen de sortir des enclos ! \n\
 \n\
-<b>Left Bumper/Right Bumper</b>: Select vac tank \n\
-<b>Right Trigger</b>: Shoot
+<b>Bumper gauche/Bumper droit</b>: Choisir un réservoir \n\
+<b>Right Trigger</b>: Tir
 m.desc.corralling = 
 
-t.feeding = Ranching Basics: Feeding Slimes
-m.intro.feeding = A well-fed slime makes for a happy (and wealthy) rancher.
-m.instructions.feeding = Each slime has a particular diet. Most prefer either fruit, veggies, or meat. \
-When a slime eats, it produces a plort. \n\
+t.feeding = Base de l'élevage: Nourrir les Slimes
+m.intro.feeding = Un slime bien nourri est un slime heureux (et en bonne santé).
+m.instructions.feeding = Chaque slime a un régime particulier. Certains préfères les fruits, d'autres les légumes ou la viande. \
+Quand un slime mange, il produit un plort. \n\
 \n\
-However, most slimes have a favorite food. When a slime eats its favorite food it produces double plorts! \n\
+Cependant, la plupart des slimes ont un aliment préféré. Quand un slime mange son aliment préféré, il produit deux fois plus de plort ! \n\
 \n\
-<b>Mouse Wheel</b>: Select vac tank \n\
-<b>Left Mouse Button</b>: Shoot
-m.instructions.gamepad.feeding = Each slime has a particular diet. Most prefer either fruit, veggies, or meat. \
-When a slime eats, it produces a plort. \n\
+<b>Molette de souris</b>: Choisir un réservoir \n\
+<b>Clic gauche souris</b>: Tir
+m.instructions.gamepad.feeding = Chaque slime a un régime particulier. Certains préfères les fruits, d'autres les légumes ou la viande. \
+Quand un slime mange, il produit un plort. \n\
 \n\
-However, most slimes have a favorite food. When a slime eats its favorite food it produces double plorts! \n\
+Cependant, la plupart des slimes ont un aliment préféré. Quand un slime mange son aliment préféré, il produit deux fois plus de plort ! \n\
 \n\
-<b>Left Bumper/Right Bumper</b>: Select vac tank \n\
-<b>Right Trigger</b>: Shoot
+<b>Bumper gauche/Bumper droit</b>: Choisir un réservoir \n\
+<b>Gâchette droite</b>: Tir
 m.desc.feeding =
 
-t.plorts = Ranching Basics: Plorts and the Plort Market
-m.intro.plorts = SELL! SELL! SELL!
-m.instructions.plorts = Vac up plorts and shoot them into the Plort Market to get newbucks. \
-Plort values fluctuate daily depending on the types of plorts you've recently sold. \n\
+t.plorts = Base de l'élevage: Plorts et Bourse Plort
+m.intro.plorts = VENDEZ ! VENDEZ ! VENDEZ !
+m.instructions.plorts = Tirer les plorts dans la borne de la Bourse Plort pour obtenir des newbucks. \
+La valeur des plorts fluctue journalièrement et tenant compte des types de plorts que vous avez vendu récemment. \n\
 \n\
-<b>Mouse Wheel</b>: Select vac tank \n\
-<b>Left Mouse Button</b>: Shoot
-m.instructions.gamepad.plorts = Vac up plorts and shoot them into the Plort Market to get newbucks. \
-Plort values fluctuate daily depending on the types of plorts you've recently sold. \n\
+<b>Molette de souris</b>: Choisir un réservoir \n\
+<b>Clic gauche souris</b>: Tir
+m.instructions.gamepad.plorts = Tirer les plorts dans la borne de la Bourse Plort pour obtenir des newbucks. \
+La valeur des plorts fluctue journalièrement et tenant compte des types de plorts que vous avez vendu récemment. \n\
 \n\
-<b>Left Bumper/Right Bumper</b>: Select vac tank \n\
-<b>Right Trigger</b>: Shoot
+<b>Bumper gauche/Bumper droit</b>: Choisir un réservoir \n\
+<b>Gâchette droite</b>: Tirer
 m.desc.plorts =
 
-t.ssbasics = Slime Science: Basics
-m.intro.ssbasics = Definitely weird.
-m.instructions.ssbasics = Slime Science allows you to use plorts and other resources to make \
-fantastic gadgets that you can install all over the world. \n\
+t.ssbasics = Science Slimique: Les Bases
+m.intro.ssbasics = Définitivement bizarre.
+m.instructions.ssbasics = La Science Slimique vous permet d'utiliser les plorts et autres ressources pour \
+fabriquer de fantastiques gadgets que vous pouvez installer un peu partout dans le Pays Fort Lointain. \n\
 \n\
-Slime Science basics: \n\
-- Shoot plorts and resources into the Refinery (cannot be withdrawn once deposited) \n\
-- Buy new blueprints or discover them in treasure pods \n\
-- Use the Fabricator to make new gadgets \n\
-- <b>T</b>: Enter Gadget Mode \n\
-- Place gadgets in Gadget Mode \n\
-- <b>Left Mouse Button/Right Mouse Button</b>: Rotate gadget (when in Gadget Mode) \n\
+Les Bases de la Science Slimique: \n\
+- Tirer des plorts et des ressources dans la Raffinerie (ne peuvent pas récupérer) \n\
+- Acheter des plans ou les trouver dans les Capsules aux Trésors \n\
+- Utiliser le Fabri-Matic pour fabriquer les nouveaux gadgets \n\
+- <b>T</b>: Basculer en Mode Gadget \n\
+- Placer les gadgets en Mode Gadget \n\
+- <b>Clic gauche souris/Clic droit souris</b>: Tourner le gadget (en Mode Gadget) \n\
 \n\
-Visit the Slime Science section of the Slimepedia for more details on Slime Science.
-m.instructions.gamepad.ssbasics = Slime Science allows you to use plorts and other resources to make \
-fantastic gadgets that you can install all over the world. \n\
+Rendez vous dans la section Science Slimique de la Slimepédia pour plus de détail.
+m.instructions.gamepad.ssbasics = La Science Slimique vous permet d'utiliser les plorts et autres ressources pour \
+fabriquer de fantastiques gadgets que vous pouvez installer un peu partout dans le Pays Fort Lointain. \n\
 \n\
-Slime Science basics: \n\
-- Shoot plorts and resources into the Refinery (cannot be withdrawn once deposited) \n\
-- Buy new blueprints or discover them in treasure pods \n\
-- Use the Fabricator to make new gadgets \n\
-- <b>Down</b>: Enter Gadget Mode \n\
-- Place gadgets in Gadget Mode \n\
-- <b>Left Trigger/Right Trigger</b>: Rotate gadget (when in Gadget Mode) \n\
+Les Bases de la Science Slimique: \n\
+- Tirer des plorts et des ressources dans la Raffinerie (ne peuvent pas récupérer) \n\
+- Acheter des plans ou les trouver dans les Capsules aux Trésors \n\
+- Utiliser le Fabri-Matic pour fabriquer les nouveaux gadgets \n\
+- <b>Bas</b>: Basculer en Mode Gadget \n\
+- Placer les gadgets en Mode Gadget \n\
+- <b>Gâchette gauche/Gâchette droite</b>: Tourner le gadget (en Mode Gadget) \n\
 \n\
-Visit the Slime Science section of the Slimepedia for more details on Slime Science.
+Rendez vous dans la section Science Slimique de la Slimepédia pour plus de détail.
 m.desc.ssbasics =
 
-t.gadgetmode = Slime Science: Gadget Mode
-m.intro.gadgetmode = A more scientific perspective.
-m.instructions.gadgetmode = In Gadget Mode you can see all available build sites where \
-you can install gadgets. \n\
+t.gadgetmode = Science Slimique: Mode Gadget
+m.intro.gadgetmode = Une approche plus scientifique.
+m.instructions.gadgetmode = En Mode Gadget vous pouvez voir tout les emplacements de construction \
+ou vous pouvez installer vos gadgets. \n\
 \n\
-<b>T</b>: Toggle Gadget Mode \n\
-<b>Left Mouse Button</b>: Rotate gadget clockwise \n\
-<b>Right Mouse Button</b>: Rotate gadget counter-clockwise \n\
+<b>T</b>: Basculer en Mode Gadget \n\
+<b>Clic gauche souris</b>: Tourner le gadget (droite) \n\
+<b>Clic droit souris</b>: Tourner le gadget (gauche) \n\
 \n\
-NOTE: Your vacpack cannot vac or shoot while in Gadget Mode.
-m.instructions.gamepad.gadgetmode = In Gadget Mode you can see all available build sites where \
-you can install gadgets. \n\
+NOTE: Votre vacpack ne peut pas aspirer ou tirer en Mode Gadget.
+m.instructions.gamepad.gadgetmode = En Mode Gadget vous pouvez voir tout les emplacements de construction \
+ou vous pouvez installer vos gadgets. \n\
 \n\
-<b>Down</b>: Toggle Gadget Mode \n\
-<b>Left Trigger</b>: Rotate gadget clockwise \n\
-<b>Right Trigger</b>: Rotate gadget counter-clockwise \n\
+<b>Bas</b>: Basculer en Mode Gadget \n\
+<b>Gâchette gauche</b>: Tourner le gadget (droite) \n\
+<b>Gâchette droite</b>: Tourner le gadget (gauche) \n\
 \n\
-NOTE: Your vacpack cannot vac or shoot while in Gadget Mode.
+NOTE: Votre vacpack ne peut pas aspirer ou tirer en Mode Gadget.
 m.desc.gadgetmode =
 
 # Slimes
@@ -282,7 +282,7 @@ m.favorite.hunter_slime = Cocoq
 m.slimeology.hunter_slime = Le Slime Chasseur est le cousin sauvage du Slime Tigré. Une créature plus habile que \
     le malhabile tigré, le slime chasseur excelle dans la traque des volailles au Pays Fort Lointain.\n\
     \n\
-    Le camouflage slimoloqiue du Slime Chasseur lui permet de se dissimuler dans la nature et le rends quasiement \
+    Le camouflage slimoloqiue du Slime Chasseur lui permet de se dissimuler dans la nature et le rends quasiment \
     invisible. La seul chose qui les rendent visible et leurs yeux en amandes, qui à l'instar d'un chat, peuvent voir la nuit. \
     L'effet de surprise est souvent décrit par les rancheur sans méfiance par un 'aaaahhhhHHH!'
 m.risks.hunter_slime = Un Slime Chasseur a des sens aiguisés et peut détecter sa proie sur de grandes distances. Cela fait \
@@ -340,17 +340,17 @@ t.quantum_slime = Slime Quantique
 m.intro.quantum_slime = Un slime qui montre tout son potentiel.
 m.diet.quantum_slime = Fruit
 m.favorite.quantum_slime = Schrödintron
-m.slimeology.quantum_slime = Quantum slimes appear to have resulted from some sort of event that took place in the \
-    Ancient Ruins long ago. At all times, the quantum slime is capable of emitting other possible realities of their \
-	being. Called 'ghosts,' these other realities can come true, with the quantum slime aligning with the reality of \
-	the ghost, effectively teleporting.
-m.risks.quantum_slime = Quantum slimes can be one of the most difficult slimes to manage, given their unique \
-    abilities. A rancher needs to learn to detect when quantum slimes are primed to take over the reality of a ghost \
-	and act quickly, such as feeding them or just splashing them with some fresh water as a temporary measure.
-m.plortonomics.quantum_slime = Quantum plorts are believed by many to hold the secret to infinite resources.  Given \
-    the quantum slime's ability to change reality, it's theorized that unlocking the potential of quantum plorts could \
-	allow for a technology that converges the realities of other entities into our reality and- well, basically we're \
-	talking about cloning stuff. Infinite energy, chickens, whatever. Probably no harmful side effects to this at all.
+m.slimeology.quantum_slime = Les Slimes Quantique semble être le résultat d'un événement qui a eu lieu il y a longtemps \
+    des les Ruines Antiques. A chaque instant, les Slimes Quantique sont capable d'être présent au même instant dans différentes \
+	réalités. Appelé 'miroir,' ces autres réalités peuvent devenir celle actuelle quand les Slimes Quantique alignent ces deux réalités \
+	et peuvent ainsi s'y téléporter.
+m.risks.quantum_slime = Les Slimes Quantique sont l'une des espèces les plus difficiles à élever étant donner leur nature unique. \
+    Le rancher doit être capable de détecter quand un Slime Quantique s'aligne sur une autre réalité et au besoin réagir vite avant \
+	qu'il ne traverse le 'miroir'. Pour y arriver, les nourrir ou les arroser avec de l'eau pourra y circonvenir momentanément.
+m.plortonomics.quantum_slime = Les Plorts Quantique sont connus pour enfermer le secret de ressources infinis.  Étant donné \
+    la possibilité des Slimes Quantique d'occuper plusieurs plans de la réalité, un théorie énonce que la libération entière du potentiel \
+	des plorts quantique pourrait permettre la mise au point d'une technologie où convergerait toutes les réalités dans notre réalité et \
+	ouvrirait les portes du clonage. Énergie infinie, poulets par milliers et probablement pas d'effets secondaires nocifs... normalement.
 
 
 t.tarr_slime = Le Tarr
