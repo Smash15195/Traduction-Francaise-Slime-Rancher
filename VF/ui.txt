@@ -469,7 +469,7 @@ l.score = Score:
 
 # Upgrade avail screens
 m.avail_upgrade = Nouvelle Amélioration Disponible !
-m.avail_upgrade_hint = Allez à la Boutique d'Améliorations pour en acheter.
+m.avail_upgrade_hint = Achetable à la Borne d'Améliorations.
 
 # Tips
 m.loadingtip.0 = Un slime bien nourri est un slime heureux.

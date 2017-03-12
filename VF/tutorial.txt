@@ -75,7 +75,7 @@ m.inputdesc.gamepad.market.3 = tirer
 
 t.death = Cendrillon est de retour...
 m.text.death = Lorsque vous êtes KO, vous devez vous reposer 12 heures pour récupérer. Si vous n'êtes pas prudent, vous \
-  pourriez réveiller avec une foule de slimes affamés et turbulents dans votre ranch !
+  pourriez vous réveiller avec une foule de slimes affamés et turbulents dans votre ranch !
 
 t.garden = Quel beau jardin !
 m.text.garden = Tirez un fruit ou un légume dans la borne pour planter le même type de nourriture !

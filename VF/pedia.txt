@@ -854,7 +854,7 @@ m.desc.coop = La plupart des ranchers laissent leurs poulets en liberté sur leu
 	de leur congénères.
 m.upgrade.name.coop.walls = Hautes Barrières
 m.upgrade.desc.coop.walls = Idéale maintenir vos poulets hors d'atteinte des slimes affamés.
-m.upgrade.name.coop.feeder = Herbe Grasse
+m.upgrade.name.coop.feeder = Herbes Grasses
 m.upgrade.desc.coop.feeder = L'Herbe Grasse attire les petits insectes dont raffole les volailles. Avec le ventre plein \
     vos Cocottes produiront des oeufs deux fois plus vite.
 m.upgrade.name.coop.vitamizer = Hormonolampe
@@ -993,7 +993,7 @@ m.desc.the_ranch = Beatrix commence sa nouvelle vie d'humble rancher au milieu d
     Où se trouve Hobson est actuellement un mystère.
 
 t.keys = Clé Slime
-m.intro.keys = Une Vieille clé pour vieux verrous.
+m.intro.keys = Une clé sans âge pour verrous hors d'âge.
 m.desc.keys = Les Clés Slime sont de grandes clés en pierre pouvant ouvrir les Portes Slimes Ancestrales présentent dans le Pays. \
     Ces portes mènent souvent vers de nouvelles zones à explorer très cher ou à créer des raccourcis vers des zones déjà connues.
 
@@ -1208,7 +1208,7 @@ m.gadget.desc.extractor_pump_abyssal = TBD
 m.gadget.name.extractor_apiary_novice = Rucher Basique
 m.gadget.desc.extractor_apiary_novice = Permet d'obtenir des ressources des abeilles sauvages. Dure 1 cycle.
 m.gadget.name.extractor_apiary_advanced = Rucher Avancé
-m.gadget.desc.extractor_apiary_advanced = Un Rucher qui stocke plus de ressources avec une plus grande chance d'obetnir des ressources rares. Dure 3 cycles.
+m.gadget.desc.extractor_apiary_advanced = Un Rucher qui stocke plus de ressources avec une plus grande chance d'obtenir des ressources rares. Dure 3 cycles.
 m.gadget.name.extractor_apiary_master = Rucher Maitre
 m.gadget.desc.extractor_apiary_master = TBD
 m.gadget.name.extractor_apiary_royal = Rucher Royal
