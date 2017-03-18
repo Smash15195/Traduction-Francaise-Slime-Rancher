@@ -129,8 +129,8 @@ m.text.science_sites = Dans le Mode Gadget vous ne pouvez pas tirer ou aspirer, 
   où vous pouvez disposer vos gadgets. \
   Have a look around!
 
-t.science_place_site = Place Site
-m.text.science_place_site = Lorsque vous avez trouvé un emplacement de construction qui vous plaît, approchez-vous en pour ouvrir le menu d'installation des gadget menu. \
+t.science_place_site = Emplacement de COnstruction
+m.text.science_place_site = Lorsque vous avez trouvé un emplacement de construction qui vous plaît, approchez-vous en pour ouvrir le menu d'installation des gadget. \
   Vous aurez simplement à choisir le gadget que vous souhaitez y placer !
 
 t.science_wrapup = Classes de Science : reçu !

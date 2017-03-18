@@ -1250,7 +1250,7 @@ m.gadget.desc.warp_depot_gold = Ensemble de deux gadgets qui vous permettent de 
 
 
 m.gadget.name.med_station = Station Médicale
-m.gadget.desc.med_station = Utilise votre énergie pour restaurer votre santé. Pour des soins express !
+m.gadget.desc.med_station = Utilise votre énergie pour restaurer votre santé. Pour des soins express!
 m.gadget.name.hydro_turret = Hydro Tourelle
 m.gadget.desc.hydro_turret = Un canon défensif qui cible et tire automatiquement sur les Tarr avec de l'eau.
 m.gadget.name.hydro_shower = Hydro Douche
