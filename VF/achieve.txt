@@ -37,7 +37,7 @@ m.reqmt.knockout_morning = Être KO avant 10 heures
 t.away_from_ranch = Quand est-ce qu'on rentre ?
 m.reqmt.away_from_ranch = Revenir au ranch après plus de 24 heures
 
-t.feed_airborne = Catch!
+t.feed_airborne = Hachipé hachopé!
 m.reqmt.feed_airborne = Tirez de la nourriture dans la bouche d'un slime en l'air
 
 t.pink_slimes_food_types = Omnivore

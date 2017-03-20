@@ -1315,11 +1315,11 @@ m.gadget.desc.fashion_pod_remover = Une Capsule de Mode spéciale qui permet de 
 m.gadget.name.sponge_tree = Arbre Spongieux
 m.gadget.desc.sponge_tree = Un arbre Spongieux maigrelet qui peut stocker beaucoup d'eau pendant les mois secs.
 m.gadget.name.sponge_shrub = Arbuste Spongieux
-m.gadget.desc.sponge_shrub = L'écorces de ces arbustes sont parfaits pour se frotter dans le bain.
+m.gadget.desc.sponge_shrub = L'écorce de ces arbustes est parfaite pour se frotter dans le bain.
 m.gadget.name.pink_coral_columns = Colonne de Corail Rose
-m.gadget.desc.pink_coral_columns = Ces colonnes de corail nous rappel comme était le Récif Aride quand il était encore immergé.
+m.gadget.desc.pink_coral_columns = Ces colonnes de corail nous rappel comment était le Récif Aride quand il était encore immergé.
 m.gadget.name.coral_grass_patch = Parterre d'Herbe-corail
-m.gadget.desc.coral_grass_patch = Si douce, cette herbe rose est le parfait endroit pour y poser un nappe.
+m.gadget.desc.coral_grass_patch = Si douce, cette herbe rose est le parfait endroit pour y poser une nappe.
 
 m.gadget.name.mossy_tree = Arbre Émeraude
 m.gadget.desc.mossy_tree = Un arbre profondément vert qui pousse dans dans les fourrés de la Contrée Émeraude.
@@ -1333,7 +1333,7 @@ m.gadget.name.jumbo_shroom = Mega-champi
 m.gadget.desc.jumbo_shroom = Plus qu'un simple champignon, plus gros que les plus gros. Non, non encore plus gros.
 
 m.gadget.name.minty_grass_patch = Parterre d'Herbo-menthe
-m.gadget.desc.minty_grass_patch = Bien que cette herbe ai effectivement un agréable arôme de menthe, son goût est assez amer.
+m.gadget.desc.minty_grass_patch = Bien que cette herbe ait effectivement un agréable arôme de menthe, son goût est assez amer.
 m.gadget.name.blue_coral_columns = Colonnes de Corail Bleu
 m.gadget.desc.blue_coral_columns = Colonnes de corail dont la couleur s'est modifiée pour celle des minéraux de la carrière d'Indigo.
 m.gadget.name.hexium_formation = Formation Hexium
